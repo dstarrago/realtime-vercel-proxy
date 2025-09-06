@@ -1,5 +1,20 @@
-﻿{
+{
   "name": "realtime-vercel-proxy",
-  "private": true,
-  "version": "0.0.1"
+  "version": "1.0.0",
+  "description": "Serverless API for minting **OpenAI Realtime** ephemeral session tokens (for your Expo/Flutter app) and example tool endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dstarrago/realtime-vercel-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dstarrago/realtime-vercel-proxy/issues"
+  },
+  "homepage": "https://github.com/dstarrago/realtime-vercel-proxy#readme"
 }
