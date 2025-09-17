@@ -23,8 +23,7 @@
       "permissions": [
         "RECORD_AUDIO",
         "MODIFY_AUDIO_SETTINGS",
-        "RECORD_AUDIO",
-        "MODIFY_AUDIO_SETTINGS"
+        "WAKE_LOCK"
       ],
       "package": "com.anonymous.realtimevoice"
     },

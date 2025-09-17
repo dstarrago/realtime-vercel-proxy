@@ -1,0 +1,4015 @@
+# Quest_subjects (export)
+
+_Rows: 4000, Columns: 3_
+
+
+## Columns
+
+- **Category**
+- **Region**
+- **Subject**
+
+## Data
+
+| Category | Region | Subject |
+| --- | --- | --- |
+| Famous site | Oceania | Nenumbo |
+| Famous site | Oceania | Teouma |
+| Famous site | Oceania | Nan Madol |
+| Famous site | Oceania | Marae Taputapuātea |
+| Famous site | Oceania | ʻAhu Tongariki |
+| Famous site | Oceania | Haʻamonga ʻa Maui |
+| Famous site | Oceania | Pulemelei Mound |
+| Famous site | Oceania | Marae Mahaiatea |
+| Famous site | Oceania | Tongan Royal Tombs |
+| Famous site | Oceania | Orongo Ceremonial Village |
+| Famous site | Oceania | Rano Raraku Quarry |
+| Famous site | Oceania | Puʻukoholā Heiau |
+| Famous site | Oceania | ʻAhu ʻUmi |
+| Famous site | Oceania | Airai Bai (Men's Meetinghouse of Airai) |
+| Famous site | Oceania | Leluh Ruins |
+| Famous site | Oceania | Sigatoka Burials |
+| Famous site | Oceania | Uluru |
+| Famous site | Oceania | Burrungkuy rock art |
+| Famous site | Oceania | ʻIolani Palace |
+| Famous site | Oceania | Puʻuhonua o Hōnaunau |
+| Famous site | Oceania | Auckland's Sky Tower |
+| Famous site | Oceania | Pearl Harbor |
+| Famous site | Oceania | Mānoa Valley Mission Houses |
+| Famous site | Oceania | Waitangi Treaty Grounds |
+| Famous site | Oceania | Nuku‘alofa Royal Palace |
+| Famous site | Oceania | Tinian atomic bomb assembly pits |
+| Famous site | Oceania | Chuuk Lagoon |
+| Famous site | Oceania | Koror-Babeldaob Bridge |
+| Famous site | Oceania | Kokoda Track |
+| Famous site | Oceania | Sydney Opera House |
+| Famous site | Oceania | Sydney Harbour Bridge |
+| Famous site | Oceania | Uluru–Kata Tjuta National Park |
+| Famous site | Oceania | Great Barrier Reef |
+| Famous site | Oceania | Daintree Rainforest |
+| Famous site | Oceania | Australia's Blue Mountains |
+| Famous site | Oceania | Great Ocean Road and Twelve Apostles |
+| Famous site | Oceania | Kakadu National Park |
+| Famous site | Oceania | Milford Sound |
+| Famous site | Oceania | Mount Cook / Aoraki |
+| Famous site | Oceania | Rotorua Geothermal Area |
+| Famous site | Oceania | Tongariro National Park |
+| Famous site | Oceania | Waitomo Glowworm Caves |
+| Famous site | Oceania | Franz Josef Glacier |
+| Famous site | Oceania | Mount Yasur |
+| Famous site | Oceania | Mount Wilhelm |
+| Famous site | Oceania | Bouma Waterfalls |
+| Famous site | Oceania | Mount Otemanu |
+| Famous site | Oceania | Pitcairn Island Cliffs |
+| Famous site | Oceania | Nan Madol Lagoon |
+| Famous site | Oceania | White Island / Whakaari |
+| Famous site | Africa | Giza Pyramid Complex |
+| Famous site | Africa | Saqqara |
+| Famous site | Africa | Valley of the Kings |
+| Famous site | Africa | Abu Simbel |
+| Famous site | Africa | Meroë |
+| Famous site | Africa | Aksum |
+| Famous site | Africa | Leptis Magna |
+| Famous site | Africa | Kairouan |
+| Famous site | Africa | Tunis Medina |
+| Famous site | Africa | Marrakesh |
+| Famous site | Africa | Kilwa Kisiwani |
+| Famous site | Africa | Lalibela |
+| Famous site | Africa | Chinguetti |
+| Famous site | Africa | Oualata/Walata |
+| Famous site | Africa | Timbuktu |
+| Famous site | Africa | Djenné-Djeno |
+| Famous site | Africa | Koumbi Saleh |
+| Famous site | Africa | Ile-Ife |
+| Famous site | Africa | Old Oyo / Oyo-Ile |
+| Famous site | Africa | Kano City Walls |
+| Famous site | Africa | Igbo-Ukwu |
+| Famous site | Africa | Begho/Bighu |
+| Famous site | Africa | Tripoli |
+| Famous site | Africa | Meknes |
+| Famous site | Africa | Cairo |
+| Famous site | Africa | Massawa |
+| Famous site | Africa | Suakin |
+| Famous site | Africa | Sennar |
+| Famous site | Africa | Harar |
+| Famous site | Africa | Castle of Good Hope |
+| Famous site | Africa | Cape Town |
+| Famous site | Africa | Mombasa |
+| Famous site | Africa | Zanzibar Stone Town |
+| Famous site | Africa | Luanda |
+| Famous site | Africa | Elmina Castle |
+| Famous site | Africa | Zaria/Zazzau |
+| Famous site | Africa | Ngazargamu |
+| Famous site | Africa | Agadez |
+| Famous site | Africa | Benin City |
+| Famous site | Africa | Abomey |
+| Famous site | Africa | Bunce Island |
+| Famous site | Africa | Victoria Falls |
+| Famous site | Africa | Mount Kilimanjaro |
+| Famous site | Africa | Serengeti Plains |
+| Famous site | Africa | Ngorongoro Crater |
+| Famous site | Africa | Okavango Delta |
+| Famous site | Africa | Namib Desert |
+| Famous site | Africa | Drakensberg Mountains |
+| Famous site | Africa | Table Mountain |
+| Famous site | Africa | Sossusvlei |
+| Famous site | Africa | Fish River Canyon |
+| Famous site | Africa | Mount Kenya |
+| Famous site | Africa | Great Rift Valley |
+| Famous site | Africa | Lake Victoria |
+| Famous site | Africa | Lake Tanganyika |
+| Famous site | Africa | Lake Malawi/Nyasa |
+| Famous site | Africa | Avenue of the Baobabs |
+| Famous site | Africa | Simien Mountains |
+| Famous site | Africa | Suez Canal (Egypt, 1869) |
+| Famous site | Africa | Aswan High Dam (Egypt, 1970) |
+| Famous site | Africa | Cairo Tower (1961) |
+| Famous site | Africa | Heliopolis garden city (Cairo, 1905–1911) |
+| Famous site | Africa | Habous Quarter / Nouvelle Médina (Casablanca, 1917–1950s) |
+| Famous site | Africa | Hassan II Mosque (Casablanca, 1993) |
+| Famous site | Africa | Rabat Ville Nouvelle and Avenue Mohammed V (from 1912) |
+| Famous site | Africa | Mausoleum of Mohammed V (Rabat, 1971) |
+| Famous site | Africa | Faidherbe Bridge (Saint-Louis, Senegal, 1897) |
+| Famous site | Africa | Dakar Railway Station (Senegal, 1913) |
+| Famous site | Africa | Grand Mosque of Dakar (1964) |
+| Famous site | Africa | Black Star Square / Independence Arch (Accra, Ghana, 1961) |
+| Famous site | Africa | Kwame Nkrumah Memorial Park (Accra, 1992) |
+| Famous site | Africa | National Theatre (Lagos, Nigeria, 1976) |
+| Famous site | Africa | Basilica of Our Lady of Peace (Yamoussoukro, Côte d’Ivoire, 1990) |
+| Famous site | Africa | St. Paul’s Cathedral (Abidjan, 1989) |
+| Famous site | Africa | Menelik II Palace (Addis Ababa, Ethiopia, 1886–1890) |
+| Famous site | Africa | St. George’s Cathedral (Addis Ababa, 1911) |
+| Famous site | Africa | Holy Trinity Cathedral (Addis Ababa, 1942) |
+| Famous site | Africa | Fiat Tagliero Building (Asmara, Eritrea, 1938) |
+| Famous site | Africa | Mogadishu Cathedral (Somalia, 1928) |
+| Famous site | Africa | KICC – Kenyatta International Convention Centre (Nairobi, Kenya, 1973) |
+| Famous site | Africa | Mombasa Tusks (Kenya, 1952) |
+| Famous site | Africa | Askari Monument (Dar es Salaam, Tanzania, 1927) |
+| Famous site | Africa | House of Wonders / Beit al-Ajaib (Zanzibar City, 1883) |
+| Famous site | Africa | Palais de la Nation (Kinshasa, DRC, 1956) |
+| Famous site | Africa | Basilique Sainte-Anne-du-Congo (Brazzaville, Republic of the Congo, 1949) |
+| Famous site | Africa | Reunification Monument (Yaoundé, Cameroon, 1972) |
+| Famous site | Africa | St. Michael Cathedral (Libreville, Gabon, 1960s) |
+| Famous site | Africa | Notre-Dame Cathedral (Bangui, CAR, 1937) |
+| Famous site | Africa | CFCO Railway Station (Pointe-Noire, Republic of the Congo, 1934) |
+| Famous site | Africa | Union Buildings (Pretoria, South Africa, 1913) |
+| Famous site | Africa | Voortrekker Monument (Pretoria, 1949) |
+| Famous site | Africa | Constitution Hill / Old Fort and Number Four (Johannesburg, 1893–20th c.) |
+| Famous site | Africa | Hector Pieterson Memorial (Soweto, 1992) |
+| Famous site | Africa | Robben Island Maximum Security Prison (near Cape Town, 1961) |
+| Famous site | Africa | District Six Museum (Cape Town, 1994) |
+| Famous site | Africa | Christuskirche (Windhoek, Namibia, 1910) |
+| Famous site | Africa | Tintenpalast (Windhoek, 1913) |
+| Famous site | Africa | Maputo Railway Station (Mozambique, 1916) |
+| Famous site | Africa | Aapravasi Ghat (Port Louis, Mauritius, 1849) |
+| Famous site | Africa | Rova of Antananarivo – Manjakamiadana (Madagascar, 1867–1872) |
+| Famous site | South America, Central America and the Caribbean | Amazon Rainforest (Brazil, Peru, Colombia, etc.) |
+| Famous site | South America, Central America and the Caribbean | Andes Mountains (Venezuela to Chile/Argentina) |
+| Famous site | South America, Central America and the Caribbean | Angel Falls (Venezuela) |
+| Famous site | South America, Central America and the Caribbean | Galápagos Islands (Ecuador) |
+| Famous site | South America, Central America and the Caribbean | Atacama Desert (Chile) |
+| Famous site | South America, Central America and the Caribbean | Uyuni Salt Flats (Bolivia) |
+| Famous site | South America, Central America and the Caribbean | Iguazú Falls (Argentina–Brazil border) |
+| Famous site | South America, Central America and the Caribbean | Pantanal Wetlands (Brazil, Bolivia, Paraguay) |
+| Famous site | South America, Central America and the Caribbean | Gran Sabana (Venezuela) |
+| Famous site | South America, Central America and the Caribbean | Chimborazo Volcano (Ecuador) |
+| Famous site | South America, Central America and the Caribbean | Aconcagua (Argentina) |
+| Famous site | South America, Central America and the Caribbean | Torres del Paine (Chile) |
+| Famous site | South America, Central America and the Caribbean | Patagonia Ice Fields (Chile–Argentina) |
+| Famous site | South America, Central America and the Caribbean | Lake Titicaca (Peru–Bolivia) |
+| Famous site | South America, Central America and the Caribbean | Orinoco River (Venezuela–Colombia) |
+| Famous site | South America, Central America and the Caribbean | Darien Gap (Panama–Colombia) |
+| Famous site | South America, Central America and the Caribbean | Arenal Volcano (Costa Rica) |
+| Famous site | South America, Central America and the Caribbean | Monteverde Cloud Forest (Costa Rica) |
+| Famous site | South America, Central America and the Caribbean | Blue Hole (Belize) |
+| Famous site | South America, Central America and the Caribbean | Pitons (Saint Lucia) |
+| Famous site | South America, Central America and the Caribbean | El Yunque Rainforest (Puerto Rico) |
+| Famous site | South America, Central America and the Caribbean | Soufrière Hills Volcano (Montserrat) |
+| Famous site | South America, Central America and the Caribbean | Paraná River Delta (Argentina) |
+| Famous site | South America, Central America and the Caribbean | Lençóis Maranhenses National Park (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Mount Roraima (Venezuela, Brazil, Guyana) |
+| Famous site | South America, Central America and the Caribbean | Colca Canyon (Peru) |
+| Famous site | South America, Central America and the Caribbean | Perito Moreno Glacier (Argentina) |
+| Famous site | South America, Central America and the Caribbean | Los Roques Archipelago (Venezuela) |
+| Famous site | South America, Central America and the Caribbean | Cotopaxi Volcano (Ecuador) |
+| Famous site | South America, Central America and the Caribbean | Kaieteur Falls (Guyana) |
+| Famous site | South America, Central America and the Caribbean | Marble Caves (Capillas de Mármol, Chile) |
+| Famous site | South America, Central America and the Caribbean | Serra dos Órgãos National Park (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Monte Verde (Chile) |
+| Famous site | South America, Central America and the Caribbean | Pedra Furada (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Cueva de las Manos (Argentina) |
+| Famous site | South America, Central America and the Caribbean | Serra da Capivara (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Lagoa Santa Caves (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Tequendama Falls Rock Shelter (Colombia) |
+| Famous site | South America, Central America and the Caribbean | El Abra (Colombia) |
+| Famous site | South America, Central America and the Caribbean | Pikimachay Cave (Peru) |
+| Famous site | South America, Central America and the Caribbean | Toca da Tira Peia (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Taima-Taima (Venezuela) |
+| Famous site | South America, Central America and the Caribbean | Machu Picchu (Peru) |
+| Famous site | South America, Central America and the Caribbean | Sacsayhuamán (Peru) |
+| Famous site | South America, Central America and the Caribbean | Ollantaytambo (Peru) |
+| Famous site | South America, Central America and the Caribbean | Choquequirao (Peru) |
+| Famous site | South America, Central America and the Caribbean | Coricancha (Peru) |
+| Famous site | South America, Central America and the Caribbean | Nazca Lines (Peru) |
+| Famous site | South America, Central America and the Caribbean | Chan Chan (Peru) |
+| Famous site | South America, Central America and the Caribbean | Caral (Peru) |
+| Famous site | South America, Central America and the Caribbean | Pachacamac (Peru) |
+| Famous site | South America, Central America and the Caribbean | Tiwanaku (Bolivia) |
+| Famous site | South America, Central America and the Caribbean | Pumapunku (Bolivia) |
+| Famous site | South America, Central America and the Caribbean | Samaipata (Bolivia) |
+| Famous site | South America, Central America and the Caribbean | Ciudad Perdida (Colombia) |
+| Famous site | South America, Central America and the Caribbean | San Agustín Archaeological Park (Colombia) |
+| Famous site | South America, Central America and the Caribbean | El Infiernito (Colombia) |
+| Famous site | South America, Central America and the Caribbean | Ingapirca (Ecuador) |
+| Famous site | South America, Central America and the Caribbean | Cochasquí Pyramids (Ecuador) |
+| Famous site | South America, Central America and the Caribbean | Tulipe (Ecuador) |
+| Famous site | South America, Central America and the Caribbean | Cerro Sechín (Peru) |
+| Famous site | South America, Central America and the Caribbean | Kuelap (Peru) |
+| Famous site | South America, Central America and the Caribbean | Tikal (Guatemala) |
+| Famous site | South America, Central America and the Caribbean | Uaxactún (Guatemala) |
+| Famous site | South America, Central America and the Caribbean | Quiriguá (Guatemala) |
+| Famous site | South America, Central America and the Caribbean | Copán (Honduras) |
+| Famous site | South America, Central America and the Caribbean | El Mirador (Guatemala) |
+| Famous site | South America, Central America and the Caribbean | Kaminaljuyú (Guatemala) |
+| Famous site | South America, Central America and the Caribbean | Yaxchilán (Mexico–Guatemala border) |
+| Famous site | South America, Central America and the Caribbean | Calakmul (Mexico, near Guatemala) |
+| Famous site | South America, Central America and the Caribbean | Lamanai (Belize) |
+| Famous site | South America, Central America and the Caribbean | Xunantunich (Belize) |
+| Famous site | South America, Central America and the Caribbean | Caracol (Belize) |
+| Famous site | South America, Central America and the Caribbean | Altun Ha (Belize) |
+| Famous site | South America, Central America and the Caribbean | Cerén (El Salvador) |
+| Famous site | South America, Central America and the Caribbean | Tazumal (El Salvador) |
+| Famous site | South America, Central America and the Caribbean | Joya de Cerén (El Salvador) |
+| Famous site | South America, Central America and the Caribbean | Monte Albán influence sites (regional) |
+| Famous site | South America, Central America and the Caribbean | Caguana Ceremonial Ball Courts (Puerto Rico) |
+| Famous site | South America, Central America and the Caribbean | Tibes Indigenous Ceremonial Center (Puerto Rico) |
+| Famous site | South America, Central America and the Caribbean | Taino Caves of Pomier (Dominican Republic) |
+| Famous site | South America, Central America and the Caribbean | El Chorro de Maíta (Cuba) |
+| Famous site | South America, Central America and the Caribbean |  Bateyes / Taino Ball Courts of Cuba (Baní, Cuba) |
+| Famous site | South America, Central America and the Caribbean | Saint Lucia Petroglyphs |
+| Famous site | South America, Central America and the Caribbean | Taino Rock Art in Jamaica |
+| Famous site | South America, Central America and the Caribbean | Montserrat Petroglyphs |
+| Famous site | South America, Central America and the Caribbean | Obelisco de Buenos Aires (Argentina) |
+| Famous site | South America, Central America and the Caribbean | Palacio Salvo (Montevideo, Uruguay) |
+| Famous site | South America, Central America and the Caribbean | Palacio de las Garzas (Panama City, Panama) |
+| Famous site | South America, Central America and the Caribbean | Teatro Nacional Rubén Darío (Managua, Nicaragua) |
+| Famous site | South America, Central America and the Caribbean | Teatro Nacional de Costa Rica (San José, Costa Rica) |
+| Famous site | South America, Central America and the Caribbean | Palacio de los Capitanes Generales (Havana, Cuba) |
+| Famous site | South America, Central America and the Caribbean | Castillo de la Real Fuerza (Havana, Cuba) |
+| Famous site | South America, Central America and the Caribbean | Fortaleza Ozama (Santo Domingo, Dominican Republic) |
+| Famous site | South America, Central America and the Caribbean | El Capitolio (Havana, Cuba) |
+| Famous site | South America, Central America and the Caribbean | Castillo San Felipe de Barajas (Cartagena, Colombia) |
+| Famous site | South America, Central America and the Caribbean | Palacio de Miraflores (Caracas, Venezuela) |
+| Famous site | South America, Central America and the Caribbean | Palacio de las Academias (Caracas, Venezuela) |
+| Famous site | South America, Central America and the Caribbean | Palacio de la Moneda Chica (La Paz, Bolivia) |
+| Famous site | South America, Central America and the Caribbean | Teatro Municipal de Santiago (Chile) |
+| Famous site | South America, Central America and the Caribbean | Palacio de Justicia (Bogotá, Colombia) |
+| Famous site | South America, Central America and the Caribbean | National Palace (San Salvador, El Salvador) |
+| Famous site | South America, Central America and the Caribbean | Plaza de Armas (Lima, Peru) |
+| Famous site | South America, Central America and the Caribbean | Palacio de la Inquisición (Cartagena, Colombia) |
+| Famous site | South America, Central America and the Caribbean | National Palace (Guatemala City, Guatemala) |
+| Famous site | South America, Central America and the Caribbean | Palacio Itamaraty (Brasília, Brazil) |
+| Famous site | South America, Central America and the Caribbean | Fort San Felipe del Morro (Puerto Rico) |
+| Famous site | South America, Central America and the Caribbean | Castillo de San Marcos (Dominican Republic) |
+| Famous site | South America, Central America and the Caribbean | Fort Zeelandia (Suriname) |
+| Famous site | South America, Central America and the Caribbean | Christ the Redeemer (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Sugarloaf Mountain (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Metropolitan Cathedral of Brasília (Brazil) |
+| Famous site | South America, Central America and the Caribbean | National Congress (Brazil) |
+| Famous site | South America, Central America and the Caribbean | National Museum of Anthropology (Mexico) |
+| Famous site | South America, Central America and the Caribbean | Gold Museum (Bogotá, Colombia) |
+| Famous site | South America, Central America and the Caribbean | Museum of the Nation (Peru) |
+| Famous site | South America, Central America and the Caribbean | Malba – Museum of Latin American Art (Argentina) |
+| Famous site | South America, Central America and the Caribbean | Teatro Colón (Argentina) |
+| Famous site | South America, Central America and the Caribbean | Teatro Amazonas (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Palacio de Bellas Artes (Mexico) |
+| Famous site | South America, Central America and the Caribbean | Casa de la Cultura Ecuatoriana (Ecuador) |
+| Famous site | South America, Central America and the Caribbean | National Pantheon of the Heroes (Paraguay) |
+| Famous site | South America, Central America and the Caribbean | Monument to the Heroes of Independence (Suriname/Guyana region) |
+| Famous site | South America, Central America and the Caribbean | Memorial da América Latina (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Serra da Capivara National Park (Brazil) |
+| Famous site | South America, Central America and the Caribbean | Chavín de Huántar (Peru) |
+| Famous site | South America, Central America and the Caribbean | Sipán Tombs (Peru) |
+| Famous site | South America, Central America and the Caribbean | Huaca del Sol y de la Luna (Peru) |
+| Famous site | South America, Central America and the Caribbean | Huaca Pucllana (Peru) |
+| Famous site | South America, Central America and the Caribbean | Tulum (Mexico, regional) |
+| Famous site | South America, Central America and the Caribbean | Coba (Belize/Guatemala region) |
+| Famous site | South America, Central America and the Caribbean | Bonampak Murals (Guatemala influence) |
+| Famous site | South America, Central America and the Caribbean | Toniná (Guatemala–Mexico) |
+| Famous site | South America, Central America and the Caribbean | Palenque influence (Central America) |
+| Famous site | South America, Central America and the Caribbean | Medellín Comuna 13 Street Art District (Colombia) |
+| Famous site | South America, Central America and the Caribbean | La Boca Neighborhood (Argentina) |
+| Famous site | South America, Central America and the Caribbean | Caminito Street (Argentina) |
+| Famous site | South America, Central America and the Caribbean | Ibirapuera Park (Brazil) |
+| Famous site | South America, Central America and the Caribbean | National Congress of Chile (Valparaíso) |
+| Famous site | South America, Central America and the Caribbean | Palacio de La Moneda (Chile) |
+| Famous site | South America, Central America and the Caribbean | Plaza de Mayo (Argentina) |
+| Famous site | South America, Central America and the Caribbean | Plaza Bolívar (Colombia, Venezuela, Ecuador) |
+| Famous site | South America, Central America and the Caribbean | Angel of Independence (Mexico City) |
+| Famous site | South America, Central America and the Caribbean | Simón Bolívar Memorials (Venezuela, Colombia, Ecuador, Bolivia, Peru) |
+| Famous site | South America, Central America and the Caribbean | Monumental Axis of Brasília (Brazil) |
+| Famous site | South America, Central America and the Caribbean | National Library of Argentina (Buenos Aires) |
+| Famous site | South America, Central America and the Caribbean | National Library of Chile (Santiago) |
+| Famous site | South America, Central America and the Caribbean | Museum of Memory (Chile) |
+| Famous site | South America, Central America and the Caribbean | Museum of Afro-Brazilian History (Salvador de Bahia) |
+| Famous site | South America, Central America and the Caribbean | Tango Districts of Buenos Aires (Argentina) |
+| Famous site | Asia | Mount Everest |
+| Famous site | Asia | Mount Fuji |
+| Famous site | Asia | Mount Kinabalu |
+| Famous site | Asia | Mount Ararat |
+| Famous site | Asia | Mount Damavand |
+| Famous site | Asia | Mount Elbrus |
+| Famous site | Asia | Mount Kailash |
+| Famous site | Asia | Sigiriya Rock |
+| Famous site | Asia | Lake Baikal |
+| Famous site | Asia | Dead Sea |
+| Famous site | Asia | Caspian Sea |
+| Famous site | Asia | Lake Issyk-Kul |
+| Famous site | Asia | Tonlé Sap Lake |
+| Famous site | Asia | Gobi Desert |
+| Famous site | Asia | Tibetan Plateau |
+| Famous site | Asia | Son Doong Cave |
+| Famous site | Asia | Ajanta Caves natural setting |
+| Famous site | Asia | Reed Flute Cave |
+| Famous site | Asia | Jeita Grotto |
+| Famous site | Asia | Batu Caves |
+| Famous site | Asia | Jog Falls |
+| Famous site | Asia | Huangguoshu Waterfall |
+| Famous site | Asia | Ban Gioc–Detian Falls |
+| Famous site | Asia | Dudhsagar Falls |
+| Famous site | Asia | Kuang Si Falls |
+| Famous site | Asia | Sundarbans Mangrove Forest |
+| Famous site | Asia | Jeju Island |
+| Famous site | Asia | Komodo Islands |
+| Famous site | Asia | Raja Ampat Islands |
+| Famous site | Asia | Tiger Leaping Gorge |
+| Famous site | Asia | Hunza Valley |
+| Famous site | Asia | Wadi Rum |
+| Famous site | Asia | Zhangjiajie National Forest Park |
+| Famous site | Asia | Yarlung Tsangpo Grand Canyon |
+| Famous site | Asia | Krakatoa |
+| Famous site | Asia | Taal Volcano |
+| Famous site | Asia | Mohenjo-Daro (Pakistan) |
+| Famous site | Asia | Harappa (Pakistan) |
+| Famous site | Asia | Mehrgarh (Pakistan) |
+| Famous site | Asia | Taxila (Pakistan) |
+| Famous site | Asia | Persepolis (Iran) |
+| Famous site | Asia | Pasargadae (Iran) |
+| Famous site | Asia | Susa (Iran) |
+| Famous site | Asia | Ur (Iraq) |
+| Famous site | Asia | Babylon (Iraq) |
+| Famous site | Asia | Nineveh (Iraq) |
+| Famous site | Asia | Hatra (Iraq) |
+| Famous site | Asia | Palmyra (Syria) |
+| Famous site | Asia | Ugarit (Syria) |
+| Famous site | Asia | Mari (Syria) |
+| Famous site | Asia | Petra (Jordan) |
+| Famous site | Asia | Byblos (Lebanon) |
+| Famous site | Asia | Baalbek (Lebanon) |
+| Famous site | Asia | Jerusalem Old City (Israel/Palestine) |
+| Famous site | Asia | Masada (Israel) |
+| Famous site | Asia | Shibam (Yemen – “Manhattan of the Desert”) |
+| Famous site | Asia | Taj Mahal (India) |
+| Famous site | Asia | Red Fort (India) |
+| Famous site | Asia | Qutub Minar (India) |
+| Famous site | Asia | Humayun’s Tomb (India) |
+| Famous site | Asia | Fatehpur Sikri (India) |
+| Famous site | Asia | Agra Fort (India) |
+| Famous site | Asia | Ajanta Caves (India) |
+| Famous site | Asia | Ellora Caves (India) |
+| Famous site | Asia | Elephanta Caves (India) |
+| Famous site | Asia | Sanchi Stupa (India) |
+| Famous site | Asia | Mahabalipuram (India) |
+| Famous site | Asia | Brihadeeswarar Temple (India) |
+| Famous site | Asia | Konark Sun Temple (India) |
+| Famous site | Asia | Khajuraho Temples (India) |
+| Famous site | Asia | Golden Temple of Amritsar (India) |
+| Famous site | Asia | Mysore Palace (India) |
+| Famous site | Asia | Hampi (India) |
+| Famous site | Asia | Golconda Fort (India) |
+| Famous site | Asia | Nalanda University ruins (India) |
+| Famous site | Asia | Shwedagon Pagoda (Myanmar) |
+| Famous site | Asia | Angkor Wat (Cambodia) |
+| Famous site | Asia | Angkor Thom (Cambodia) |
+| Famous site | Asia | Bayon Temple (Cambodia) |
+| Famous site | Asia | Bagan Temples (Myanmar) |
+| Famous site | Asia | Borobudur (Indonesia) |
+| Famous site | Asia | Prambanan (Indonesia) |
+| Famous site | Asia | Dieng Plateau temples (Indonesia) |
+| Famous site | Asia | Wat Pho (Thailand) |
+| Famous site | Asia | Wat Arun (Thailand) |
+| Famous site | Asia | Grand Palace (Thailand) |
+| Famous site | Asia | Ayutthaya ruins (Thailand) |
+| Famous site | Asia | Sukhothai (Thailand) |
+| Famous site | Asia | Luang Prabang (Laos) |
+| Famous site | Asia | My Son Sanctuary (Vietnam) |
+| Famous site | Asia | Imperial Citadel of Hue (Vietnam) |
+| Famous site | Asia | Thang Long Imperial Citadel (Vietnam) |
+| Famous site | Asia | Hoi An Ancient Town (Vietnam) |
+| Famous site | Asia | Banaue Rice Terraces (Philippines) |
+| Famous site | Asia | Intramuros (Philippines) |
+| Famous site | Asia | San Agustin Church (Philippines) |
+| Famous site | Asia | Great Wall of China |
+| Famous site | Asia | Forbidden City (Beijing) |
+| Famous site | Asia | Summer Palace (Beijing) |
+| Famous site | Asia | Temple of Heaven (Beijing) |
+| Famous site | Asia | Ming Tombs (China) |
+| Famous site | Asia | Terracotta Army at Xi’an |
+| Famous site | Asia | Mogao Caves (Dunhuang) |
+| Famous site | Asia | Longmen Grottoes |
+| Famous site | Asia | Yungang Grottoes |
+| Famous site | Asia | Mount Tai |
+| Famous site | Asia | Leshan Giant Buddha |
+| Famous site | Asia | Dazu Rock Carvings |
+| Famous site | Asia | Potala Palace (Lhasa, Tibet) |
+| Famous site | Asia | Jokhang Temple (Tibet) |
+| Famous site | Asia | Labrang Monastery (Tibet) |
+| Famous site | Asia | Kaifeng Iron Pagoda |
+| Famous site | Asia | Suzhou Classical Gardens |
+| Famous site | Asia | Pingyao Ancient City |
+| Famous site | Asia | Lijiang Old Town |
+| Famous site | Asia | Kyoto Historic Temples (Japan) |
+| Famous site | Asia | Nara Historic Monuments (Japan) |
+| Famous site | Asia | Himeji Castle (Japan) |
+| Famous site | Asia | Osaka Castle (Japan) |
+| Famous site | Asia | Tokyo Imperial Palace (Japan) |
+| Famous site | Asia | Hiroshima Peace Memorial (Genbaku Dome) |
+| Famous site | Asia | Itsukushima Shrine (Japan) |
+| Famous site | Asia | Nikko Shrines and Temples (Japan) |
+| Famous site | Asia | Mount Koya Monasteries (Japan) |
+| Famous site | Asia | Okinawa Shuri Castle (Japan) |
+| Famous site | Asia | Bulguksa Temple (South Korea) |
+| Famous site | Asia | Seokguram Grotto (South Korea) |
+| Famous site | Asia | Changdeokgung Palace (South Korea) |
+| Famous site | Asia | Gyeongbokgung Palace (South Korea) |
+| Famous site | Asia | Hwaseong Fortress (South Korea) |
+| Famous site | Asia | Hahoe Folk Village (South Korea) |
+| Famous site | Asia | Jongmyo Shrine (South Korea) |
+| Famous site | Asia | Tripitaka Koreana (Haeinsa Temple) |
+| Famous site | Asia | Dolmens of Korea |
+| Famous site | Asia | Samarkand (Uzbekistan) |
+| Famous site | Asia | Registan Square (Samarkand) |
+| Famous site | Asia | Bukhara (Uzbekistan) |
+| Famous site | Asia | Khiva (Uzbekistan) |
+| Famous site | Asia | Merv (Turkmenistan) |
+| Famous site | Asia | Gonur Depe (Turkmenistan) |
+| Famous site | Asia | Tash Rabat Caravanserai (Kyrgyzstan) |
+| Famous site | Asia | Osh Bazaar (Kyrgyzstan) |
+| Famous site | Asia | Astana-Baiterek Tower (Kazakhstan, modern symbol) |
+| Famous site | Asia | Mausoleum of Khoja Ahmed Yasawi (Kazakhstan) |
+| Famous site | Asia | Almaty Ascension Cathedral (Kazakhstan) |
+| Famous site | Asia | Derbent Fortress (Russia – Caspian Gate) |
+| Famous site | Asia | Etchmiadzin Cathedral (Armenia) |
+| Famous site | Asia | Ani Ruins (Turkey/Armenia border) |
+| Famous site | Asia | Zoroastrian Towers of Silence (Iran) |
+| Famous site | Asia | Zoroastrian Fire Temples (Iran) |
+| Famous site | Asia | Bam Citadel (Iran) |
+| Famous site | Asia | Yazd Old Town (Iran) |
+| Famous site | Asia | Isfahan Imam Square (Iran) |
+| Famous site | Asia | Dome of the Rock (Jerusalem) |
+| Famous site | Asia | Al-Aqsa Mosque (Jerusalem) |
+| Famous site | Asia | Church of the Holy Sepulchre (Jerusalem) |
+| Famous site | Asia | Damascus Umayyad Mosque (Syria) |
+| Famous site | Asia | Aleppo Citadel (Syria) |
+| Famous site | Asia | Krak des Chevaliers (Syria) |
+| Famous site | Asia | Great Mosque of Samarra (Iraq) |
+| Famous site | Asia | Imam Ali Shrine (Najaf, Iraq) |
+| Famous site | Asia | Al-Askari Mosque (Samarra, Iraq) |
+| Famous site | Asia | Erbil Citadel (Iraq) |
+| Famous site | Asia | Hagia Sophia (Turkey, though transcontinental) |
+| Famous site | Asia | Topkapi Palace (Turkey) |
+| Famous site | Asia | Blue Mosque (Istanbul, Turkey) |
+| Famous site | Asia | Cappadocia Cave Dwellings (Turkey) |
+| Famous site | Asia | Mount Nemrut (Turkey) |
+| Famous site | Asia | Göbekli Tepe (Turkey – oldest known temple complex) |
+| Famous site | Asia | Mecca Kaaba & Masjid al-Haram (Saudi Arabia) |
+| Famous site | Asia | Medina Al-Masjid an-Nabawi (Saudi Arabia) |
+| Famous site | Asia | Diriyah (Saudi Arabia) |
+| Famous site | Asia | Al-Ula & Hegra (Saudi Arabia) |
+| Famous site | Asia | Hiroshima Peace Park (Japan) |
+| Famous site | Asia | Tokyo Tower (Japan) |
+| Famous site | Asia | Taipei 101 (Taiwan) |
+| Famous site | Asia | Marina Bay Sands (Singapore) |
+| Famous site | Asia | Merlion Park (Singapore) |
+| Famous site | Asia | Petronas Towers (Malaysia) |
+| Famous site | Asia | Independence Palace (Vietnam) |
+| Famous site | Asia | Ho Chi Minh Mausoleum (Vietnam) |
+| Famous site | Asia | Lotus Temple (India) |
+| Famous site | Asia | Akshardham Temple (Delhi, India) |
+| Famous site | Asia | Rashtrapati Bhavan (India) |
+| Famous site | Asia | India Gate (Delhi) |
+| Famous site | Asia | Victoria Memorial (Kolkata, India) |
+| Famous site | Asia | Gateway of India (Mumbai) |
+| Famous site | Asia | Charminar (Hyderabad, India) |
+| Famous site | Asia | Jantar Mantar (Jaipur, India) |
+| Famous site | Asia | Spring Temple Buddha (China) |
+| Famous site | Asia | Giant Buddha of Leshan (China) |
+| Famous site | Asia | Oriental Pearl Tower (Shanghai) |
+| Famous site | Asia | Tiananmen Square (Beijing) |
+| Famous site | Asia | National Chiang Kai-shek Memorial Hall (Taiwan) |
+| Famous site | Asia | Sheikh Zayed Grand Mosque (UAE) |
+| Famous site | Asia | Burj Khalifa (Dubai, UAE) |
+| Famous site | Asia | Palm Jumeirah (Dubai, UAE) |
+| Famous site | Asia | Museum of Islamic Art (Qatar) |
+| Famous site | Asia | Qatar National Museum (Qatar) |
+| Famous site | Asia | Doha Souq Waqif (Qatar) |
+| Famous site | North America excluding the Caribbean | Grand Canyon (Arizona, USA) |
+| Famous site | North America excluding the Caribbean | Niagara Falls (Ontario, Canada / New York, USA) |
+| Famous site | North America excluding the Caribbean | Yellowstone National Park – Old Faithful Geyser (Wyoming, USA) |
+| Famous site | North America excluding the Caribbean | Yosemite Valley & El Capitan (California, USA) |
+| Famous site | North America excluding the Caribbean | Mount Denali (Alaska, USA) |
+| Famous site | North America excluding the Caribbean | Bryce Canyon (Utah, USA) |
+| Famous site | North America excluding the Caribbean | Antelope Canyon (Arizona, USA) |
+| Famous site | North America excluding the Caribbean | Monument Valley (Arizona/Utah, USA) |
+| Famous site | North America excluding the Caribbean | Great Smoky Mountains (Tennessee/North Carolina, USA) |
+| Famous site | North America excluding the Caribbean | Everglades (Florida, USA) |
+| Famous site | North America excluding the Caribbean | Carlsbad Caverns (New Mexico, USA) |
+| Famous site | North America excluding the Caribbean | Crater Lake (Oregon, USA) |
+| Famous site | North America excluding the Caribbean | Redwood National and State Parks (California, USA) |
+| Famous site | North America excluding the Caribbean | Death Valley (California/Nevada, USA) |
+| Famous site | North America excluding the Caribbean | Rocky Mountains (Canada & USA) |
+| Famous site | North America excluding the Caribbean | Banff National Park – Lake Louise (Alberta, Canada) |
+| Famous site | North America excluding the Caribbean | Jasper National Park – Athabasca Glacier (Alberta, Canada) |
+| Famous site | North America excluding the Caribbean | Moraine Lake (Alberta, Canada) |
+| Famous site | North America excluding the Caribbean | Gros Morne National Park (Newfoundland, Canada) |
+| Famous site | North America excluding the Caribbean | Bay of Fundy (New Brunswick/Nova Scotia, Canada) |
+| Famous site | North America excluding the Caribbean | Nahanni National Park (Northwest Territories, Canada) |
+| Famous site | North America excluding the Caribbean | Mount Logan (Yukon, Canada) |
+| Famous site | North America excluding the Caribbean | Columbia Icefield (Alberta/British Columbia, Canada) |
+| Famous site | North America excluding the Caribbean | Yosemite Falls (California, USA) |
+| Famous site | North America excluding the Caribbean | Black Hills (South Dakota, USA) |
+| Famous site | North America excluding the Caribbean | Arches National Park (Utah, USA) |
+| Famous site | North America excluding the Caribbean | Zion Canyon (Utah, USA) |
+| Famous site | North America excluding the Caribbean | Glacier Bay (Alaska, USA) |
+| Famous site | North America excluding the Caribbean | Kenai Fjords (Alaska, USA) |
+| Famous site | North America excluding the Caribbean | Hubbard Glacier (Alaska, USA) |
+| Famous site | North America excluding the Caribbean | Copper Canyon (Chihuahua, Mexico) |
+| Famous site | North America excluding the Caribbean | Pico de Orizaba (Mexico) |
+| Famous site | North America excluding the Caribbean | Popocatépetl Volcano (Mexico) |
+| Famous site | North America excluding the Caribbean | Cenotes of the Yucatán Peninsula (Mexico) |
+| Famous site | North America excluding the Caribbean | Sumidero Canyon (Chiapas, Mexico) |
+| Famous site | North America excluding the Caribbean | Monarch Butterfly Biosphere Reserve (Michoacán, Mexico) |
+| Famous site | North America excluding the Caribbean | Barranca del Cobre (Mexico) |
+| Famous site | North America excluding the Caribbean | Sierra Madre Mountains (Mexico) |
+| Famous site | North America excluding the Caribbean | Sea of Cortez (Baja California, Mexico) |
+| Famous site | North America excluding the Caribbean | El Arco de Cabo San Lucas (Mexico) |
+| Famous site | North America excluding the Caribbean | Cahokia Mounds (Illinois, USA) |
+| Famous site | North America excluding the Caribbean | Poverty Point (Louisiana, USA) |
+| Famous site | North America excluding the Caribbean | Serpent Mound (Ohio, USA) |
+| Famous site | North America excluding the Caribbean | Chaco Canyon (New Mexico, USA) |
+| Famous site | North America excluding the Caribbean | Mesa Verde (Colorado, USA) |
+| Famous site | North America excluding the Caribbean | Taos Pueblo (New Mexico, USA) |
+| Famous site | North America excluding the Caribbean | Bandelier National Monument (New Mexico, USA) |
+| Famous site | North America excluding the Caribbean | Montezuma Castle (Arizona, USA) |
+| Famous site | North America excluding the Caribbean | Walnut Canyon (Arizona, USA) |
+| Famous site | North America excluding the Caribbean | Hovenweep (Colorado/Utah, USA) |
+| Famous site | North America excluding the Caribbean | Gila Cliff Dwellings (New Mexico, USA) |
+| Famous site | North America excluding the Caribbean | Moundville Archaeological Site (Alabama, USA) |
+| Famous site | North America excluding the Caribbean | Etowah Indian Mounds (Georgia, USA) |
+| Famous site | North America excluding the Caribbean | Spiro Mounds (Oklahoma, USA) |
+| Famous site | North America excluding the Caribbean | Ocmulgee Mounds (Georgia, USA) |
+| Famous site | North America excluding the Caribbean | Hopewell Culture Earthworks (Ohio, USA) |
+| Famous site | North America excluding the Caribbean | Newark Earthworks (Ohio, USA) |
+| Famous site | North America excluding the Caribbean | Effigy Mounds (Iowa, USA) |
+| Famous site | North America excluding the Caribbean | Fort Ancient (Ohio, USA) |
+| Famous site | North America excluding the Caribbean | Great Serpent Effigy (Ontario, Canada) |
+| Famous site | North America excluding the Caribbean | Head-Smashed-In Buffalo Jump (Alberta, Canada) |
+| Famous site | North America excluding the Caribbean | Writing-on-Stone (Alberta, Canada) |
+| Famous site | North America excluding the Caribbean | Kejimkujik Petroglyphs (Nova Scotia, Canada) |
+| Famous site | North America excluding the Caribbean | Petroglyphs Provincial Park (Ontario, Canada) |
+| Famous site | North America excluding the Caribbean | Ozette Site (Washington, USA) |
+| Famous site | North America excluding the Caribbean | Keet Seel (Arizona, USA) |
+| Famous site | North America excluding the Caribbean | Canyon de Chelly (Arizona, USA) |
+| Famous site | North America excluding the Caribbean | Casa Grande Ruins (Arizona, USA) |
+| Famous site | North America excluding the Caribbean | Paquimé (Casas Grandes, Chihuahua, Mexico) |
+| Famous site | North America excluding the Caribbean | Teotihuacan (Mexico) |
+| Famous site | North America excluding the Caribbean | Tula (Mexico) |
+| Famous site | North America excluding the Caribbean | Monte Albán (Oaxaca, Mexico) |
+| Famous site | North America excluding the Caribbean | Mitla (Oaxaca, Mexico) |
+| Famous site | North America excluding the Caribbean | Palenque (Chiapas, Mexico) |
+| Famous site | North America excluding the Caribbean | Yaxchilán (Chiapas, Mexico) |
+| Famous site | North America excluding the Caribbean | Bonampak (Chiapas, Mexico) |
+| Famous site | North America excluding the Caribbean | Calakmul (Campeche, Mexico) |
+| Famous site | North America excluding the Caribbean | Edzná (Campeche, Mexico) |
+| Famous site | North America excluding the Caribbean | Uxmal (Yucatán, Mexico) |
+| Famous site | North America excluding the Caribbean | Kabah (Yucatán, Mexico) |
+| Famous site | North America excluding the Caribbean | Sayil (Yucatán, Mexico) |
+| Famous site | North America excluding the Caribbean | Labná (Yucatán, Mexico) |
+| Famous site | North America excluding the Caribbean | Chichen Itza (Yucatán, Mexico) |
+| Famous site | North America excluding the Caribbean | Ek’ Balam (Yucatán, Mexico) |
+| Famous site | North America excluding the Caribbean | Tulum (Quintana Roo, Mexico) |
+| Famous site | North America excluding the Caribbean | Cobá (Quintana Roo, Mexico) |
+| Famous site | North America excluding the Caribbean | Dzibilchaltún (Yucatán, Mexico) |
+| Famous site | North America excluding the Caribbean | Xochicalco (Morelos, Mexico) |
+| Famous site | North America excluding the Caribbean | Cholula (Puebla, Mexico) |
+| Famous site | North America excluding the Caribbean | El Tajín (Veracruz, Mexico) |
+| Famous site | North America excluding the Caribbean | Cempoala (Veracruz, Mexico) |
+| Famous site | North America excluding the Caribbean | La Venta (Tabasco, Mexico) |
+| Famous site | North America excluding the Caribbean | Tres Zapotes (Veracruz, Mexico) |
+| Famous site | North America excluding the Caribbean | San Lorenzo (Veracruz, Mexico) |
+| Famous site | North America excluding the Caribbean | Izapa (Chiapas, Mexico) |
+| Famous site | North America excluding the Caribbean | Templo Mayor (Mexico City, Mexico) |
+| Famous site | North America excluding the Caribbean | Cuicuilco (Mexico City, Mexico) |
+| Famous site | North America excluding the Caribbean | Teopanzolco (Morelos, Mexico) |
+| Famous site | North America excluding the Caribbean | Tlatelolco (Mexico City, Mexico) |
+| Famous site | North America excluding the Caribbean | Mission San José (Texas, USA) |
+| Famous site | North America excluding the Caribbean | Mission Concepción (Texas, USA) |
+| Famous site | North America excluding the Caribbean | Mission San Juan Capistrano (California, USA) |
+| Famous site | North America excluding the Caribbean | Mission San Luis Rey (California, USA) |
+| Famous site | North America excluding the Caribbean | Mission Dolores (California, USA) |
+| Famous site | North America excluding the Caribbean | Mission San Antonio de Padua (California, USA) |
+| Famous site | North America excluding the Caribbean | Mission Santa Barbara (California, USA) |
+| Famous site | North America excluding the Caribbean | Mission San Carlos Borromeo (California, USA) |
+| Famous site | North America excluding the Caribbean | Mission San Xavier del Bac (Arizona, USA) |
+| Famous site | North America excluding the Caribbean | Mission San Francisco de la Espada (Texas, USA) |
+| Famous site | North America excluding the Caribbean | Alamo Mission (Texas, USA) |
+| Famous site | North America excluding the Caribbean | Castillo de San Marcos (Florida, USA) |
+| Famous site | North America excluding the Caribbean | Fort Matanzas (Florida, USA) |
+| Famous site | North America excluding the Caribbean | Jamestown Settlement (Virginia, USA) |
+| Famous site | North America excluding the Caribbean | Williamsburg Historic District (Virginia, USA) |
+| Famous site | North America excluding the Caribbean | Monticello (Virginia, USA) |
+| Famous site | North America excluding the Caribbean | Mount Vernon (Virginia, USA) |
+| Famous site | North America excluding the Caribbean | Independence Hall (Philadelphia, USA) |
+| Famous site | North America excluding the Caribbean | Liberty Bell (Philadelphia, USA) |
+| Famous site | North America excluding the Caribbean | Old North Church (Boston, USA) |
+| Famous site | North America excluding the Caribbean | Faneuil Hall (Boston, USA) |
+| Famous site | North America excluding the Caribbean | Paul Revere House (Boston, USA) |
+| Famous site | North America excluding the Caribbean | Plymouth Rock (Massachusetts, USA) |
+| Famous site | North America excluding the Caribbean | Old State House (Boston, USA) |
+| Famous site | North America excluding the Caribbean | Bunker Hill Monument (Boston, USA) |
+| Famous site | North America excluding the Caribbean | Quebec Citadel (Quebec City, Canada) |
+| Famous site | North America excluding the Caribbean | Old Quebec (Quebec, Canada) |
+| Famous site | North America excluding the Caribbean | Château Frontenac (Quebec, Canada) |
+| Famous site | North America excluding the Caribbean | Rideau Canal (Ontario, Canada) |
+| Famous site | North America excluding the Caribbean | Fort Henry (Ontario, Canada) |
+| Famous site | North America excluding the Caribbean | Fortress of Louisbourg (Nova Scotia, Canada) |
+| Famous site | North America excluding the Caribbean | L’Anse aux Meadows (Newfoundland, Canada) |
+| Famous site | North America excluding the Caribbean | St. John’s Signal Hill (Newfoundland, Canada) |
+| Famous site | North America excluding the Caribbean | Old Montreal (Montreal, Canada) |
+| Famous site | North America excluding the Caribbean | Château Ramezay (Montreal, Canada) |
+| Famous site | North America excluding the Caribbean | Saint Joseph’s Oratory (Montreal, Canada) |
+| Famous site | North America excluding the Caribbean | Notre-Dame Basilica (Montreal, Canada) |
+| Famous site | North America excluding the Caribbean | Basilica of Sainte-Anne-de-Beaupré (Quebec, Canada) |
+| Famous site | North America excluding the Caribbean | Mexico City Metropolitan Cathedral (Mexico City) |
+| Famous site | North America excluding the Caribbean | Puebla Cathedral (Puebla, Mexico) |
+| Famous site | North America excluding the Caribbean | Oaxaca Cathedral (Oaxaca, Mexico) |
+| Famous site | North America excluding the Caribbean | Guadalajara Cathedral (Guadalajara, Mexico) |
+| Famous site | North America excluding the Caribbean | Basilica of Guadalupe (Mexico City) |
+| Famous site | North America excluding the Caribbean | San Miguel de Allende (Guanajuato, Mexico) |
+| Famous site | North America excluding the Caribbean | Guanajuato Historic Center (Guanajuato, Mexico) |
+| Famous site | North America excluding the Caribbean | Zacatecas Historic Center (Zacatecas, Mexico) |
+| Famous site | North America excluding the Caribbean | Morelia Historic Center (Michoacán, Mexico) |
+| Famous site | North America excluding the Caribbean | Querétaro Historic Center (Querétaro, Mexico) |
+| Famous site | North America excluding the Caribbean | Tlacotalpan (Veracruz, Mexico) |
+| Famous site | North America excluding the Caribbean | Campeche Historic Center (Campeche, Mexico) |
+| Famous site | North America excluding the Caribbean | Lincoln Memorial (Washington, D.C., USA) |
+| Famous site | North America excluding the Caribbean | Washington Monument (Washington, D.C., USA) |
+| Famous site | North America excluding the Caribbean | Jefferson Memorial (Washington, D.C., USA) |
+| Famous site | North America excluding the Caribbean | US Capitol (Washington, D.C., USA) |
+| Famous site | North America excluding the Caribbean | White House (Washington, D.C., USA) |
+| Famous site | North America excluding the Caribbean | Smithsonian Institution (Washington, D.C., USA) |
+| Famous site | North America excluding the Caribbean | Library of Congress (Washington, D.C., USA) |
+| Famous site | North America excluding the Caribbean | Arlington National Cemetery (Virginia, USA) |
+| Famous site | North America excluding the Caribbean | Statue of Liberty (New York, USA) |
+| Famous site | North America excluding the Caribbean | Ellis Island (New York, USA) |
+| Famous site | North America excluding the Caribbean | Empire State Building (New York, USA) |
+| Famous site | North America excluding the Caribbean | Chrysler Building (New York, USA) |
+| Famous site | North America excluding the Caribbean | Rockefeller Center (New York, USA) |
+| Famous site | North America excluding the Caribbean | United Nations Headquarters (New York, USA) |
+| Famous site | North America excluding the Caribbean | Times Square (New York, USA) |
+| Famous site | North America excluding the Caribbean | Central Park (New York, USA) |
+| Famous site | North America excluding the Caribbean | Brooklyn Bridge (New York, USA) |
+| Famous site | North America excluding the Caribbean | Metropolitan Museum of Art (New York, USA) |
+| Famous site | North America excluding the Caribbean | Museum of Modern Art (New York, USA) |
+| Famous site | North America excluding the Caribbean | Guggenheim Museum (New York, USA) |
+| Famous site | North America excluding the Caribbean | 9/11 Memorial (New York, USA) |
+| Famous site | North America excluding the Caribbean | Golden Gate Bridge (San Francisco, USA) |
+| Famous site | North America excluding the Caribbean | Alcatraz Island (San Francisco, USA) |
+| Famous site | North America excluding the Caribbean | Hollywood Walk of Fame (Los Angeles, USA) |
+| Famous site | North America excluding the Caribbean | Griffith Observatory (Los Angeles, USA) |
+| Famous site | North America excluding the Caribbean | Walt Disney Concert Hall (Los Angeles, USA) |
+| Famous site | North America excluding the Caribbean | Getty Center (Los Angeles, USA) |
+| Famous site | North America excluding the Caribbean | Space Needle (Seattle, USA) |
+| Famous site | North America excluding the Caribbean | Pike Place Market (Seattle, USA) |
+| Famous site | North America excluding the Caribbean | CN Tower (Toronto, Canada) |
+| Famous site | North America excluding the Caribbean | Parliament Hill (Ottawa, Canada) |
+| Famous site | North America excluding the Caribbean | National Gallery of Canada (Ottawa, Canada) |
+| Famous site | North America excluding the Caribbean | Royal Ontario Museum (Toronto, Canada) |
+| Famous site | North America excluding the Caribbean | Art Gallery of Ontario (Toronto, Canada) |
+| Famous site | North America excluding the Caribbean | Vancouver Art Gallery (Vancouver, Canada) |
+| Famous site | North America excluding the Caribbean | Banff Springs Hotel (Alberta, Canada) |
+| Famous site | North America excluding the Caribbean | Hotel de Glace (Quebec, Canada) |
+| Famous site | North America excluding the Caribbean | Palacio de Bellas Artes (Mexico City) |
+| Famous site | North America excluding the Caribbean | Torre Latinoamericana (Mexico City) |
+| Famous site | North America excluding the Caribbean | Monumento a la Revolución (Mexico City) |
+| Famous site | North America excluding the Caribbean | Chapultepec Castle (Mexico City) |
+| Famous site | North America excluding the Caribbean | Angel of Independence (Mexico City) |
+| Famous site | North America excluding the Caribbean | Museo Nacional de Antropología (Mexico City) |
+| Famous site | North America excluding the Caribbean | Frida Kahlo Museum (Mexico City) |
+| Famous site | North America excluding the Caribbean | Diego Rivera Murals at Secretaría de Educación Pública (Mexico City) |
+| Famous site | North America excluding the Caribbean | Palacio Nacional (Mexico City) |
+| Famous site | North America excluding the Caribbean | Estadio Azteca (Mexico City) |
+| Famous site | North America excluding the Caribbean | Basilica de Zapopan (Guadalajara, Mexico) |
+| Famous site | North America excluding the Caribbean | Teatro Degollado (Guadalajara, Mexico) |
+| Famous site | North America excluding the Caribbean | Hospicio Cabañas (Guadalajara, Mexico) |
+| Famous site | North America excluding the Caribbean | Millennium Park (Chicago, USA) |
+| Famous site | North America excluding the Caribbean | Cloud Gate (Chicago, USA) |
+| Famous site | North America excluding the Caribbean | Willis Tower (Chicago, USA) |
+| Famous site | North America excluding the Caribbean | Field Museum (Chicago, USA) |
+| Famous site | North America excluding the Caribbean | Art Institute of Chicago (Chicago, USA) |
+| Famous site | North America excluding the Caribbean | Navy Pier (Chicago, USA) |
+| Famous site | North America excluding the Caribbean | Gateway Arch (St. Louis, USA) |
+| Famous site | North America excluding the Caribbean | French Quarter (New Orleans, USA) |
+| Famous site | North America excluding the Caribbean | Bourbon Street (New Orleans, USA) |
+| Famous site | North America excluding the Caribbean | Preservation Hall (New Orleans, USA) |
+| Famous site | North America excluding the Caribbean | Country Music Hall of Fame (Nashville, USA) |
+| Famous site | North America excluding the Caribbean | Ryman Auditorium (Nashville, USA) |
+| Famous site | North America excluding the Caribbean | Grand Ole Opry (Nashville, USA) |
+| Famous site | North America excluding the Caribbean | Graceland (Memphis, USA) |
+| Famous site | North America excluding the Caribbean | Sun Studio (Memphis, USA) |
+| Famous site | North America excluding the Caribbean | Motown Museum (Detroit, USA) |
+| Famous site | North America excluding the Caribbean | Rock and Roll Hall of Fame (Cleveland, USA) |
+| Famous site | North America excluding the Caribbean | Las Vegas Strip (Las Vegas, USA) |
+| Famous site | North America excluding the Caribbean | Hoover Dam (Nevada/Arizona, USA) |
+| Famous site | North America excluding the Caribbean | Mount Rushmore (South Dakota, USA) |
+| Famous site | North America excluding the Caribbean | Crazy Horse Memorial (South Dakota, USA) |
+| Famous site | North America excluding the Caribbean | Yellowstone Old Faithful Inn (Wyoming, USA) |
+| Famous site | North America excluding the Caribbean | Glacier Park Lodge (Montana, USA) |
+| Famous site | North America excluding the Caribbean | Hearst Castle (California, USA) |
+| Famous site | North America excluding the Caribbean | San Francisco Chinatown (California, USA) |
+| Famous site | North America excluding the Caribbean | Little Tokyo (Los Angeles, USA) |
+| Famous site | North America excluding the Caribbean | Olvera Street (Los Angeles, USA) |
+| Famous site | North America excluding the Caribbean | Balboa Park (San Diego, USA) |
+| Famous site | North America excluding the Caribbean | San Diego Old Town (California, USA) |
+| Famous site | North America excluding the Caribbean | Griffith Park (Los Angeles, USA) |
+| Famous site | North America excluding the Caribbean | Pike National Historic Trail (USA) |
+| Famous site | North America excluding the Caribbean | Calgary Stampede Grounds (Alberta, Canada) |
+| Famous site | North America excluding the Caribbean | Royal Tyrrell Museum (Alberta, Canada) |
+| Famous site | North America excluding the Caribbean | Canadian Museum of History (Gatineau, Canada) |
+| Famous site | North America excluding the Caribbean | Mexican Pavilion at UNAM (Mexico City) |
+| Famous site | North America excluding the Caribbean | Soumaya Museum (Mexico City) |
+| Famous site | North America excluding the Caribbean | Biblioteca Vasconcelos (Mexico City) |
+| Famous site | North America excluding the Caribbean | Estadio Olímpico Universitario (Mexico City) |
+| Famous site | North America excluding the Caribbean | Tijuana Cultural Center (Tijuana, Mexico) |
+| Famous site | North America excluding the Caribbean | Monterrey Macroplaza (Monterrey, Mexico) |
+| Famous site | North America excluding the Caribbean | Museo de Arte Contemporáneo de Monterrey (Mexico) |
+| Famous site | North America excluding the Caribbean | Plaza de las Tres Culturas (Mexico City) |
+| Famous site | North America excluding the Caribbean | Palacio de Minería (Mexico City) |
+| Famous site | North America excluding the Caribbean | Torre Mayor (Mexico City) |
+| Famous site | North America excluding the Caribbean | Monterrey Cathedral (Monterrey, Mexico) |
+| Famous site | North America excluding the Caribbean | Basilica of Durango (Durango, Mexico) |
+| Famous site | North America excluding the Caribbean | Mazatlán Cathedral (Sinaloa, Mexico) |
+| Famous site | North America excluding the Caribbean | Guadalajara Minerva (Guadalajara, Mexico) |
+| Famous site | North America excluding the Caribbean | Estadio Akron (Guadalajara, Mexico) |
+| Famous site | North America excluding the Caribbean | Museo Internacional del Barroco (Puebla, Mexico) |
+| Famous site | North America excluding the Caribbean | Selma’s Edmund Pettus Bridge (Alabama, USA) |
+| Famous site | Europe | Mont Blanc (France/Italy – highest peak in the Alps) |
+| Famous site | Europe | Matterhorn (Switzerland/Italy – iconic pyramid-shaped peak) |
+| Famous site | Europe | Grossglockner (Austria – tallest mountain in Austria) |
+| Famous site | Europe | Mount Etna (Italy – active volcano in Sicily) |
+| Famous site | Europe | Mount Vesuvius (Italy – famous volcano near Naples) |
+| Famous site | Europe | Ben Nevis (Scotland – highest mountain in the UK) |
+| Famous site | Europe | Snowdon / Yr Wyddfa (Wales – highest mountain in Wales) |
+| Famous site | Europe | Mount Olympus (Greece – legendary home of the Greek gods) |
+| Famous site | Europe | Mount Elbrus (Russia – highest peak in Europe, part of the Caucasus) |
+| Famous site | Europe | Dolomites (Italy – dramatic limestone mountain range, UNESCO site) |
+| Famous site | Europe | Lake Geneva (Switzerland/France – one of Europe’s largest lakes) |
+| Famous site | Europe | Lake Bled (Slovenia – picturesque glacial lake with island church) |
+| Famous site | Europe | Lake Como (Italy – deep glacial lake in Lombardy) |
+| Famous site | Europe | Lake Baikal (Russia – world’s deepest freshwater lake, eastern edge of Europe/Asia) |
+| Famous site | Europe | Lake Balaton (Hungary – “Hungarian Sea,” largest lake in Central Europe) |
+| Famous site | Europe | Loch Ness (Scotland – famous for the “monster” legend) |
+| Famous site | Europe | Plitvice Lakes (Croatia – series of turquoise lakes and waterfalls, UNESCO site) |
+| Famous site | Europe | Lake Ohrid (North Macedonia/Albania – one of the oldest lakes in the world) |
+| Famous site | Europe | Rhine Falls (Switzerland – Europe’s largest waterfall by volume) |
+| Famous site | Europe | Gullfoss Waterfall (Iceland – iconic two-tiered waterfall) |
+| Famous site | Europe | Dettifoss (Iceland – Europe’s most powerful waterfall) |
+| Famous site | Europe | Vikos Gorge (Greece – among the world’s deepest gorges) |
+| Famous site | Europe | Tara River Canyon (Montenegro – second deepest canyon in the world) |
+| Famous site | Europe | Krimml Waterfalls (Austria – highest waterfalls in Central Europe) |
+| Famous site | Europe | Skógafoss (Iceland – famous wide waterfall with rainbows) |
+| Famous site | Europe | Postojna Cave (Slovenia – vast karst cave system) |
+| Famous site | Europe | Škocjan Caves (Slovenia – UNESCO-listed underground wonder) |
+| Famous site | Europe | Fingal’s Cave (Scotland – basalt sea cave on Staffa island) |
+| Famous site | Europe | Giant’s Causeway (Northern Ireland – hexagonal basalt columns, UNESCO site) |
+| Famous site | Europe | Triglav National Park & Julian Alps (Slovenia – striking karst landscapes) |
+| Famous site | Europe | Cliffs of Moher (Ireland – dramatic Atlantic cliffs) |
+| Famous site | Europe | White Cliffs of Dover (England – chalk cliffs facing France) |
+| Famous site | Europe | Cabo de São Vicente (Portugal – rugged southwestern tip of Europe) |
+| Famous site | Europe | Faroe Islands (Denmark – dramatic coastal landscapes) |
+| Famous site | Europe | Norwegian Fjords (Norway – Geirangerfjord, Nærøyfjord, UNESCO sites) |
+| Famous site | Europe | Preikestolen / Pulpit Rock (Norway – cliff overlooking Lysefjord) |
+| Famous site | Europe | Lofoten Islands (Norway – jagged peaks and Arctic coastlines) |
+| Famous site | Europe | Black Forest (Germany – dense forested mountains, source of the Danube) |
+| Famous site | Europe | Pyrenees Mountains (Spain/France/Andorra – natural barrier range) |
+| Famous site | Europe | Cappadocia Rock Formations (Turkey – unique volcanic “fairy chimneys”) |
+| Famous site | Europe | Acropolis of Athens (Greece – ancient citadel with Parthenon) |
+| Famous site | Europe | Parthenon (Athens, Greece – iconic temple to Athena) |
+| Famous site | Europe | Temple of Hephaestus (Athens, Greece – well-preserved Greek temple) |
+| Famous site | Europe | Delphi (Greece – ancient sanctuary and oracle site) |
+| Famous site | Europe | Olympia (Greece – birthplace of the Olympic Games) |
+| Famous site | Europe | Epidaurus Theatre (Greece – renowned ancient theater) |
+| Famous site | Europe | Knossos Palace (Crete, Greece – Minoan civilization center) |
+| Famous site | Europe | Vergina (Greece – tombs of Macedonian kings) |
+| Famous site | Europe | Ephesus (Turkey – ancient Greek and Roman city) |
+| Famous site | Europe | Pergamon (Turkey – Hellenistic city with great altar) |
+| Famous site | Europe | Troy (Turkey – legendary site of the Trojan War) |
+| Famous site | Europe | Colosseum (Rome, Italy – amphitheater of the Roman Empire) |
+| Famous site | Europe | Roman Forum (Rome, Italy – political and social center of ancient Rome) |
+| Famous site | Europe | Pantheon (Rome, Italy – temple to all gods, now a church) |
+| Famous site | Europe | Circus Maximus (Rome, Italy – Roman chariot racing stadium) |
+| Famous site | Europe | Baths of Caracalla (Rome, Italy – monumental Roman baths) |
+| Famous site | Europe | Hadrian’s Villa (Tivoli, Italy – emperor’s retreat) |
+| Famous site | Europe | Pompeii (Italy – Roman city destroyed by Vesuvius) |
+| Famous site | Europe | Herculaneum (Italy – preserved Roman city) |
+| Famous site | Europe | Aqueduct of Segovia (Spain – Roman engineering marvel) |
+| Famous site | Europe | Mérida Roman Theatre (Spain – ancient performing arts venue) |
+| Famous site | Europe | Hadrian’s Wall (England – Roman defensive frontier) |
+| Famous site | Europe | Bath (England – Roman baths and Georgian city) |
+| Famous site | Europe | Trier Roman Monuments (Germany – Porta Nigra and other remains) |
+| Famous site | Europe | Diocletian’s Palace (Split, Croatia – imperial Roman residence) |
+| Famous site | Europe | Hagia Sophia (Istanbul, Turkey – Byzantine cathedral, mosque, museum, mosque again) |
+| Famous site | Europe | Basilica of San Vitale (Ravenna, Italy – Byzantine mosaics) |
+| Famous site | Europe | Aachen Cathedral (Germany – Carolingian imperial church) |
+| Famous site | Europe | Durham Cathedral (England – Romanesque masterpiece) |
+| Famous site | Europe | Canterbury Cathedral (England – seat of the Archbishop of Canterbury) |
+| Famous site | Europe | Westminster Abbey (London, England – royal coronation site) |
+| Famous site | Europe | Notre Dame Cathedral (Paris, France – Gothic icon) |
+| Famous site | Europe | Sainte-Chapelle (Paris, France – stained-glass marvel) |
+| Famous site | Europe | Chartres Cathedral (France – Gothic architecture, stained glass) |
+| Famous site | Europe | Reims Cathedral (France – coronation site of French kings) |
+| Famous site | Europe | Mont Saint-Michel (France – abbey on tidal island) |
+| Famous site | Europe | Avignon Papal Palace (France – seat of popes in the 14th century) |
+| Famous site | Europe | Alhambra (Granada, Spain – Moorish palace and fortress) |
+| Famous site | Europe | Mezquita of Córdoba (Spain – Islamic mosque turned cathedral) |
+| Famous site | Europe | Seville Cathedral & Giralda (Spain – Gothic cathedral with minaret bell tower) |
+| Famous site | Europe | Santiago de Compostela Cathedral (Spain – pilgrimage destination) |
+| Famous site | Europe | Burgos Cathedral (Spain – Gothic landmark) |
+| Famous site | Europe | Tower of London (England – fortress, prison, royal palace) |
+| Famous site | Europe | Windsor Castle (England – residence of the monarch) |
+| Famous site | Europe | Edinburgh Castle (Scotland – fortress atop volcanic rock) |
+| Famous site | Europe | Stirling Castle (Scotland – key Scottish fortress) |
+| Famous site | Europe | Kraków Wawel Castle (Poland – royal residence) |
+| Famous site | Europe | Malbork Castle (Poland – largest brick castle in the world, Teutonic Knights) |
+| Famous site | Europe | Charles Bridge (Prague, Czech Republic – medieval stone bridge) |
+| Famous site | Europe | Prague Castle (Czech Republic – largest ancient castle complex) |
+| Famous site | Europe | St. Vitus Cathedral (Prague, Czech Republic – Gothic cathedral inside castle) |
+| Famous site | Europe | St. Basil’s Cathedral (Moscow, Russia – colorful onion domes) |
+| Famous site | Europe | Kremlin (Moscow, Russia – fortress and political center) |
+| Famous site | Europe | Novgorod Kremlin (Russia – medieval fortress) |
+| Famous site | Europe | Montserrat Monastery (Spain – mountain monastery) |
+| Famous site | Europe | Rila Monastery (Bulgaria – spiritual and cultural center) |
+| Famous site | Europe | Meteora Monasteries (Greece – cliff-top monasteries) |
+| Famous site | Europe | Montjuïc Castle (Barcelona, Spain – fortress overlooking city) |
+| Famous site | Europe | Palatine Chapel (Aachen, Germany – Charlemagne’s chapel) |
+| Famous site | Europe | Monreale Cathedral (Sicily, Italy – Norman-Arab-Byzantine architecture) |
+| Famous site | Europe | Florence Cathedral (Duomo) (Italy – Brunelleschi’s dome) |
+| Famous site | Europe | Baptistery of Florence (Italy – bronze doors by Ghiberti) |
+| Famous site | Europe | Palazzo Vecchio (Florence, Italy – Renaissance civic palace) |
+| Famous site | Europe | Uffizi Gallery (Florence, Italy – Renaissance art museum) |
+| Famous site | Europe | Basilica of Santa Maria Novella (Florence, Italy – Renaissance façade) |
+| Famous site | Europe | San Lorenzo (Florence, Italy – Medici church) |
+| Famous site | Europe | St. Peter’s Basilica (Vatican City – largest church, Michelangelo’s dome) |
+| Famous site | Europe | Vatican Museums & Sistine Chapel (Vatican City – Michelangelo’s frescoes) |
+| Famous site | Europe | Piazza San Marco & Basilica (Venice, Italy – Byzantine-style cathedral) |
+| Famous site | Europe | Doge’s Palace (Venice, Italy – Gothic and Renaissance palace) |
+| Famous site | Europe | Rialto Bridge (Venice, Italy – iconic stone bridge) |
+| Famous site | Europe | El Escorial (Spain – royal palace and monastery) |
+| Famous site | Europe | Versailles Palace (France – symbol of absolute monarchy) |
+| Famous site | Europe | Louvre Palace (France – now world’s largest museum) |
+| Famous site | Europe | Palace of Fontainebleau (France – Renaissance palace) |
+| Famous site | Europe | Schönbrunn Palace (Vienna, Austria – Habsburg summer residence) |
+| Famous site | Europe | Belvedere Palace (Vienna, Austria – Baroque palace and art museum) |
+| Famous site | Europe | Hofburg Palace (Vienna, Austria – imperial palace) |
+| Famous site | Europe | Zwinger Palace (Dresden, Germany – Baroque complex) |
+| Famous site | Europe | Sanssouci Palace (Potsdam, Germany – Frederick the Great’s residence) |
+| Famous site | Europe | St. Paul’s Cathedral (London, England – Christopher Wren masterpiece) |
+| Famous site | Europe | Royal Palace of Madrid (Spain – residence of Spanish monarchy) |
+| Famous site | Europe | Piazza del Campidoglio (Rome, Italy – designed by Michelangelo) |
+| Famous site | Europe | Palazzo Pitti (Florence, Italy – Medici residence) |
+| Famous site | Europe | Basilica di Santa Maria della Salute (Venice, Italy – Baroque church) |
+| Famous site | Europe | Eiffel Tower (Paris, France – 19th century iron landmark) |
+| Famous site | Europe | Sacré-Cœur Basilica (Paris, France – 19th-century basilica on Montmartre) |
+| Famous site | Europe | Arc de Triomphe (Paris, France – Napoleonic monument) |
+| Famous site | Europe | Brandenburg Gate (Berlin, Germany – neoclassical triumphal arch) |
+| Famous site | Europe | Reichstag Building (Berlin, Germany – parliament with modern dome) |
+| Famous site | Europe | Berlin Wall Memorial (Germany – Cold War history) |
+| Famous site | Europe | Memorial to the Murdered Jews of Europe (Berlin, Germany – Holocaust memorial) |
+| Famous site | Europe | Palace of Westminster (London, England – parliament, Big Ben tower) |
+| Famous site | Europe | British Museum (London, England – world cultural collection) |
+| Famous site | Europe | Tower Bridge (London, England – iconic bascule bridge) |
+| Famous site | Europe | Buckingham Palace (London, England – royal residence) |
+| Famous site | Europe | Casa Milà (Barcelona, Spain – Gaudí modernist architecture) |
+| Famous site | Europe | Sagrada Familia (Barcelona, Spain – Gaudí’s unfinished basilica) |
+| Famous site | Europe | Park Güell (Barcelona, Spain – Gaudí landscape and mosaics) |
+| Famous site | Europe | Casa Batlló (Barcelona, Spain – Gaudí masterpiece) |
+| Famous site | Europe | Guggenheim Museum (Bilbao, Spain – modern art icon by Gehry) |
+| Famous site | Europe | Berlin TV Tower (Germany – Cold War modernist symbol) |
+| Famous site | Europe | Atomium (Brussels, Belgium – Expo ’58 pavilion) |
+| Famous site | Europe | Rynek Główny (Kraków, Poland – largest medieval square in Europe) |
+| Famous site | Europe | Palace of Culture and Science (Warsaw, Poland – Stalinist skyscraper) |
+| Famous site | Europe | Neuschwanstein Castle (Germany – 19th-century romantic castle) |
+| Famous site | Europe | Hermitage Museum (St. Petersburg, Russia – one of world’s largest museums) |
+| Famous site | Europe | Winter Palace (St. Petersburg, Russia – residence of tsars) |
+| Famous site | Europe | Peterhof Palace (Russia – “Russian Versailles”) |
+| Famous site | Europe | St. Isaac’s Cathedral (St. Petersburg, Russia – neoclassical church) |
+| Famous site | Europe | Catherine Palace (Russia – rococo palace, Amber Room) |
+| Famous site | Europe | Louvre Pyramid (Paris, France – modern glass entrance by I.M. Pei) |
+| Famous site | Europe | Oslo Opera House (Norway – modern architecture on the fjord) |
+| Famous site | Europe | Oresund Bridge (Denmark/Sweden – engineering marvel) |
+| Famous site | Europe | Millennium Bridge (London, England – pedestrian suspension bridge) |
+| Famous site | Europe | Shard (London, England – tallest building in UK) |
+| Famous site | Europe | La Défense (Paris, France – modern business district with Grande Arche) |
+| Famous site | Europe | Pompidou Centre (Paris, France – modern art and architecture) |
+| Famous site | Europe | Tate Modern (London, England – modern art museum) |
+| Famous site | Europe | Vatican City (entire state – unique political and religious cultural site) |
+| Famous site | Europe | Pena Palace (Sintra, Portugal – Romanticist palace) |
+| Famous site | Europe | Alcázar of Segovia (Spain – fairy-tale fortress palace) |
+| Famous site | Europe | Alcázar of Seville (Spain – Mudejar royal palace) |
+| Famous site | Europe | Château de Chambord (France – Renaissance Loire Valley château) |
+| Famous site | Europe | Château de Chenonceau (France – “ladies’ château” over the river Cher) |
+| Famous site | Europe | Château de Versailles Gardens (France – formal gardens by Le Nôtre) |
+| Famous site | Europe | Château de Chillon (Switzerland – medieval lakeside castle) |
+| Famous site | Europe | Hohenzollern Castle (Germany – ancestral seat of dynasty) |
+| Famous site | Europe | Heidelberg Castle (Germany – Renaissance ruin) |
+| Famous site | Europe | Wartburg Castle (Germany – linked to Martin Luther) |
+| Famous site | Europe | Karlštejn Castle (Czech Republic – Gothic fortress) |
+| Famous site | Europe | Buda Castle (Budapest, Hungary – royal residence) |
+| Famous site | Europe | Fisherman’s Bastion (Budapest, Hungary – neo-Romanesque terrace) |
+| Famous site | Europe | Royal Palace of Stockholm (Sweden – residence of Swedish monarchs) |
+| Famous site | Europe | Drottningholm Palace (Sweden – UNESCO-listed royal residence) |
+| Famous site | Europe | Rosenborg Castle (Copenhagen, Denmark – Renaissance palace) |
+| Famous site | Europe | Christiansborg Palace (Copenhagen, Denmark – government seat) |
+| Famous site | Europe | Akershus Fortress (Oslo, Norway – medieval castle/fort) |
+| Famous site | Europe | Kronborg Castle (Helsingør, Denmark – “Hamlet’s Castle”) |
+| Famous site | Europe | Topkapi Palace (Istanbul, Turkey – Ottoman imperial palace) |
+| Famous site | Europe | St. Mark’s Basilica (Venice, Italy – Byzantine cathedral) |
+| Famous site | Europe | Assisi Basilica of St. Francis (Italy – pilgrimage site, frescoes) |
+| Famous site | Europe | Pisa Cathedral & Leaning Tower (Italy – Romanesque ensemble) |
+| Famous site | Europe | Siena Cathedral (Italy – Gothic marble cathedral) |
+| Famous site | Europe | Basilica of San Marco Square (Venice, Italy – civic and religious hub) |
+| Famous site | Europe | Basilica of Santa Croce (Florence, Italy – burial place of great Italians) |
+| Famous site | Europe | St. George’s Basilica (Prague, Czech Republic – Romanesque church) |
+| Famous site | Europe | Jasna Góra Monastery (Częstochowa, Poland – Black Madonna shrine) |
+| Famous site | Europe | St. Mary’s Basilica (Kraków, Poland – Gothic church with altar by Veit Stoss) |
+| Famous site | Europe | St. Alexander Nevsky Cathedral (Sofia, Bulgaria – Orthodox landmark) |
+| Famous site | Europe | Monastery of Alcobaça (Portugal – early Gothic monastery) |
+| Famous site | Europe | Monastery of Batalha (Portugal – Manueline Gothic) |
+| Famous site | Europe | Monastery of Jerónimos (Lisbon, Portugal – Manueline style, Vasco da Gama’s tomb) |
+| Famous site | Europe | St. Nicholas Church (Prague, Czech Republic – Baroque landmark) |
+| Famous site | Europe | Sighișoara Citadel (Romania – fortified medieval town) |
+| Famous site | Europe | Bran Castle (Romania – associated with Dracula legend) |
+| Famous site | Europe | Curtea de Argeș Cathedral (Romania – royal necropolis) |
+| Famous site | Europe | Stavrovouni Monastery (Cyprus – early Christian foundation) |
+| Famous site | Europe | Monastery of Hosios Loukas (Greece – Byzantine mosaics) |
+| Famous site | Europe | Patriarchal Monastery of Peć (Kosovo – Serbian Orthodox heritage) |
+| Famous site | Europe | Red Square (Moscow, Russia – political and cultural heart) |
+| Famous site | Europe | Palace Square (St. Petersburg, Russia – site of 1917 Revolution) |
+| Famous site | Europe | Piazza del Duomo (Milan, Italy – Gothic cathedral square) |
+| Famous site | Europe | Piazza San Pietro (Vatican – St. Peter’s Square by Bernini) |
+| Famous site | Europe | Piazza Navona (Rome, Italy – Baroque fountains) |
+| Famous site | Europe | Piazza del Campo (Siena, Italy – medieval civic square, Palio horse race) |
+| Famous site | Europe | Plaza Mayor (Madrid, Spain – main square of Habsburg Madrid) |
+| Famous site | Europe | Plaza de España (Seville, Spain – 20th-century landmark with canals) |
+| Famous site | Europe | Old Town Square (Prague, Czech Republic – Astronomical Clock) |
+| Famous site | Europe | Red Town Hall & Alexanderplatz (Berlin, Germany – modern square) |
+| Famous site | Europe | Grote Markt (Brussels, Belgium – guildhalls, UNESCO site) |
+| Famous site | Europe | Dam Square (Amsterdam, Netherlands – royal palace, civic center) |
+| Famous site | Europe | Market Square of Wrocław (Poland – Gothic-Renaissance townhouses) |
+| Famous site | Europe | Tallinn Old Town (Estonia – medieval Hanseatic town) |
+| Famous site | Europe | Riga Old Town (Latvia – UNESCO heritage, Art Nouveau) |
+| Famous site | Europe | Vilnius Old Town (Lithuania – Baroque cityscape) |
+| Famous site | Europe | Dubrovnik Old Town (Croatia – “Pearl of the Adriatic”) |
+| Famous site | Europe | Kotor Old Town (Montenegro – Venetian fortress town) |
+| Famous site | Europe | Valletta (Malta – fortified Renaissance city) |
+| Famous site | Europe | Mdina (Malta – “Silent City” with medieval walls) |
+| Famous site | Europe | Prado Museum (Madrid, Spain – Spanish masters collection) |
+| Famous site | Europe | Reina Sofía Museum (Madrid, Spain – Guernica by Picasso) |
+| Famous site | Europe | Thyssen-Bornemisza Museum (Madrid, Spain – private art collection) |
+| Famous site | Europe | Museo Nazionale Romano (Rome, Italy – Roman antiquities) |
+| Famous site | Europe | Capitoline Museums (Rome, Italy – classical collections) |
+| Famous site | Europe | Galleria Borghese (Rome, Italy – Baroque masterpieces) |
+| Famous site | Europe | Rijksmuseum (Amsterdam, Netherlands – Dutch Golden Age art) |
+| Famous site | Europe | Van Gogh Museum (Amsterdam, Netherlands – Van Gogh’s works) |
+| Famous site | Europe | Anne Frank House (Amsterdam, Netherlands – WWII memorial site) |
+| Famous site | Europe | Mauritshuis (The Hague, Netherlands – Vermeer’s “Girl with a Pearl Earring”) |
+| Famous site | Europe | State Tretyakov Gallery (Moscow, Russia – Russian art) |
+| Famous site | Europe | Pushkin Museum (Moscow, Russia – Western art) |
+| Famous site | Europe | Museum Island (Berlin, Germany – five major museums, UNESCO) |
+| Famous site | Europe | Pergamon Museum (Berlin, Germany – ancient monuments) |
+| Famous site | Europe | Uffizi Gallery (Florence, Italy – Renaissance art) |
+| Famous site | Europe | Galleria dell’Accademia (Florence, Italy – Michelangelo’s David) |
+| Famous site | Europe | Musée d’Orsay (Paris, France – Impressionist collection) |
+| Famous site | Europe | Centre Pompidou (Paris, France – modern art) |
+| Famous site | Europe | Musée Rodin (Paris, France – works of Auguste Rodin) |
+| Famous site | Europe | Louvre Museum (Paris, France – Mona Lisa, Venus de Milo) |
+| Famous site | Europe | European Parliament (Brussels, Belgium – EU political center) |
+| Famous site | Europe | European Central Bank (Frankfurt, Germany – EU financial hub) |
+| Famous site | Europe | Palace of Nations (Geneva, Switzerland – UN headquarters Europe) |
+| Famous site | Europe | CERN (Geneva, Switzerland – world’s largest particle physics lab) |
+| Famous site | Europe | Auschwitz-Birkenau (Poland – Holocaust memorial site) |
+| Famous site | Europe | Dachau Concentration Camp Memorial (Germany – WWII site) |
+| Famous site | Europe | Yad Vashem Holocaust Memorial (Israel – tied to Europe’s WWII history) |
+| Famous site | Europe | Oradour-sur-Glane (France – WWII martyr village preserved in ruins) |
+| Famous site | Europe | Peace Palace (The Hague, Netherlands – international court of justice) |
+| Famous site | Europe | Eurotower (Frankfurt, Germany – symbol of EU currency and finance) |
+| Historical character | Oceania | Hine-ahu-one |
+| Historical character | Oceania | Kupe |
+| Historical character | Oceania | Hoturoa |
+| Historical character | Oceania | Paikea |
+| Historical character | Oceania | Roi Mata |
+| Historical character | Oceania | Olosihpa |
+| Historical character | Oceania | Isokelekel |
+| Historical character | Oceania | Pa‘ao |
+| Historical character | Oceania | Pilika‘aiea |
+| Historical character | Oceania | Ahoeitu |
+| Historical character | Oceania | Kamehameha I |
+| Historical character | Oceania | Kahekili II |
+| Historical character | Oceania | Kalaniʻōpuʻu |
+| Historical character | Oceania | Kaumualiʻi |
+| Historical character | Oceania | ʻUmi-a-Līloa |
+| Historical character | Oceania | Tupaia |
+| Historical character | Oceania | Pomare I |
+| Historical character | Oceania | Te Heuheu Tukino I |
+| Historical character | Oceania | Moana Waialiki |
+| Historical character | Oceania | Maui |
+| Historical character | Oceania | Kamehameha II |
+| Historical character | Oceania | Queen Ka‘ahumanu |
+| Historical character | Oceania | Queen Liliʻuokalani |
+| Historical character | Oceania | King Kalākaua |
+| Historical character | Oceania | Te Rauparaha |
+| Historical character | Oceania | Hongi Hika |
+| Historical character | Oceania | Te Kooti Arikirangi Te Turuki |
+| Historical character | Oceania | Sir Apirana Ngata |
+| Historical character | Oceania | Sir Māui Pōmare |
+| Historical character | Oceania | Ratu Sir Lala Sukuna |
+| Historical character | Oceania | Ratu Sir Kamisese Mara |
+| Historical character | Oceania | Peter O’Neill |
+| Historical character | Oceania | Sir Michael Somare |
+| Historical character | Oceania | José Ramos-Horta |
+| Historical character | Oceania | Sir John Key |
+| Historical character | Oceania | Jacinda Ardern |
+| Historical character | Oceania | Anthony Albanese |
+| Historical character | Oceania | Julia Gillard |
+| Historical character | Oceania | David Lange |
+| Historical character | Oceania | Dame Whina Cooper |
+| Historical character | Oceania | Albert Wendt |
+| Historical character | Oceania | Epeli Hau‘ofa |
+| Historical character | Oceania | Witi Ihimaera |
+| Historical character | Oceania | Dame Kiri Te Kanawa |
+| Historical character | Oceania | Russell Crowe |
+| Historical character | Oceania | Hugh Jackman |
+| Historical character | Oceania | Cathy Freeman |
+| Historical character | Oceania | Taika Waititi |
+| Historical character | Oceania | Steven Adams |
+| Historical character | Oceania | Patricia Grace |
+| Historical character | Africa | Narmer (c. 3100 BC) |
+| Historical character | Africa | Imhotep (c. 27th century BC) |
+| Historical character | Africa | Khufu (Cheops) (c. 2580–2560 BC) |
+| Historical character | Africa | Hatshepsut (c. 1507–1458 BC) |
+| Historical character | Africa | Thutmose III (c. 1479–1425 BC) |
+| Historical character | Africa | Akhenaten (c. 1353–1336 BC) |
+| Historical character | Africa | Nefertiti (c. 14th century BC) |
+| Historical character | Africa | Tutankhamun (c. 1332–1323 BC) |
+| Historical character | Africa | Ramses II (the Great) (c. 1279–1213 BC) |
+| Historical character | Africa | Taharqa (c. 690–664 BC) |
+| Historical character | Africa | Hannibal Barca (247–183 BC) |
+| Historical character | Africa | Masinissa (c. 238–148 BC) |
+| Historical character | Africa | Cleopatra VII (69–30 BC) |
+| Historical character | Africa | Septimius Severus (145–211 AD) |
+| Historical character | Africa | Khalid ibn Yazid (c. 635–704) |
+| Historical character | Africa | Uqba ibn Nafi (622–683) |
+| Historical character | Africa | Ibn Khaldun (1332–1406) |
+| Historical character | Africa | Al-Idrisi (1100–1165) |
+| Historical character | Africa | Ibn Battuta (1304–1369) |
+| Historical character | Africa | Abd al-Mu’min (1094–1163) |
+| Historical character | Africa | Yusuf ibn Tashfin (c. 1061–1106) |
+| Historical character | Africa | Al-Mansur (1184–1199) |
+| Historical character | Africa | Sundiata Keita (c. 1217–1255) |
+| Historical character | Africa | Queen Amina of Zazzau (late 15th century) |
+| Historical character | Africa | Tenkamenin (11th century) |
+| Historical character | Africa | Queen Gudit (Yodit) (10th century) |
+| Historical character | Africa | Ella Asbeha (c. 520) |
+| Historical character | Africa | King Merkurios of Makuria (8th century) |
+| Historical character | Africa | Fumo Liongo (12th–14th century, legendary) |
+| Historical character | Africa | Al-Maghili (15th century) |
+| Historical character | Africa | Ahmad Baba al-Timbukti (1556–1627) |
+| Historical character | Africa | Abd al-Qadir al-Fasi (c. 1599–1680s) |
+| Historical character | Africa | Muhammad al-Kanemi (18th century) |
+| Historical character | Africa | Beatriz Kimpa Vita (1684–1706) |
+| Historical character | Africa | Mulai Ismail (1634–1727) |
+| Historical character | Africa | Osei Kofi Tutu I (c. 1660–1717) |
+| Historical character | Africa | King Agaja (r. 1718–1740) |
+| Historical character | Africa | Ewuare the Great (c. 1440–1473) |
+| Historical character | Africa | Queen Nzinga (1583–1663) |
+| Historical character | Africa | Álvaro I of Kongo (r. 1568–1587) |
+| Historical character | Africa | Iyasu the Great (r. 1682–1706) |
+| Historical character | Africa | Muhammad Ali Pasha |
+| Historical character | Africa | Menelik II |
+| Historical character | Africa | Empress Taytu Betul |
+| Historical character | Africa | Haile Selassie |
+| Historical character | Africa | Jomo Kenyatta |
+| Historical character | Africa | Daniel arap Moi |
+| Historical character | Africa | Uhuru Kenyatta |
+| Historical character | Africa | Julius Nyerere |
+| Historical character | Africa | John Magufuli |
+| Historical character | Africa | Samora Machel |
+| Historical character | Africa | Eduardo Mondlane |
+| Historical character | Africa | Shaka Zulu |
+| Historical character | Africa | Cetshwayo |
+| Historical character | Africa | Nelson Mandela |
+| Historical character | Africa | Thabo Mbeki |
+| Historical character | Africa | Jacob Zuma |
+| Historical character | Africa | Cyril Ramaphosa |
+| Historical character | Africa | Seretse Khama |
+| Historical character | Africa | Ian Khama |
+| Historical character | Africa | Robert Mugabe |
+| Historical character | Africa | Joshua Nkomo |
+| Historical character | Africa | Sam Nujoma |
+| Historical character | Africa | Kwame Nkrumah |
+| Historical character | Africa | Jerry Rawlings |
+| Historical character | Africa | Olusegun Obasanjo |
+| Historical character | Africa | Goodluck Jonathan |
+| Historical character | Africa | Muhammadu Buhari |
+| Historical character | Africa | Osei Tutu I |
+| Historical character | Africa | Ahmad al-Mansur |
+| Historical character | Africa | Mulai Ismail |
+| Historical character | Africa | King Mohammed V |
+| Historical character | Africa | King Hassan II |
+| Historical character | Africa | Mohammed VI |
+| Historical character | Africa | Abdelaziz Bouteflika |
+| Historical character | Africa | Omar Mukhtar |
+| Historical character | Africa | Frantz Fanon |
+| Historical character | Africa | Ahmed ibn Ibrahim al-Ghazi |
+| Historical character | Africa | Oliver Tambo |
+| Historical character | Africa | Steve Biko |
+| Historical character | Africa | Desmond Tutu |
+| Historical character | Africa | Thomas Sankara |
+| Historical character | Africa | Chinua Achebe |
+| Historical character | Africa | Wole Soyinka |
+| Historical character | Africa | Chimamanda Ngozi Adichie |
+| Historical character | Africa | Fela Kuti |
+| Historical character | Africa | Kofi Annan |
+| Historical character | Africa | Wangari Maathai |
+| Historical character | Africa | Usman dan Fodio |
+| Historical character | Africa | Nana Asma’u |
+| Historical character | Africa | Samuel Ajayi Crowther |
+| Historical character | Africa | Ngozi Okonjo-Iweala |
+| Historical character | Africa | Denis Sassou Nguesso |
+| Historical character | Africa | Paul Biya |
+| Historical character | Africa | Joseph Kabila |
+| Historical character | Africa | Laurent-Désiré Kabila |
+| Historical character | Africa | Mobutu Sese Seko |
+| Historical character | Africa | Patrice Lumumba |
+| Historical character | Africa | Ahmed Baba al-Timbukti |
+| Historical character | Africa | Gamal Abdel Nasser |
+| Historical character | South America, Central America and the Caribbean | Manco Cápac (mythical first Inca ruler) |
+| Historical character | South America, Central America and the Caribbean | Mama Ocllo (mythical Inca queen) |
+| Historical character | South America, Central America and the Caribbean | Pachacuti Inca Yupanqui (Inca emperor) |
+| Historical character | South America, Central America and the Caribbean | Huayna Capac (Inca emperor) |
+| Historical character | South America, Central America and the Caribbean | Atahualpa (last Inca emperor) |
+| Historical character | South America, Central America and the Caribbean | Huáscar (Inca emperor, rival of Atahualpa) |
+| Historical character | South America, Central America and the Caribbean | Túpac Amaru I (last Inca ruler executed by Spaniards) |
+| Historical character | South America, Central America and the Caribbean | Anacaona (Taíno cacica, Hispaniola) |
+| Historical character | South America, Central America and the Caribbean | Hatuey (Taíno chief, Cuba) |
+| Historical character | South America, Central America and the Caribbean | Guaicaipuro (Carib chief, Venezuela) |
+| Historical character | South America, Central America and the Caribbean | Caupolicán (Mapuche leader, Chile) |
+| Historical character | South America, Central America and the Caribbean | Lautaro (Mapuche leader, Chile) |
+| Historical character | South America, Central America and the Caribbean | Tecún Umán (Maya-K’iche’ leader, Guatemala) |
+| Historical character | South America, Central America and the Caribbean | Montezuma II (Aztec emperor, Mesoamerica) |
+| Historical character | South America, Central America and the Caribbean | Bartolina Sisa (Aymara leader, Bolivia) |
+| Historical character | South America, Central America and the Caribbean | Christopher Columbus (navigator, explorer of the Caribbean) |
+| Historical character | South America, Central America and the Caribbean | Hernán Cortés (Spanish conquistador) |
+| Historical character | South America, Central America and the Caribbean | Francisco Pizarro (Spanish conquistador of the Incas) |
+| Historical character | South America, Central America and the Caribbean | Diego de Almagro (Spanish conquistador) |
+| Historical character | South America, Central America and the Caribbean | Vasco Núñez de Balboa (first European to see Pacific Ocean) |
+| Historical character | South America, Central America and the Caribbean | Pedro de Valdivia (conquistador, Chile) |
+| Historical character | South America, Central America and the Caribbean | Gonzalo Jiménez de Quesada (founder of Bogotá) |
+| Historical character | South America, Central America and the Caribbean | Sebastián de Belalcázar (conquistador, founder of Quito/Cali) |
+| Historical character | South America, Central America and the Caribbean | Sor Juana Inés de la Cruz (Mexican nun & writer) |
+| Historical character | South America, Central America and the Caribbean | Bartolomé de las Casas (defender of Indigenous rights) |
+| Historical character | South America, Central America and the Caribbean | José de Anchieta (Jesuit missionary in Brazil) |
+| Historical character | South America, Central America and the Caribbean | Antonio Vieira (Portuguese Jesuit, Brazil) |
+| Historical character | South America, Central America and the Caribbean | Juan de Garay (founder of Buenos Aires) |
+| Historical character | South America, Central America and the Caribbean | Pedro Álvares Cabral (discoverer of Brazil) |
+| Historical character | South America, Central America and the Caribbean | Jean-Baptiste du Casse (French Caribbean governor/pirate) |
+| Historical character | South America, Central America and the Caribbean | Simón Bolívar (The Liberator) |
+| Historical character | South America, Central America and the Caribbean | José de San Martín (Argentina/Peru/Chile liberator) |
+| Historical character | South America, Central America and the Caribbean | Francisco de Miranda (precursor of Venezuelan independence) |
+| Historical character | South America, Central America and the Caribbean | Antonio José de Sucre (Bolivian independence hero) |
+| Historical character | South America, Central America and the Caribbean | Bernardo O’Higgins (Chile independence leader) |
+| Historical character | South America, Central America and the Caribbean | José Gervasio Artigas (Uruguayan independence hero) |
+| Historical character | South America, Central America and the Caribbean | Toussaint Louverture (Haitian Revolution leader) |
+| Historical character | South America, Central America and the Caribbean | Jean-Jacques Dessalines (Haitian independence leader) |
+| Historical character | South America, Central America and the Caribbean | Henri Christophe (Haiti) |
+| Historical character | South America, Central America and the Caribbean | Alexandre Pétion (Haiti) |
+| Historical character | South America, Central America and the Caribbean | Miguel Hidalgo y Costilla (Mexican independence leader) |
+| Historical character | South America, Central America and the Caribbean | José María Morelos (Mexican independence leader) |
+| Historical character | South America, Central America and the Caribbean | Manuela Sáenz (revolutionary, ally of Bolívar) |
+| Historical character | South America, Central America and the Caribbean | Policarpa Salavarrieta (Colombian independence heroine) |
+| Historical character | South America, Central America and the Caribbean | Mariano Moreno (Argentine revolutionary) |
+| Historical character | South America, Central America and the Caribbean | Camilo Henríquez (Chilean intellectual of independence) |
+| Historical character | South America, Central America and the Caribbean | Vicente Guerrero (Mexican independence hero, president) |
+| Historical character | South America, Central America and the Caribbean | Pedro I of Brazil (declared independence) |
+| Historical character | South America, Central America and the Caribbean | Domingos José Martins (Brazilian revolutionary) |
+| Historical character | South America, Central America and the Caribbean | José Prudencio Padilla (naval hero, Colombia/Venezuela) |
+| Historical character | South America, Central America and the Caribbean | Domingo Faustino Sarmiento (Argentina, educator) |
+| Historical character | South America, Central America and the Caribbean | Benito Juárez (Mexico, liberal reformer) |
+| Historical character | South America, Central America and the Caribbean | Francisco Morazán (Central American unionist) |
+| Historical character | South America, Central America and the Caribbean | Rafael Carrera (Guatemalan conservative leader) |
+| Historical character | South America, Central America and the Caribbean | Juan Manuel de Rosas (Argentina, dictator) |
+| Historical character | South America, Central America and the Caribbean | José Martí (Cuban writer and revolutionary) |
+| Historical character | South America, Central America and the Caribbean | Andrés Bello (Venezuelan scholar) |
+| Historical character | South America, Central America and the Caribbean | Juan Pablo Duarte (founder of Dominican Republic) |
+| Historical character | South America, Central America and the Caribbean | Eugenio María de Hostos (Puerto Rican educator) |
+| Historical character | South America, Central America and the Caribbean | José Hernández (Argentina, wrote Martín Fierro) |
+| Historical character | South America, Central America and the Caribbean | Gertrudis Gómez de Avellaneda (Cuban writer) |
+| Historical character | South America, Central America and the Caribbean | Esteban Echeverría (Argentine romantic writer) |
+| Historical character | South America, Central America and the Caribbean | Juan Montalvo (Ecuadorian essayist) |
+| Historical character | South America, Central America and the Caribbean | Francisco Bilbao (Chilean intellectual) |
+| Historical character | South America, Central America and the Caribbean | Rubén Darío (Nicaraguan poet, modernismo) |
+| Historical character | South America, Central America and the Caribbean | Jorge Isaacs (Colombian novelist, María) |
+| Historical character | South America, Central America and the Caribbean | Clorinda Matto de Turner (Peruvian writer) |
+| Historical character | South America, Central America and the Caribbean | José Asunción Silva (Colombian poet) |
+| Historical character | South America, Central America and the Caribbean | Justo Sierra (Mexican educator) |
+| Historical character | South America, Central America and the Caribbean | Juan Bautista Alberdi (Argentine political thinker) |
+| Historical character | South America, Central America and the Caribbean | Manuel Zapata Olivella (Colombia, writer, promoter of Afro-Latin identity) |
+| Historical character | South America, Central America and the Caribbean | Juan Domingo Perón (Argentina, populist leader) |
+| Historical character | South America, Central America and the Caribbean | Eva Perón (Argentina, first lady, icon) |
+| Historical character | South America, Central America and the Caribbean | Fidel Castro (Cuban revolutionary leader) |
+| Historical character | South America, Central America and the Caribbean | Che Guevara (Argentinian revolutionary, Cuba) |
+| Historical character | South America, Central America and the Caribbean | Chavela Vargas (Costa Rica/Mexico, singer of rancheras, queer icon) |
+| Historical character | South America, Central America and the Caribbean | Salvador Allende (Chilean president) |
+| Historical character | South America, Central America and the Caribbean | Augusto Pinochet (Chilean dictator) |
+| Historical character | South America, Central America and the Caribbean | Hugo Chávez (Venezuelan president) |
+| Historical character | South America, Central America and the Caribbean | Compay Segundo (Cuba, musician, Buena Vista Social Club) |
+| Historical character | South America, Central America and the Caribbean | Rafael Trujillo (Dominican dictator) |
+| Historical character | South America, Central America and the Caribbean | François Duvalier (Haitian dictator) |
+| Historical character | South America, Central America and the Caribbean | Fernando Botero (Colombia, painter/sculptor, “Boterismo”) |
+| Historical character | South America, Central America and the Caribbean | Luiz Inácio Lula da Silva (Brazilian president) |
+| Historical character | South America, Central America and the Caribbean | Oswaldo Guayasamín (Ecuador, painter, “Chapel of Man”) |
+| Historical character | South America, Central America and the Caribbean | Frida Kahlo (Mexico, iconic painter, global feminist symbol) |
+| Historical character | South America, Central America and the Caribbean | Michelle Bachelet (Chilean president) |
+| Historical character | South America, Central America and the Caribbean | Evo Morales (Bolivian president) |
+| Historical character | South America, Central America and the Caribbean | David Alfaro Siqueiros (Mexico, muralist) |
+| Historical character | South America, Central America and the Caribbean | Tarsila do Amaral (Brazil, modernist painter) |
+| Historical character | South America, Central America and the Caribbean | Manuel Noriega (Panamanian military leader) |
+| Historical character | South America, Central America and the Caribbean | Óscar Arias Sánchez (Costa Rican president, Nobel laureate) |
+| Historical character | South America, Central America and the Caribbean | Violeta Chamorro (Nicaraguan president) |
+| Historical character | South America, Central America and the Caribbean | Álvaro Mutis (Colombia, poet, novelist, creator of Maqroll the Gaviero) |
+| Historical character | South America, Central America and the Caribbean | Diego Rivera (Mexico, muralist, social realism) |
+| Historical character | South America, Central America and the Caribbean | Silvio Rodríguez (Cuban troubadour) |
+| Historical character | South America, Central America and the Caribbean | Pablo Escobar (Colombian drug lord, narcoterrorist, and politician) |
+| Historical character | South America, Central America and the Caribbean | Wilfredo Lam (Cuba, painter, surrealist/modernist) |
+| Historical character | South America, Central America and the Caribbean | Esmeralda Santiago (Puerto Rico, writer) |
+| Historical character | South America, Central America and the Caribbean | Mario Benedetti (Uruguay, poet, essayist, novelist) |
+| Historical character | South America, Central America and the Caribbean | Gabriel García Márquez (Colombian novelist, Nobel) |
+| Historical character | South America, Central America and the Caribbean | Mario Vargas Llosa (Peruvian novelist, Nobel) |
+| Historical character | South America, Central America and the Caribbean | Pablo Neruda (Chilean poet, Nobel) |
+| Historical character | South America, Central America and the Caribbean | Gabriela Mistral (Chilean poet, Nobel) |
+| Historical character | South America, Central America and the Caribbean | Jorge Luis Borges (Argentinian writer) |
+| Historical character | South America, Central America and the Caribbean | Julio Cortázar (Argentinian novelist) |
+| Historical character | South America, Central America and the Caribbean | Carlos Fuentes (Mexican writer) |
+| Historical character | South America, Central America and the Caribbean | Alejo Carpentier (Cuban novelist) |
+| Historical character | South America, Central America and the Caribbean | Nicolás Guillén (Cuban poet) |
+| Historical character | South America, Central America and the Caribbean | Octavio Paz (Mexican poet, Nobel) |
+| Historical character | South America, Central America and the Caribbean | José Lezama Lima (Cuban poet/novelist) |
+| Historical character | South America, Central America and the Caribbean | Miguel Ángel Asturias (Guatemalan novelist, Nobel) |
+| Historical character | South America, Central America and the Caribbean | Juan Rulfo (Mexican writer) |
+| Historical character | South America, Central America and the Caribbean | Eduardo Galeano (Uruguayan writer) |
+| Historical character | South America, Central America and the Caribbean | Isabel Allende (Chilean novelist) |
+| Historical character | South America, Central America and the Caribbean | Roberto Bolaño (Chilean writer) |
+| Historical character | South America, Central America and the Caribbean | Fernando Vallejo (Colombian writer) |
+| Historical character | South America, Central America and the Caribbean | Clarice Lispector (Brazilian novelist) |
+| Historical character | South America, Central America and the Caribbean | Jorge Amado (Brazilian writer) |
+| Historical character | South America, Central America and the Caribbean | Vinicius de Moraes (Brazilian poet/songwriter) |
+| Historical character | South America, Central America and the Caribbean | Gilberto Freyre (Brazilian sociologist) |
+| Historical character | South America, Central America and the Caribbean | Paulo Freire (Brazilian educator) |
+| Historical character | South America, Central America and the Caribbean | Darcy Ribeiro (Brazilian anthropologist) |
+| Historical character | South America, Central America and the Caribbean | Leopoldo Lugones (Argentinian writer) |
+| Historical character | South America, Central America and the Caribbean | Rosario Castellanos (Mexican writer) |
+| Historical character | South America, Central America and the Caribbean | Celia Cruz (Cuban singer) |
+| Historical character | South America, Central America and the Caribbean | Héctor Lavoe (Puerto Rican salsa singer) |
+| Historical character | South America, Central America and the Caribbean | Rubén Blades (Panamanian musician) |
+| Historical character | South America, Central America and the Caribbean | Shakira (Colombian singer) |
+| Historical character | South America, Central America and the Caribbean | Carlos Gardel (Argentinian tango legend) |
+| Historical character | South America, Central America and the Caribbean | Astor Piazzolla (Argentinian tango composer) |
+| Historical character | South America, Central America and the Caribbean | Mercedes Sosa (Argentinian folk singer) |
+| Historical character | South America, Central America and the Caribbean | Gilberto Gil (Brazilian musician) |
+| Historical character | South America, Central America and the Caribbean | Caetano Veloso (Brazilian musician) |
+| Historical character | South America, Central America and the Caribbean | João Gilberto (Brazilian bossa nova pioneer) |
+| Historical character | South America, Central America and the Caribbean | Carmen Miranda (Brazilian icon) |
+| Historical character | South America, Central America and the Caribbean | Juan Luis Guerra (Dominican musician) |
+| Historical character | South America, Central America and the Caribbean | Daddy Yankee (Puerto Rican reggaetón singer) |
+| Historical character | South America, Central America and the Caribbean | Don Segundo Sombra (literary gaucho character) |
+| Historical character | South America, Central America and the Caribbean | Anitta (Brazilian singer) |
+| Historical character | South America, Central America and the Caribbean | Pelé (Brazilian soccer legend) |
+| Historical character | South America, Central America and the Caribbean | Diego Maradona (Argentinian soccer legend) |
+| Historical character | South America, Central America and the Caribbean | Lionel Messi (Argentinian soccer star) |
+| Historical character | South America, Central America and the Caribbean | Neymar (Brazilian soccer star) |
+| Historical character | South America, Central America and the Caribbean | Marta Vieira da Silva (Brazilian women’s soccer star) |
+| Historical character | South America, Central America and the Caribbean | Roberto Clemente (Puerto Rican baseball player) |
+| Historical character | South America, Central America and the Caribbean | Óscar de la Hoya (Mexican-American boxer) |
+| Historical character | South America, Central America and the Caribbean | Usain Bolt (Jamaican sprinter) |
+| Historical character | South America, Central America and the Caribbean | Martín Fierro (literary gaucho archetype) |
+| Historical character | South America, Central America and the Caribbean | Guga Kuerten (Brazilian tennis player) |
+| Historical character | Asia | Confucius (Chinese philosopher) |
+| Historical character | Asia | Laozi (Daoist philosopher, China) |
+| Historical character | Asia | Sun Tzu (military strategist, China) |
+| Historical character | Asia | Siddhartha Gautama (Buddha, India/Nepal) |
+| Historical character | Asia | Ashoka the Great (Mauryan emperor, India) |
+| Historical character | Asia | Chandragupta Maurya (founder of Maurya Empire, India) |
+| Historical character | Asia | Cyrus the Great (founder of Achaemenid Empire, Persia) |
+| Historical character | Asia | Darius I (Persian king) |
+| Historical character | Asia | Xerxes I (Persian king) |
+| Historical character | Asia | Zoroaster (Persian prophet, Zoroastrianism) |
+| Historical character | Asia | Mencius (Chinese Confucian philosopher) |
+| Historical character | Asia | Ibn Sina (Avicenna, Persian polymath) |
+| Historical character | Asia | Al-Khwarizmi (Persian mathematician, “father of algebra”) |
+| Historical character | Asia | Al-Farabi (Islamic philosopher, Central Asia) |
+| Historical character | Asia | Al-Biruni (Persian scholar) |
+| Historical character | Asia | Abu Nuwas (Arab poet, Baghdad) |
+| Historical character | Asia | Rumi (Persian poet, mystic) |
+| Historical character | Asia | Omar Khayyam (Persian poet, mathematician) |
+| Historical character | Asia | Abu Bakr (first caliph of Islam) |
+| Historical character | Asia | Ali ibn Abi Talib (fourth caliph, Shia figure) |
+| Historical character | Asia | Genghis Khan (Mongol conqueror) |
+| Historical character | Asia | Kublai Khan (founder of Yuan dynasty, China) |
+| Historical character | Asia | Timur (Tamerlane, Central Asian conqueror) |
+| Historical character | Asia | Attila the Hun (Central Asian leader) |
+| Historical character | Asia | Saladin (Sultan of Egypt & Syria) |
+| Historical character | Asia | Mehmed II (Ottoman conqueror of Constantinople) |
+| Historical character | Asia | Suleiman the Magnificent (Ottoman sultan) |
+| Historical character | Asia | Akbar the Great (Mughal emperor, India) |
+| Historical character | Asia | Shah Jahan (Mughal emperor, built Taj Mahal) |
+| Historical character | Asia | Aurangzeb (Mughal emperor, India) |
+| Historical character | Asia | Tokugawa Ieyasu (Japanese shogun) |
+| Historical character | Asia | Oda Nobunaga (Japanese warlord) |
+| Historical character | Asia | Toyotomi Hideyoshi (Japanese unifier) |
+| Historical character | Asia | Minamoto no Yoritomo (first shogun of Japan) |
+| Historical character | Asia | Emperor Meiji (modernizer of Japan) |
+| Historical character | Asia | Emperor Hirohito (Japan, WWII era) |
+| Historical character | Asia | Ho Chi Minh (Vietnamese revolutionary) |
+| Historical character | Asia | Mao Zedong (Chinese leader) |
+| Historical character | Asia | Chiang Kai-shek (Chinese Nationalist leader) |
+| Historical character | Asia | Deng Xiaoping (Chinese reform leader) |
+| Historical character | Asia | Mahatma Gandhi (Indian independence leader) |
+| Historical character | Asia | Jawaharlal Nehru (first Prime Minister of India) |
+| Historical character | Asia | Indira Gandhi (Indian Prime Minister) |
+| Historical character | Asia | Narendra Modi (Prime Minister of India) |
+| Historical character | Asia | Muhammad Ali Jinnah (founder of Pakistan) |
+| Historical character | Asia | Benazir Bhutto (Pakistani Prime Minister) |
+| Historical character | Asia | Imran Khan (Pakistani politician, ex-cricketer) |
+| Historical character | Asia | Aung San Suu Kyi (Myanmar politician, Nobel laureate) |
+| Historical character | Asia | Lee Kuan Yew (founder of modern Singapore) |
+| Historical character | Asia | Sukarno (first President of Indonesia) |
+| Historical character | Asia | Suharto (Indonesian leader) |
+| Historical character | Asia | Ferdinand Marcos (Philippines leader) |
+| Historical character | Asia | Corazon Aquino (Philippines President) |
+| Historical character | Asia | Rodrigo Duterte (Philippines President) |
+| Historical character | Asia | Xi Jinping (current leader of China) |
+| Historical character | Asia | Kim Il-sung (North Korean leader) |
+| Historical character | Asia | Kim Jong-il (North Korean leader) |
+| Historical character | Asia | Kim Jong-un (North Korean leader) |
+| Historical character | Asia | Park Chung-hee (South Korean leader) |
+| Historical character | Asia | Moon Jae-in (South Korean President) |
+| Historical character | Asia | Rabindranath Tagore (Indian poet, Nobel laureate) |
+| Historical character | Asia | Kalidasa (classical Indian poet) |
+| Historical character | Asia | Ferdowsi (Persian poet, "Shahnameh") |
+| Historical character | Asia | Saadi (Persian poet) |
+| Historical character | Asia | Hafez (Persian poet) |
+| Historical character | Asia | Li Bai (Chinese poet) |
+| Historical character | Asia | Du Fu (Chinese poet) |
+| Historical character | Asia | Wang Wei (Chinese poet) |
+| Historical character | Asia | Basho (Japanese haiku poet) |
+| Historical character | Asia | Haruki Murakami (Japanese novelist) |
+| Historical character | Asia | Yukio Mishima (Japanese novelist) |
+| Historical character | Asia | Salman Rushdie (Indian-British novelist) |
+| Historical character | Asia | Arundhati Roy (Indian writer) |
+| Historical character | Asia | Orhan Pamuk (Turkish novelist, Nobel laureate) |
+| Historical character | Asia | Natsume Sōseki (Japanese novelist) |
+| Historical character | Asia | Gao Xingjian (Chinese Nobel laureate in literature) |
+| Historical character | Asia | Han Kang (South Korean novelist) |
+| Historical character | Asia | Mo Yan (Chinese Nobel laureate in literature) |
+| Historical character | Asia | Kenzaburō Ōe (Japanese Nobel laureate) |
+| Historical character | Asia | Lu Xun (Chinese writer) |
+| Historical character | Asia | Aryabhata (Indian mathematician, astronomer) |
+| Historical character | Asia | Brahmagupta (Indian mathematician) |
+| Historical character | Asia | Alhazen (Ibn al-Haytham, Arab physicist) |
+| Historical character | Asia | Zhang Heng (Chinese scientist) |
+| Historical character | Asia | Al-Razi (Rhazes, Persian physician) |
+| Historical character | Asia | Ibn Khaldun (Arab historian, sociologist) |
+| Historical character | Asia | Subrahmanyan Chandrasekhar (Indian astrophysicist, Nobel) |
+| Historical character | Asia | Abdus Salam (Pakistani physicist, Nobel) |
+| Historical character | Asia | C. V. Raman (Indian physicist, Nobel) |
+| Historical character | Asia | Tu Youyou (Chinese Nobel laureate in medicine) |
+| Historical character | Asia | Akira Yoshino (Japanese Nobel in chemistry, lithium batteries) |
+| Historical character | Asia | Shinya Yamanaka (Japanese Nobel in medicine, stem cells) |
+| Historical character | Asia | Hideki Yukawa (Japanese Nobel in physics) |
+| Historical character | Asia | Isamu Akasaki (Japanese Nobel in physics, LEDs) |
+| Historical character | Asia | Yoshinori Ohsumi (Japanese Nobel in medicine, autophagy) |
+| Historical character | Asia | Wu Jianxiong (Chien-Shiung Wu, Chinese physicist) |
+| Historical character | Asia | Jagdish Chandra Bose (Indian scientist) |
+| Historical character | Asia | Homi J. Bhabha (Indian nuclear physicist) |
+| Historical character | Asia | Qian Xuesen (Chinese rocket scientist) |
+| Historical character | Asia | Michio Kaku (Japanese-American physicist) |
+| Historical character | Asia | Akira Kurosawa (Japanese filmmaker) |
+| Historical character | Asia | Hayao Miyazaki (Japanese animator, Studio Ghibli) |
+| Historical character | Asia | Isao Takahata (Japanese animator) |
+| Historical character | Asia | Zhang Yimou (Chinese filmmaker) |
+| Historical character | Asia | Wong Kar-wai (Hong Kong filmmaker) |
+| Historical character | Asia | Satyajit Ray (Indian filmmaker) |
+| Historical character | Asia | Yasujiro Ozu (Japanese filmmaker) |
+| Historical character | Asia | Ang Lee (Taiwanese filmmaker) |
+| Historical character | Asia | Abbas Kiarostami (Iranian filmmaker) |
+| Historical character | Asia | Majid Majidi (Iranian filmmaker) |
+| Historical character | Asia | A. R. Rahman (Indian composer) |
+| Historical character | Asia | Ravi Shankar (Indian sitar virtuoso) |
+| Historical character | Asia | Nusrat Fateh Ali Khan (Pakistani qawwali singer) |
+| Historical character | Asia | Seiji Ozawa (Japanese conductor) |
+| Historical character | Asia | Yoko Ono (Japanese artist, musician) |
+| Historical character | Asia | Ai Weiwei (Chinese artist) |
+| Historical character | Asia | Yayoi Kusama (Japanese artist) |
+| Historical character | Asia | Takashi Murakami (Japanese artist) |
+| Historical character | Asia | Issey Miyake (Japanese fashion designer) |
+| Historical character | Asia | Rei Kawakubo (Japanese fashion designer) |
+| Historical character | Asia | Masayoshi Son (SoftBank founder, Japan) |
+| Historical character | Asia | Jack Ma (Alibaba founder, China) |
+| Historical character | Asia | Pony Ma (Tencent founder, China) |
+| Historical character | Asia | Zhang Yiming (ByteDance/TikTok founder, China) |
+| Historical character | Asia | Ren Zhengfei (Huawei founder, China) |
+| Historical character | Asia | Mukesh Ambani (Reliance, India) |
+| Historical character | Asia | Gautam Adani (Adani Group, India) |
+| Historical character | Asia | Ratan Tata (Tata Group, India) |
+| Historical character | Asia | Akio Morita (Sony co-founder, Japan) |
+| Historical character | Asia | Tadashi Yanai (Uniqlo founder, Japan) |
+| Historical character | Asia | Lee Byung-chul (Samsung founder, South Korea) |
+| Historical character | Asia | Chung Ju-yung (Hyundai founder, South Korea) |
+| Historical character | Asia | Masaru Ibuka (Sony co-founder, Japan) |
+| Historical character | Asia | Hiroshi Yamauchi (Nintendo president, Japan) |
+| Historical character | Asia | Shigeru Miyamoto (Nintendo game designer, Japan) |
+| Historical character | Asia | Hideo Kojima (video game designer, Japan) |
+| Historical character | Asia | Kazuo Inamori (Kyocera founder, Japan) |
+| Historical character | Asia | Soichiro Honda (Honda founder, Japan) |
+| Historical character | Asia | Akio Toyoda (Toyota executive, Japan) |
+| Historical character | Asia | Tadashi Yanai (Fast Retailing, Uniqlo) |
+| Historical character | Asia | Bruce Lee (martial artist, actor, Hong Kong) |
+| Historical character | Asia | Jackie Chan (martial artist, actor) |
+| Historical character | Asia | Jet Li (martial artist, actor) |
+| Historical character | Asia | Donnie Yen (martial artist, actor) |
+| Historical character | Asia | Gong Li (Chinese actress) |
+| Historical character | Asia | Zhang Ziyi (Chinese actress) |
+| Historical character | Asia | Fan Bingbing (Chinese actress) |
+| Historical character | Asia | Irrfan Khan (Indian actor) |
+| Historical character | Asia | Shah Rukh Khan (Indian actor) |
+| Historical character | Asia | Amitabh Bachchan (Indian actor) |
+| Historical character | Asia | Aishwarya Rai Bachchan (Indian actress) |
+| Historical character | Asia | Priyanka Chopra (Indian actress, global star) |
+| Historical character | Asia | Deepika Padukone (Indian actress) |
+| Historical character | Asia | Rajinikanth (Indian superstar actor) |
+| Historical character | Asia | Salman Khan (Indian actor) |
+| Historical character | Asia | Ranbir Kapoor (Indian actor) |
+| Historical character | Asia | Ayumi Hamasaki (Japanese singer) |
+| Historical character | Asia | Utada Hikaru (Japanese singer) |
+| Historical character | Asia | Namie Amuro (Japanese singer) |
+| Historical character | Asia | BTS (South Korean K-pop group) |
+| Historical character | Asia | Yao Ming (Chinese basketball player) |
+| Historical character | Asia | Ichiro Suzuki (Japanese baseball player) |
+| Historical character | Asia | Shohei Ohtani (Japanese baseball player) |
+| Historical character | Asia | Naomi Osaka (Japanese tennis player) |
+| Historical character | Asia | Li Na (Chinese tennis player) |
+| Historical character | Asia | Hidetoshi Nakata (Japanese footballer) |
+| Historical character | Asia | Sun Yang (Chinese swimmer) |
+| Historical character | Asia | Manny Pacquiao (Filipino boxer, politician) |
+| Historical character | Asia | Viswanathan Anand (Indian chess grandmaster) |
+| Historical character | Asia | Ding Liren (Chinese chess world champion) |
+| Historical character | Asia | Park Ji-sung (South Korean footballer) |
+| Historical character | Asia | Son Heung-min (South Korean footballer) |
+| Historical character | Asia | Saina Nehwal (Indian badminton player) |
+| Historical character | Asia | P. V. Sindhu (Indian badminton player) |
+| Historical character | Asia | Mary Kom (Indian boxer) |
+| Historical character | Asia | Abhinav Bindra (Indian Olympic shooter) |
+| Historical character | Asia | Kohei Uchimura (Japanese gymnast) |
+| Historical character | Asia | Kim Yuna (South Korean figure skater) |
+| Historical character | Asia | Hicham El Guerrouj (Moroccan runner) |
+| Historical character | Asia | Haile Gebrselassie (Ethiopian runner) |
+| Historical character | Asia | Monkey King (Sun Wukong, "Journey to the West", China) |
+| Historical character | Asia | Mulan (Chinese folk heroine) |
+| Historical character | Asia | Genji (from "The Tale of Genji", Japan) |
+| Historical character | Asia | Krishna (Hindu deity, India) |
+| Historical character | Asia | Rama (Hindu deity, India) |
+| Historical character | Asia | Arjuna (Hindu epic hero, India) |
+| Historical character | Asia | Hanuman (Hindu monkey god, India) |
+| Historical character | Asia | Vishnu (Hindu deity, India) |
+| Historical character | Asia | Shiva (Hindu deity, India) |
+| Historical character | Asia | Durga (Hindu goddess, India) |
+| Historical character | Asia | Amaterasu (Shinto sun goddess, Japan) |
+| Historical character | Asia | Izanagi (Shinto deity, Japan) |
+| Historical character | Asia | Izanami (Shinto deity, Japan) |
+| Historical character | Asia | Gilgamesh (Mesopotamian hero) |
+| Historical character | Asia | Scheherazade ("One Thousand and One Nights") |
+| Historical character | Asia | Aladdin ("One Thousand and One Nights") |
+| Historical character | Asia | Sinbad the Sailor ("One Thousand and One Nights") |
+| Historical character | Asia | Doraemon (Japanese manga character) |
+| Historical character | Asia | Astro Boy (Japanese manga character) |
+| Historical character | Asia | Son Goku (Dragon Ball, Japan, inspired by Monkey King) |
+| Historical character | North America excluding the Caribbean | Pocahontas (Powhatan figure, cultural mediator) |
+| Historical character | North America excluding the Caribbean | Sacagawea (Shoshone guide and interpreter) |
+| Historical character | North America excluding the Caribbean | Sitting Bull (Lakota leader) |
+| Historical character | North America excluding the Caribbean | Crazy Horse (Lakota war leader) |
+| Historical character | North America excluding the Caribbean | Geronimo (Apache leader) |
+| Historical character | North America excluding the Caribbean | Tecumseh (Shawnee chief, confederation builder) |
+| Historical character | North America excluding the Caribbean | Sequoyah (Cherokee creator of syllabary) |
+| Historical character | North America excluding the Caribbean | Hiawatha (co-founder of Iroquois Confederacy) |
+| Historical character | North America excluding the Caribbean | Deganawida (Great Peacemaker, Iroquois Confederacy) |
+| Historical character | North America excluding the Caribbean | Chief Joseph (Nez Perce leader) |
+| Historical character | North America excluding the Caribbean | Black Hawk (Sauk leader) |
+| Historical character | North America excluding the Caribbean | Red Cloud (Lakota leader, 19th century) |
+| Historical character | North America excluding the Caribbean | Osceola (Seminole leader) |
+| Historical character | North America excluding the Caribbean | Pontiac (Ottawa war leader) |
+| Historical character | North America excluding the Caribbean | Handsome Lake (Seneca religious leader) |
+| Historical character | North America excluding the Caribbean | Massasoit (Wampanoag leader) |
+| Historical character | North America excluding the Caribbean | Squanto (Wampanoag interpreter) |
+| Historical character | North America excluding the Caribbean | Montezuma II (Aztec emperor, symbolic figure in U.S. memory) |
+| Historical character | North America excluding the Caribbean | Cuauhtémoc (last Aztec emperor, hero in Mexican-American lore) |
+| Historical character | North America excluding the Caribbean | Toypurina (Tongva medicine woman, resister of Spanish rule) |
+| Historical character | North America excluding the Caribbean | George Washington (first U.S. President) |
+| Historical character | North America excluding the Caribbean | Thomas Jefferson (author of Declaration of Independence) |
+| Historical character | North America excluding the Caribbean | Benjamin Franklin (Founding Father, polymath) |
+| Historical character | North America excluding the Caribbean | John Adams (second U.S. President) |
+| Historical character | North America excluding the Caribbean | Abigail Adams (First Lady, women’s rights advocate) |
+| Historical character | North America excluding the Caribbean | James Madison (Father of the U.S. Constitution) |
+| Historical character | North America excluding the Caribbean | Alexander Hamilton (first Treasury Secretary) |
+| Historical character | North America excluding the Caribbean | Patrick Henry (“Give me liberty or give me death!”) |
+| Historical character | North America excluding the Caribbean | Thomas Paine (Common Sense) |
+| Historical character | North America excluding the Caribbean | Samuel Adams (revolutionary leader) |
+| Historical character | North America excluding the Caribbean | Paul Revere (patriot messenger) |
+| Historical character | North America excluding the Caribbean | John Hancock (patriot leader, first to sign Declaration) |
+| Historical character | North America excluding the Caribbean | Betsy Ross (legendary flag maker) |
+| Historical character | North America excluding the Caribbean | Marquis de Lafayette (French ally of revolution) |
+| Historical character | North America excluding the Caribbean | Benedict Arnold (general, infamous traitor) |
+| Historical character | North America excluding the Caribbean | Crispus Attucks (first casualty of Boston Massacre) |
+| Historical character | North America excluding the Caribbean | Nathanael Greene (Revolutionary War general) |
+| Historical character | North America excluding the Caribbean | Charles Cornwallis (British general in Revolutionary War) |
+| Historical character | North America excluding the Caribbean | John Jay (Founding Father, first Chief Justice) |
+| Historical character | North America excluding the Caribbean | Phillis Wheatley (first published African-American poet) |
+| Historical character | North America excluding the Caribbean | Abraham Lincoln (16th U.S. President, abolition of slavery) |
+| Historical character | North America excluding the Caribbean | Frederick Douglass (abolitionist, writer, orator) |
+| Historical character | North America excluding the Caribbean | Harriet Tubman (Underground Railroad conductor) |
+| Historical character | North America excluding the Caribbean | Sojourner Truth (abolitionist and women’s rights activist) |
+| Historical character | North America excluding the Caribbean | Susan B. Anthony (women’s suffrage leader) |
+| Historical character | North America excluding the Caribbean | Elizabeth Cady Stanton (women’s rights leader) |
+| Historical character | North America excluding the Caribbean | John Brown (abolitionist militant) |
+| Historical character | North America excluding the Caribbean | Robert E. Lee (Confederate general) |
+| Historical character | North America excluding the Caribbean | Ulysses S. Grant (Union general, U.S. President) |
+| Historical character | North America excluding the Caribbean | Stonewall Jackson (Confederate general) |
+| Historical character | North America excluding the Caribbean | William Tecumseh Sherman (Union general) |
+| Historical character | North America excluding the Caribbean | Jefferson Davis (Confederate President) |
+| Historical character | North America excluding the Caribbean | Harriet Beecher Stowe (Uncle Tom’s Cabin) |
+| Historical character | North America excluding the Caribbean | Walt Whitman (Leaves of Grass) |
+| Historical character | North America excluding the Caribbean | Herman Melville (Moby-Dick) |
+| Historical character | North America excluding the Caribbean | Nathaniel Hawthorne (The Scarlet Letter) |
+| Historical character | North America excluding the Caribbean | Edgar Allan Poe (writer, poet) |
+| Historical character | North America excluding the Caribbean | Ralph Waldo Emerson (transcendentalist philosopher) |
+| Historical character | North America excluding the Caribbean | Henry David Thoreau (Walden) |
+| Historical character | North America excluding the Caribbean | Louisa May Alcott (Little Women) |
+| Historical character | North America excluding the Caribbean | Thomas Edison (inventor, electric light bulb) |
+| Historical character | North America excluding the Caribbean | Nikola Tesla (inventor, engineer, U.S. influence) |
+| Historical character | North America excluding the Caribbean | Alexander Graham Bell (telephone inventor) |
+| Historical character | North America excluding the Caribbean | Samuel Morse (telegraph inventor) |
+| Historical character | North America excluding the Caribbean | Eli Whitney (cotton gin) |
+| Historical character | North America excluding the Caribbean | Cyrus McCormick (mechanical reaper) |
+| Historical character | North America excluding the Caribbean | John Deere (agricultural machinery) |
+| Historical character | North America excluding the Caribbean | Levi Strauss (blue jeans) |
+| Historical character | North America excluding the Caribbean | Buffalo Bill Cody (showman of the West) |
+| Historical character | North America excluding the Caribbean | Annie Oakley (sharpshooter, Wild West) |
+| Historical character | North America excluding the Caribbean | Mark Twain (writer, humorist) |
+| Historical character | North America excluding the Caribbean | Emily Dickinson (poet) |
+| Historical character | North America excluding the Caribbean | Henry James (novelist) |
+| Historical character | North America excluding the Caribbean | Harriet Jacobs (Incidents in the Life of a Slave Girl) |
+| Historical character | North America excluding the Caribbean | Chief Seattle (Duwamish leader, environmental advocate) |
+| Historical character | North America excluding the Caribbean | Brigham Young (Mormon leader) |
+| Historical character | North America excluding the Caribbean | Joseph Smith (Mormon founder) |
+| Historical character | North America excluding the Caribbean | Davy Crockett (frontiersman, folk hero) |
+| Historical character | North America excluding the Caribbean | Daniel Boone (frontiersman, explorer) |
+| Historical character | North America excluding the Caribbean | Kit Carson (frontiersman, scout) |
+| Historical character | North America excluding the Caribbean | Theodore Roosevelt (26th U.S. President, progressivism) |
+| Historical character | North America excluding the Caribbean | Woodrow Wilson (28th U.S. President, WWI era) |
+| Historical character | North America excluding the Caribbean | Franklin D. Roosevelt (32nd U.S. President, New Deal, WWII) |
+| Historical character | North America excluding the Caribbean | Eleanor Roosevelt (First Lady, human rights advocate) |
+| Historical character | North America excluding the Caribbean | Harry S. Truman (33rd U.S. President, atomic bomb, Marshall Plan) |
+| Historical character | North America excluding the Caribbean | Dwight D. Eisenhower (34th U.S. President, WWII general) |
+| Historical character | North America excluding the Caribbean | John F. Kennedy (35th U.S. President, Cold War) |
+| Historical character | North America excluding the Caribbean | Robert F. Kennedy (U.S. Attorney General, senator) |
+| Historical character | North America excluding the Caribbean | Lyndon B. Johnson (36th U.S. President, Civil Rights Act) |
+| Historical character | North America excluding the Caribbean | Richard Nixon (37th U.S. President, Watergate) |
+| Historical character | North America excluding the Caribbean | Gerald Ford (38th U.S. President) |
+| Historical character | North America excluding the Caribbean | Jimmy Carter (39th U.S. President, peace mediator) |
+| Historical character | North America excluding the Caribbean | Ronald Reagan (40th U.S. President, conservative icon) |
+| Historical character | North America excluding the Caribbean | George H. W. Bush (41st U.S. President) |
+| Historical character | North America excluding the Caribbean | Bill Clinton (42nd U.S. President) |
+| Historical character | North America excluding the Caribbean | George W. Bush (43rd U.S. President) |
+| Historical character | North America excluding the Caribbean | Barack Obama (44th U.S. President, first African American) |
+| Historical character | North America excluding the Caribbean | Donald Trump (45th U.S. President, polarizing figure) |
+| Historical character | North America excluding the Caribbean | Joe Biden (46th U.S. President) |
+| Historical character | North America excluding the Caribbean | Kamala Harris (Vice President, first woman/Black/Asian VP) |
+| Historical character | North America excluding the Caribbean | Martin Luther King Jr. (civil rights leader) |
+| Historical character | North America excluding the Caribbean | Malcolm X (Black nationalist leader) |
+| Historical character | North America excluding the Caribbean | Rosa Parks (civil rights activist) |
+| Historical character | North America excluding the Caribbean | Medgar Evers (civil rights activist) |
+| Historical character | North America excluding the Caribbean | W.E.B. Du Bois (scholar, activist) |
+| Historical character | North America excluding the Caribbean | Booker T. Washington (educator, leader) |
+| Historical character | North America excluding the Caribbean | Marcus Garvey (Black nationalist leader) |
+| Historical character | North America excluding the Caribbean | Cesar Chavez (farm workers’ rights leader) |
+| Historical character | North America excluding the Caribbean | Dolores Huerta (labor leader) |
+| Historical character | North America excluding the Caribbean | Angela Davis (activist, scholar) |
+| Historical character | North America excluding the Caribbean | Gloria Steinem (feminist leader) |
+| Historical character | North America excluding the Caribbean | Betty Friedan (The Feminine Mystique) |
+| Historical character | North America excluding the Caribbean | Shirley Chisholm (first Black woman in Congress) |
+| Historical character | North America excluding the Caribbean | Thurgood Marshall (first Black Supreme Court justice) |
+| Historical character | North America excluding the Caribbean | Ruth Bader Ginsburg (Supreme Court justice, gender rights) |
+| Historical character | North America excluding the Caribbean | Sandra Day O’Connor (first woman Supreme Court justice) |
+| Historical character | North America excluding the Caribbean | Ida B. Wells (anti-lynching activist, journalist) |
+| Historical character | North America excluding the Caribbean | Alice Paul (suffragist, feminist leader) |
+| Historical character | North America excluding the Caribbean | Carrie Chapman Catt (suffragist) |
+| Historical character | North America excluding the Caribbean | Fannie Lou Hamer (civil rights activist) |
+| Historical character | North America excluding the Caribbean | Ernest Hemingway (novelist) |
+| Historical character | North America excluding the Caribbean | F. Scott Fitzgerald (The Great Gatsby) |
+| Historical character | North America excluding the Caribbean | William Faulkner (novelist) |
+| Historical character | North America excluding the Caribbean | John Steinbeck (The Grapes of Wrath) |
+| Historical character | North America excluding the Caribbean | Toni Morrison (novelist, Nobel laureate) |
+| Historical character | North America excluding the Caribbean | Maya Angelou (poet, writer) |
+| Historical character | North America excluding the Caribbean | Langston Hughes (Harlem Renaissance poet) |
+| Historical character | North America excluding the Caribbean | Zora Neale Hurston (Their Eyes Were Watching God) |
+| Historical character | North America excluding the Caribbean | Jack Kerouac (On the Road) |
+| Historical character | North America excluding the Caribbean | Allen Ginsberg (Beat poet) |
+| Historical character | North America excluding the Caribbean | Bob Dylan (singer-songwriter, Nobel Prize) |
+| Historical character | North America excluding the Caribbean | Elvis Presley (rock and roll king) |
+| Historical character | North America excluding the Caribbean | Michael Jackson (pop icon) |
+| Historical character | North America excluding the Caribbean | Madonna (pop star) |
+| Historical character | North America excluding the Caribbean | Beyoncé (singer, cultural icon) |
+| Historical character | North America excluding the Caribbean | Prince (musician) |
+| Historical character | North America excluding the Caribbean | Louis Armstrong (jazz legend) |
+| Historical character | North America excluding the Caribbean | Duke Ellington (jazz composer) |
+| Historical character | North America excluding the Caribbean | Ella Fitzgerald (jazz singer) |
+| Historical character | North America excluding the Caribbean | Billie Holiday (jazz singer) |
+| Historical character | North America excluding the Caribbean | Walt Disney (film producer, animator) |
+| Historical character | North America excluding the Caribbean | Charlie Chaplin (silent film icon) |
+| Historical character | North America excluding the Caribbean | Orson Welles (Citizen Kane) |
+| Historical character | North America excluding the Caribbean | Steven Spielberg (director) |
+| Historical character | North America excluding the Caribbean | Martin Scorsese (director) |
+| Historical character | North America excluding the Caribbean | George Lucas (Star Wars) |
+| Historical character | North America excluding the Caribbean | James Cameron (Titanic, Avatar) |
+| Historical character | North America excluding the Caribbean | Quentin Tarantino (director) |
+| Historical character | North America excluding the Caribbean | Clint Eastwood (actor, director) |
+| Historical character | North America excluding the Caribbean | Marilyn Monroe (actress, icon) |
+| Historical character | North America excluding the Caribbean | Humphrey Bogart (actor) |
+| Historical character | North America excluding the Caribbean | James Dean (actor) |
+| Historical character | North America excluding the Caribbean | Marlon Brando (actor) |
+| Historical character | North America excluding the Caribbean | Meryl Streep (actress) |
+| Historical character | North America excluding the Caribbean | Robert De Niro (actor) |
+| Historical character | North America excluding the Caribbean | Al Pacino (actor) |
+| Historical character | North America excluding the Caribbean | Denzel Washington (actor) |
+| Historical character | North America excluding the Caribbean | Oprah Winfrey (media mogul) |
+| Historical character | North America excluding the Caribbean | Ellen DeGeneres (TV host) |
+| Historical character | North America excluding the Caribbean | Jimmy Fallon (TV host) |
+| Historical character | North America excluding the Caribbean | Albert Einstein (theory of relativity, lived in U.S.) |
+| Historical character | North America excluding the Caribbean | Richard Feynman (physicist) |
+| Historical character | North America excluding the Caribbean | Carl Sagan (astronomer, science communicator) |
+| Historical character | North America excluding the Caribbean | Neil deGrasse Tyson (astrophysicist) |
+| Historical character | North America excluding the Caribbean | Jane Goodall (primatologist, U.S. influence) |
+| Historical character | North America excluding the Caribbean | Rachel Carson (Silent Spring, environmentalist) |
+| Historical character | North America excluding the Caribbean | Jonas Salk (polio vaccine) |
+| Historical character | North America excluding the Caribbean | Linus Pauling (chemist, Nobel laureate) |
+| Historical character | North America excluding the Caribbean | Kary Mullis (PCR inventor) |
+| Historical character | North America excluding the Caribbean | Katherine Johnson (NASA mathematician) |
+| Historical character | North America excluding the Caribbean | Dorothy Vaughan (NASA mathematician) |
+| Historical character | North America excluding the Caribbean | Mary Jackson (NASA engineer) |
+| Historical character | North America excluding the Caribbean | Sally Ride (first American woman in space) |
+| Historical character | North America excluding the Caribbean | John Glenn (astronaut, senator) |
+| Historical character | North America excluding the Caribbean | Neil Armstrong (first man on the moon) |
+| Historical character | North America excluding the Caribbean | Buzz Aldrin (astronaut) |
+| Historical character | North America excluding the Caribbean | Alan Shepard (first American in space) |
+| Historical character | North America excluding the Caribbean | Elon Musk (entrepreneur, SpaceX, Tesla) |
+| Historical character | North America excluding the Caribbean | Steve Jobs (Apple co-founder) |
+| Historical character | North America excluding the Caribbean | Bill Gates (Microsoft co-founder) |
+| Historical character | North America excluding the Caribbean | Babe Ruth (baseball legend) |
+| Historical character | North America excluding the Caribbean | Jackie Robinson (broke MLB color barrier) |
+| Historical character | North America excluding the Caribbean | Hank Aaron (baseball legend) |
+| Historical character | North America excluding the Caribbean | Lou Gehrig (baseball legend) |
+| Historical character | North America excluding the Caribbean | Michael Jordan (basketball legend) |
+| Historical character | North America excluding the Caribbean | LeBron James (basketball star) |
+| Historical character | North America excluding the Caribbean | Kobe Bryant (basketball star) |
+| Historical character | North America excluding the Caribbean | Shaquille O’Neal (basketball star) |
+| Historical character | North America excluding the Caribbean | Larry Bird (basketball star) |
+| Historical character | North America excluding the Caribbean | Magic Johnson (basketball star) |
+| Historical character | North America excluding the Caribbean | Tom Brady (NFL quarterback) |
+| Historical character | North America excluding the Caribbean | Joe Montana (NFL quarterback) |
+| Historical character | North America excluding the Caribbean | Jim Brown (NFL running back) |
+| Historical character | North America excluding the Caribbean | Serena Williams (tennis champion) |
+| Historical character | North America excluding the Caribbean | Venus Williams (tennis champion) |
+| Historical character | North America excluding the Caribbean | Tiger Woods (golf legend) |
+| Historical character | North America excluding the Caribbean | Muhammad Ali (boxing legend) |
+| Historical character | North America excluding the Caribbean | Mike Tyson (boxing champion) |
+| Historical character | North America excluding the Caribbean | Wayne Gretzky (hockey legend) |
+| Historical character | North America excluding the Caribbean | Gordie Howe (hockey legend) |
+| Historical character | North America excluding the Caribbean | John A. Macdonald (first Prime Minister of Canada) |
+| Historical character | North America excluding the Caribbean | Lester B. Pearson (Canadian PM, Nobel Peace Prize) |
+| Historical character | North America excluding the Caribbean | Pierre Trudeau (Canadian PM) |
+| Historical character | North America excluding the Caribbean | Justin Trudeau (Canadian PM) |
+| Historical character | North America excluding the Caribbean | Wilfrid Laurier (Canadian PM) |
+| Historical character | North America excluding the Caribbean | Brian Mulroney (Canadian PM) |
+| Historical character | North America excluding the Caribbean | Jean Chrétien (Canadian PM) |
+| Historical character | North America excluding the Caribbean | Stephen Harper (Canadian PM) |
+| Historical character | North America excluding the Caribbean | Margaret Atwood (novelist, The Handmaid’s Tale) |
+| Historical character | North America excluding the Caribbean | Leonard Cohen (singer-songwriter, poet) |
+| Historical character | North America excluding the Caribbean | Celine Dion (singer) |
+| Historical character | North America excluding the Caribbean | Joni Mitchell (singer-songwriter) |
+| Historical character | North America excluding the Caribbean | Michael Bublé (singer) |
+| Historical character | North America excluding the Caribbean | Shania Twain (singer) |
+| Historical character | North America excluding the Caribbean | Neil Young (musician) |
+| Historical character | North America excluding the Caribbean | Drake (rapper) |
+| Historical character | North America excluding the Caribbean | The Weeknd (musician) |
+| Historical character | North America excluding the Caribbean | Jim Carrey (actor, comedian) |
+| Historical character | North America excluding the Caribbean | Ryan Reynolds (actor) |
+| Historical character | North America excluding the Caribbean | Keanu Reeves (actor) |
+| Historical character | North America excluding the Caribbean | Jeff Bezos (Amazon founder) |
+| Historical character | North America excluding the Caribbean | Mark Zuckerberg (Facebook founder) |
+| Historical character | North America excluding the Caribbean | Larry Page (Google co-founder) |
+| Historical character | North America excluding the Caribbean | Sergey Brin (Google co-founder) |
+| Historical character | North America excluding the Caribbean | Sundar Pichai (Alphabet CEO) |
+| Historical character | North America excluding the Caribbean | Tim Cook (Apple CEO) |
+| Historical character | North America excluding the Caribbean | Oprah Winfrey (media mogul) |
+| Historical character | North America excluding the Caribbean | Jay-Z (rapper, entrepreneur) |
+| Historical character | North America excluding the Caribbean | Kanye West (rapper, producer) |
+| Historical character | North America excluding the Caribbean | Taylor Swift (singer-songwriter) |
+| Historical character | North America excluding the Caribbean | Lady Gaga (singer, actress) |
+| Historical character | North America excluding the Caribbean | Rihanna (singer, businesswoman) |
+| Historical character | North America excluding the Caribbean | Kim Kardashian (media personality) |
+| Historical character | North America excluding the Caribbean | Kylie Jenner (entrepreneur) |
+| Historical character | North America excluding the Caribbean | Travis Scott (rapper) |
+| Historical character | North America excluding the Caribbean | Billie Eilish (singer-songwriter) |
+| Historical character | North America excluding the Caribbean | Post Malone (rapper) |
+| Historical character | North America excluding the Caribbean | Kendrick Lamar (rapper, Pulitzer Prize) |
+| Historical character | North America excluding the Caribbean | Lin-Manuel Miranda (Hamilton, playwright) |
+| Historical character | North America excluding the Caribbean | Jordan Peele (director, comedian) |
+| Historical character | North America excluding the Caribbean | Superman (DC Comics hero) |
+| Historical character | North America excluding the Caribbean | Batman (DC Comics hero) |
+| Historical character | North America excluding the Caribbean | Wonder Woman (DC Comics hero) |
+| Historical character | North America excluding the Caribbean | Spider-Man (Marvel Comics hero) |
+| Historical character | North America excluding the Caribbean | Captain America (Marvel Comics hero) |
+| Historical character | North America excluding the Caribbean | Hulk (Marvel Comics hero) |
+| Historical character | North America excluding the Caribbean | Mickey Mouse (Disney icon) |
+| Historical character | North America excluding the Caribbean | Bugs Bunny (Looney Tunes) |
+| Historical character | North America excluding the Caribbean | Homer Simpson (The Simpsons) |
+| Historical character | North America excluding the Caribbean | Bart Simpson (The Simpsons) |
+| Historical character | Europe | Homer (Greek poet, author of Iliad and Odyssey) |
+| Historical character | Europe | Socrates (Greek philosopher) |
+| Historical character | Europe | Plato (Greek philosopher) |
+| Historical character | Europe | Aristotle (Greek philosopher) |
+| Historical character | Europe | Alexander the Great (Macedonian conqueror) |
+| Historical character | Europe | Pericles (Athenian statesman) |
+| Historical character | Europe | Leonidas I (Spartan king) |
+| Historical character | Europe | Herodotus (Greek historian) |
+| Historical character | Europe | Thucydides (Greek historian) |
+| Historical character | Europe | Archimedes (Greek mathematician, inventor) |
+| Historical character | Europe | Euclid (Greek mathematician) |
+| Historical character | Europe | Hippocrates (Greek physician) |
+| Historical character | Europe | Pythagoras (Greek mathematician, philosopher) |
+| Historical character | Europe | Julius Caesar (Roman general, statesman) |
+| Historical character | Europe | Augustus (first Roman emperor) |
+| Historical character | Europe | Cicero (Roman orator, philosopher) |
+| Historical character | Europe | Virgil (Roman poet, Aeneid) |
+| Historical character | Europe | Ovid (Roman poet) |
+| Historical character | Europe | Marcus Aurelius (Roman emperor, Stoic philosopher) |
+| Historical character | Europe | Constantine the Great (Roman emperor, Christian patron) |
+| Historical character | Europe | Spartacus (Thracian gladiator, rebel) |
+| Historical character | Europe | Seneca (Roman Stoic philosopher) |
+| Historical character | Europe | Galen (Roman physician) |
+| Historical character | Europe | Diocletian (Roman emperor, reforms) |
+| Historical character | Europe | Charlemagne (Frankish king, Holy Roman Emperor) |
+| Historical character | Europe | Attila the Hun (warlord, Europe’s scourge) |
+| Historical character | Europe | Boudica (Celtic queen, rebel against Rome) |
+| Historical character | Europe | Vercingetorix (Gallic leader against Rome) |
+| Historical character | Europe | Saint Augustine (Christian theologian, philosopher) |
+| Historical character | Europe | Saint Jerome (Biblical scholar) |
+| Historical character | Europe | Saint Benedict of Nursia (monastic founder) |
+| Historical character | Europe | Saint Patrick (Christian missionary to Ireland) |
+| Historical character | Europe | Saint Cyril (missionary, alphabet creator) |
+| Historical character | Europe | Saint Methodius (missionary, alphabet creator) |
+| Historical character | Europe | Clovis I (Frankish king, Christian ruler) |
+| Historical character | Europe | William of Ockham (philosopher, Ockham’s razor) |
+| Historical character | Europe | Isidore of Seville (scholar, encyclopedist) |
+| Historical character | Europe | Boethius (Roman philosopher, Consolation of Philosophy) |
+| Historical character | Europe | Alcuin of York (scholar of Charlemagne’s court) |
+| Historical character | Europe | Averroes (philosopher, commentator on Aristotle) |
+| Historical character | Europe | Avicenna (Persian polymath, influential in Europe) |
+| Historical character | Europe | Saint Anselm (philosopher, theologian) |
+| Historical character | Europe | Thomas Aquinas (philosopher, theologian) |
+| Historical character | Europe | Hildegard of Bingen (German abbess, mystic, composer) |
+| Historical character | Europe | Eleanor of Aquitaine (queen, patron of culture) |
+| Historical character | Europe | Richard the Lionheart (English king, crusader) |
+| Historical character | Europe | Saladin (Muslim ruler, opponent in Crusades) |
+| Historical character | Europe | Geoffrey Chaucer (English poet, Canterbury Tales) |
+| Historical character | Europe | Dante Alighieri (Italian poet, Divine Comedy) |
+| Historical character | Europe | Petrarch (Italian scholar, poet, Renaissance precursor) |
+| Historical character | Europe | Leonardo da Vinci (artist, inventor) |
+| Historical character | Europe | Michelangelo (sculptor, painter, architect) |
+| Historical character | Europe | Raphael (painter, architect) |
+| Historical character | Europe | Donatello (sculptor) |
+| Historical character | Europe | Titian (painter) |
+| Historical character | Europe | Albrecht Dürer (German artist) |
+| Historical character | Europe | Johannes Gutenberg (printing press inventor) |
+| Historical character | Europe | Nicolaus Copernicus (astronomer, heliocentrism) |
+| Historical character | Europe | Galileo Galilei (astronomer, physicist) |
+| Historical character | Europe | Giordano Bruno (philosopher, martyr for science) |
+| Historical character | Europe | Tycho Brahe (astronomer) |
+| Historical character | Europe | Johannes Kepler (astronomer, planetary motion laws) |
+| Historical character | Europe | Martin Luther (Reformation leader) |
+| Historical character | Europe | John Calvin (theologian, reformer) |
+| Historical character | Europe | Erasmus of Rotterdam (humanist scholar) |
+| Historical character | Europe | Sir Thomas More (author of Utopia) |
+| Historical character | Europe | William Shakespeare (playwright, poet) |
+| Historical character | Europe | Christopher Marlowe (playwright, poet) |
+| Historical character | Europe | Miguel de Cervantes (Spanish novelist, Don Quixote) |
+| Historical character | Europe | Lope de Vega (Spanish playwright, poet) |
+| Historical character | Europe | Montaigne (French essayist) |
+| Historical character | Europe | Francis Bacon (English philosopher, scientist) |
+| Historical character | Europe | René Descartes (French philosopher, mathematician) |
+| Historical character | Europe | Blaise Pascal (French mathematician, philosopher) |
+| Historical character | Europe | Baruch Spinoza (Dutch philosopher) |
+| Historical character | Europe | Voltaire (French writer, philosopher) |
+| Historical character | Europe | Jean-Jacques Rousseau (philosopher, writer) |
+| Historical character | Europe | Montesquieu (French political thinker) |
+| Historical character | Europe | John Locke (English philosopher) |
+| Historical character | Europe | Thomas Hobbes (English philosopher) |
+| Historical character | Europe | Isaac Newton (physicist, mathematician) |
+| Historical character | Europe | Gottfried Wilhelm Leibniz (mathematician, philosopher) |
+| Historical character | Europe | Denis Diderot (encyclopedist, philosopher) |
+| Historical character | Europe | Adam Smith (economist, Wealth of Nations) |
+| Historical character | Europe | Immanuel Kant (German philosopher) |
+| Historical character | Europe | David Hume (Scottish philosopher) |
+| Historical character | Europe | Johann Wolfgang von Goethe (writer, Faust) |
+| Historical character | Europe | Friedrich Schiller (poet, dramatist) |
+| Historical character | Europe | Molière (French playwright) |
+| Historical character | Europe | Jean Racine (French playwright) |
+| Historical character | Europe | Torquato Tasso (Italian poet) |
+| Historical character | Europe | Ludovico Ariosto (Italian poet, Orlando Furioso) |
+| Historical character | Europe | John Milton (English poet, Paradise Lost) |
+| Historical character | Europe | Edmund Spenser (English poet, The Faerie Queene) |
+| Historical character | Europe | Christopher Columbus (explorer) |
+| Historical character | Europe | Vasco da Gama (explorer) |
+| Historical character | Europe | Ferdinand Magellan (explorer) |
+| Historical character | Europe | Hernán Cortés (conquistador) |
+| Historical character | Europe | Francisco Pizarro (conquistador) |
+| Historical character | Europe | Amerigo Vespucci (explorer) |
+| Historical character | Europe | Napoleon Bonaparte (French emperor) |
+| Historical character | Europe | Otto von Bismarck (German statesman) |
+| Historical character | Europe | Charles de Gaulle (French leader) |
+| Historical character | Europe | Winston Churchill (British PM) |
+| Historical character | Europe | Peter the Great (Russian tsar) |
+| Historical character | Europe | Catherine the Great (Russian empress) |
+| Historical character | Europe | Ivan the Terrible (Russian tsar) |
+| Historical character | Europe | Fyodor Dostoevsky (novelist) |
+| Historical character | Europe | Leo Tolstoy (novelist) |
+| Historical character | Europe | Anton Chekhov (playwright, short stories) |
+| Historical character | Europe | Victor Hugo (novelist, poet) |
+| Historical character | Europe | Alexandre Dumas (novelist) |
+| Historical character | Europe | Honoré de Balzac (novelist) |
+| Historical character | Europe | Gustave Flaubert (novelist) |
+| Historical character | Europe | Charles Baudelaire (poet) |
+| Historical character | Europe | Émile Zola (novelist) |
+| Historical character | Europe | Henrik Ibsen (playwright) |
+| Historical character | Europe | Hans Christian Andersen (fairy tale writer) |
+| Historical character | Europe | George Sand (novelist) |
+| Historical character | Europe | Lord Byron (poet) |
+| Historical character | Europe | Percy Bysshe Shelley (poet) |
+| Historical character | Europe | John Keats (poet) |
+| Historical character | Europe | Mary Shelley (novelist, Frankenstein) |
+| Historical character | Europe | Jane Austen (novelist) |
+| Historical character | Europe | Charlotte Brontë (novelist) |
+| Historical character | Europe | Emily Brontë (novelist) |
+| Historical character | Europe | Charles Dickens (novelist) |
+| Historical character | Europe | Thomas Hardy (novelist, poet) |
+| Historical character | Europe | George Eliot (Mary Ann Evans, novelist) |
+| Historical character | Europe | Oscar Wilde (playwright, wit) |
+| Historical character | Europe | Bram Stoker (novelist, Dracula) |
+| Historical character | Europe | James Joyce (novelist, Ulysses) |
+| Historical character | Europe | Samuel Beckett (playwright, novelist) |
+| Historical character | Europe | Franz Kafka (writer) |
+| Historical character | Europe | Sigmund Freud (psychoanalyst) |
+| Historical character | Europe | Carl Jung (psychiatrist) |
+| Historical character | Europe | Friedrich Nietzsche (philosopher) |
+| Historical character | Europe | Karl Marx (philosopher, economist) |
+| Historical character | Europe | Friedrich Engels (philosopher, socialist) |
+| Historical character | Europe | Max Weber (sociologist) |
+| Historical character | Europe | Claude Monet (painter, impressionist) |
+| Historical character | Europe | Pierre-Auguste Renoir (painter, impressionist) |
+| Historical character | Europe | Edgar Degas (painter, sculptor) |
+| Historical character | Europe | Paul Cézanne (painter) |
+| Historical character | Europe | Vincent van Gogh (painter) |
+| Historical character | Europe | Paul Gauguin (painter) |
+| Historical character | Europe | Henri Matisse (painter) |
+| Historical character | Europe | Pablo Picasso (painter, sculptor) |
+| Historical character | Europe | Salvador Dalí (painter, surrealist) |
+| Historical character | Europe | Joan Miró (painter, surrealist) |
+| Historical character | Europe | Albert Einstein (physicist) |
+| Historical character | Europe | Niels Bohr (physicist) |
+| Historical character | Europe | Werner Heisenberg (physicist) |
+| Historical character | Europe | Max Planck (physicist) |
+| Historical character | Europe | Marie Curie (chemist, physicist) |
+| Historical character | Europe | Enrico Fermi (physicist) |
+| Historical character | Europe | Erwin Schrödinger (physicist) |
+| Historical character | Europe | Kurt Gödel (mathematician, logician) |
+| Historical character | Europe | Alan Turing (mathematician, codebreaker) |
+| Historical character | Europe | J. R. R. Tolkien (novelist, The Lord of the Rings) |
+| Historical character | Europe | C. S. Lewis (novelist, Narnia) |
+| Historical character | Europe | George Orwell (novelist, essayist) |
+| Historical character | Europe | Aldous Huxley (novelist, Brave New World) |
+| Historical character | Europe | Virginia Woolf (novelist) |
+| Historical character | Europe | T. S. Eliot (poet) |
+| Historical character | Europe | Ezra Pound (poet) |
+| Historical character | Europe | W. B. Yeats (poet) |
+| Historical character | Europe | Seamus Heaney (poet) |
+| Historical character | Europe | Umberto Eco (novelist, The Name of the Rose) |
+| Historical character | Europe | Italo Calvino (novelist) |
+| Historical character | Europe | Albert Camus (philosopher, novelist) |
+| Historical character | Europe | Jean-Paul Sartre (philosopher, novelist) |
+| Historical character | Europe | Simone de Beauvoir (philosopher, feminist) |
+| Historical character | Europe | Michel Foucault (philosopher, historian) |
+| Historical character | Europe | Jacques Derrida (philosopher) |
+| Historical character | Europe | Roland Barthes (literary critic) |
+| Historical character | Europe | Hannah Arendt (political theorist) |
+| Historical character | Europe | Vaclav Havel (Czech writer, president) |
+| Historical character | Europe | Mikhail Gorbachev (Soviet leader, reformer) |
+| Historical character | Europe | Vladimir Lenin (Russian revolutionary) |
+| Historical character | Europe | Joseph Stalin (Soviet leader) |
+| Historical character | Europe | Adolf Hitler (German dictator) |
+| Historical character | Europe | Benito Mussolini (Italian dictator) |
+| Historical character | Europe | Francisco Franco (Spanish dictator) |
+| Historical character | Europe | Margaret Thatcher (UK Prime Minister) |
+| Historical character | Europe | Tony Blair (UK Prime Minister) |
+| Historical character | Europe | Angela Merkel (German Chancellor) |
+| Historical character | Europe | Lech Wałęsa (Polish leader, Solidarity) |
+| Historical character | Europe | Pope John Paul II (Polish pope) |
+| Historical character | Europe | Pope Francis (Argentinian pope, Europe’s Church) |
+| Historical character | Europe | Sigmund Freud (psychoanalyst) |
+| Historical character | Europe | Jacques Cousteau (explorer, oceanographer) |
+| Historical character | Europe | Louis Pasteur (scientist) |
+| Historical character | Europe | Dmitri Mendeleev (chemist, periodic table) |
+| Historical character | Europe | Alexander Fleming (discoverer of penicillin) |
+| Historical character | Europe | Jean Piaget (psychologist) |
+| Historical character | Europe | Claude Lévi-Strauss (anthropologist) |
+| Historical character | Europe | André Gide (novelist) |
+| Historical character | Europe | Albert Schweitzer (theologian, physician) |
+| Historical character | Europe | Jean Monnet (architect of EU) |
+| Historical character | Europe | Hamlet (Shakespeare’s prince of Denmark) |
+| Historical character | Europe | King Lear (Shakespeare) |
+| Historical character | Europe | Othello (Shakespeare) |
+| Historical character | Europe | Macbeth (Shakespeare) |
+| Historical character | Europe | Don Quixote (Cervantes) |
+| Historical character | Europe | Sancho Panza (Cervantes) |
+| Historical character | Europe | Faust (Goethe) |
+| Historical character | Europe | Mephistopheles (Goethe) |
+| Historical character | Europe | Robinson Crusoe (Defoe) |
+| Historical character | Europe | Sherlock Holmes (Conan Doyle) |
+| Historical character | Europe | Dr. Watson (Conan Doyle) |
+| Historical character | Europe | Count Dracula (Stoker) |
+| Historical character | Europe | Frankenstein’s Monster (Mary Shelley) |
+| Historical character | Europe | Dorian Gray (Oscar Wilde) |
+| Historical character | Europe | Anna Karenina (Tolstoy) |
+| Historical character | Europe | Raskolnikov (Crime and Punishment) |
+| Historical character | Europe | Gregor Samsa (Metamorphosis, Kafka) |
+| Historical character | Europe | Leopold Bloom (Ulysses) |
+| Historical character | Europe | Molly Bloom (Ulysses) |
+| Historical character | Europe | Harry Potter (Rowling) |
+| Historical character | Europe | Hermione Granger (Rowling) |
+| Historical character | Europe | Ron Weasley (Rowling) |
+| Historical character | Europe | Severus Snape (Rowling) |
+| Historical character | Europe | Albus Dumbledore (Rowling) |
+| Historical character | Europe | Frodo Baggins (Tolkien) |
+| Historical character | Europe | Gandalf (Tolkien) |
+| Historical character | Europe | Aragorn (Tolkien) |
+| Historical character | Europe | Legolas (Tolkien) |
+| Historical character | Europe | Gollum (Tolkien) |
+| Historical character | Europe | Aslan (Narnia) |
+| Historical character | Europe | Václav Klaus (Czech politician) |
+| Historical character | Europe | Emmanuel Macron (French President) |
+| Historical character | Europe | Ursula von der Leyen (EU Commission President) |
+| Historical character | Europe | Mario Draghi (Italian economist, PM) |
+| Historical character | Europe | Boris Johnson (UK Prime Minister) |
+| Historical character | Europe | Volodymyr Zelenskyy (Ukrainian President) |
+| Historical character | Europe | Greta Thunberg (Swedish climate activist) |
+| Historical character | Europe | Malala Yousafzai (Pakistani activist, honorary European influence) |
+| Historical character | Europe | Björk (Icelandic musician) |
+| Historical character | Europe | David Bowie (musician) |
+| Historical character | Europe | Freddie Mercury (musician) |
+| Historical character | Europe | Ludwig van Beethoven (composer) |
+| Historical character | Europe | Wolfgang Amadeus Mozart (composer) |
+| Historical character | Europe | Johann Sebastian Bach (composer) |
+| Historical character | Europe | Richard Wagner (composer) |
+| Historical character | Europe | Giuseppe Verdi (composer) |
+| Historical character | Europe | Igor Stravinsky (composer) |
+| Historical character | Europe | Sergei Rachmaninoff (composer) |
+| Historical character | Europe | Pyotr Ilyich Tchaikovsky (composer) |
+| Historical character | Europe | Dmitri Shostakovich (composer) |
+| Famous artwork | Oceania | New Caledonia Petroglyphs |
+| Famous artwork | Oceania | Moai Statues |
+| Famous artwork | Oceania | Hawaiian Feather Cloaks |
+| Famous artwork | Oceania | Tongan Stone Trilithon – Haʻamonga ʻa Maui |
+| Famous artwork | Oceania | Micronesian Navigational Stick Charts |
+| Famous artwork | Oceania | Easter Island Rongorongo Script Carvings |
+| Famous artwork | Oceania | Moai Tukuturi |
+| Famous artwork | Oceania | Stone Figures of Nuku Hiva |
+| Famous artwork | Oceania | Marquesan U’u Clubs |
+| Famous artwork | Oceania | Hawaiian Heiau Temple Sculptures |
+| Famous artwork | Oceania | Māori Wharenui |
+| Famous artwork | Oceania | Sepik Ceremonial Houses |
+| Famous artwork | Oceania | Kiribati Shark-Tooth Swords |
+| Famous artwork | Oceania | In Pursuit of Venus [infected] |
+| Famous artwork | Oceania | Big Yam Dreaming |
+| Famous artwork | Oceania | Hawaiian Kumulipo |
+| Famous artwork | Oceania | Sydney's Government House (Gothic Revival mansion) |
+| Famous artwork | Oceania | Whale Rider (2002, dir. Niki Caro) |
+| Famous artwork | Oceania | Once Were Warriors (1994, dir. Lee Tamahori) |
+| Famous artwork | Oceania | Samson and Delilah (2009, Warwick Thornton) |
+| Famous artwork | Oceania | Tanna (2015, Vanuatu) |
+| Famous artwork | Oceania | Israel Kamakawiwoʻole – “Somewhere Over the Rainbow / What a Wonderful World” (1993, Hawai‘i) |
+| Famous artwork | Oceania | Yothu Yindi – “Treaty” (1991) |
+| Famous artwork | Oceania | Sia – “Chandelier” (2014) |
+| Famous artwork | Oceania | AC/DC – “Highway to Hell” (1979) |
+| Famous artwork | Oceania | AC/DC – “Back in Black” (1980) |
+| Famous artwork | Oceania | Gotye – “Somebody That I Used to Know” (2011) |
+| Famous artwork | Oceania | Crowded House – “Don’t Dream It’s Over” (1986) |
+| Famous artwork | Oceania | Herbs – “Sensitive to a Smile” (1987) |
+| Famous artwork | Oceania | Lorde – “Royals” (2013) |
+| Famous artwork | Oceania | Oodgeroo Noonuccal, We Are Going (1964) |
+| Famous artwork | Oceania | David Malouf, Remembering Babylon (1993) |
+| Famous artwork | Oceania | Kim Scott, Benang (1999) |
+| Famous artwork | Oceania | Alexis Wright, Carpentaria (2006) |
+| Famous artwork | Oceania | Witi Ihimaera, The Whale Rider (1987) |
+| Famous artwork | Oceania | Patricia Grace, Potiki (1986) |
+| Famous artwork | Oceania | Hone Tuwhare, No Ordinary Sun (1964) |
+| Famous artwork | Oceania | Alan Duff, Once Were Warriors (1990) |
+| Famous artwork | Oceania | Epeli Hau‘ofa, Tales of the Tikongs (1983) |
+| Famous artwork | Oceania | Epeli Hau‘ofa, Kisses in the Nederends (1987) |
+| Famous artwork | Oceania | Albert Wendt, Leaves of the Banyan Tree (1979, Samoa) |
+| Famous artwork | Oceania | Albert Wendt, Sons for the Return Home (1973) |
+| Famous artwork | Oceania | Grace Molisa (Vanuatu), Colonised People (1987) |
+| Famous artwork | Oceania | John Pule (Niue), The Shark That Ate the Sun (Ko e Mago Ne Kai e La) (1992) |
+| Famous artwork | Oceania | Russell Soaba, Wanpis (1977) |
+| Famous artwork | Oceania | Vincent Eri, The Crocodile (1970) |
+| Famous artwork | Oceania | Sia Figiel, Where We Once Belonged (1996, Samoa) |
+| Famous artwork | Oceania | The Piano (1993, dir. Jane Campion) |
+| Famous artwork | Oceania | Mad Max (1979, dir. George Miller) |
+| Famous artwork | Oceania | The Lord of the Rings Trilogy (2001–2003, dir. Peter Jackson) |
+| Famous artwork | Africa | Drakensberg Rock Art |
+| Famous artwork | Africa | Matobo Hills Rock Paintings |
+| Famous artwork | Africa | Axumite Stelae |
+| Famous artwork | Africa | Nok Terracotta Figures |
+| Famous artwork | Africa | Ifé Terracotta Heads |
+| Famous artwork | Africa | Rock Art of Tassili n’Ajjer |
+| Famous artwork | Africa | El Djem Amphitheatre Mosaics |
+| Famous artwork | Africa | Sabratha Theater Sculptures |
+| Famous artwork | Africa | Fayum Mummy Portraits |
+| Famous artwork | Africa | Temple of Ramses II at Abu Simbel |
+| Famous artwork | Africa | Book of the Dead of Ani |
+| Famous artwork | Africa | Bust of Nefertiti |
+| Famous artwork | Africa | Lalibela Rock-Hewn Churches |
+| Famous artwork | Africa | Great Mosque of Kilwa Kisiwani |
+| Famous artwork | Africa | The Dome of the Rock (Qubbat al-Sakhra) |
+| Famous artwork | Africa | Benin Bronze Plaques |
+| Famous artwork | Africa | Ife Bronze Figure of an Ooni (King) |
+| Famous artwork | Africa | Igbo-Ukwu Bronze Ritual Vessels |
+| Famous artwork | Africa | Jenne-Jeno Terracotta Figurines |
+| Famous artwork | Africa | Great Mosque of Djenné |
+| Famous artwork | Africa | Timbuktu Manuscripts |
+| Famous artwork | Africa | Ifa Divination Bowls |
+| Famous artwork | Africa | Kongo Kingdom Stone and Ivory Carvings |
+| Famous artwork | Africa | Great Mosque of Gedi Ruins |
+| Famous artwork | Africa | Mapungubwe Gold Rhino |
+| Famous artwork | Africa | Great Enclosure at Great Zimbabwe |
+| Famous artwork | Africa | Bronze Head of Queen Mother Idia |
+| Famous artwork | Africa | Benin Royal Ivory Mask of Idia |
+| Famous artwork | Africa | Benin Brass Leopard Sculptures |
+| Famous artwork | Africa | Ashanti Royal Kente Cloths |
+| Famous artwork | Africa | Fon Vodun Sculptures |
+| Famous artwork | Africa | Moroccan Zellij Tilework |
+| Famous artwork | Africa | Saadian Tombs Ornamentation |
+| Famous artwork | Africa | Algerian Islamic Manuscripts with Maghrebi Script |
+| Famous artwork | Africa | Ethiopian Gondarine Church Paintings |
+| Famous artwork | Africa | Ethiopian Diptych and Triptych Icons |
+| Famous artwork | Africa | Chokwe Ancestral Masks |
+| Famous artwork | Africa | Kongo Power Figures (Nkisi Nkondi) |
+| Famous artwork | Africa | Luba Memory Boards (Lukasa) |
+| Famous artwork | Africa | Fulani Calabash Carvings |
+| Famous artwork | Africa | Senufo Helmet Masks (Kpelié) |
+| Famous artwork | Africa | Cairo Station (1958, Egypt) — Youssef Chahine |
+| Famous artwork | Africa | Black Girl (1966, Senegal) — Ousmane Sembène |
+| Famous artwork | Africa | Touki Bouki (1973, Senegal) — Djibril Diop Mambéty |
+| Famous artwork | Africa | Xala (1975, Senegal) — Ousmane Sembène |
+| Famous artwork | Africa | Yeelen (1987, Mali) — Souleymane Cissé |
+| Famous artwork | Africa | Tilai (1990, Burkina Faso) — Idrissa Ouédraogo |
+| Famous artwork | Africa | Tsotsi (2005, South Africa) — Gavin Hood |
+| Famous artwork | Africa | Timbuktu (2014, Mauritania/Mali) — Abderrahmane Sissako |
+| Famous artwork | Africa | Rafiki (2018, Kenya) — Wanuri Kahiu |
+| Famous artwork | Africa | Atlantics (2019, Senegal) — Mati Diop |
+| Famous artwork | Africa | Umm Kulthum — Enta Omri (1964, Egypt) |
+| Famous artwork | Africa | Miriam Makeba — Pata Pata (1967, South Africa) |
+| Famous artwork | Africa | Hugh Masekela — Grazing in the Grass (1968, South Africa) |
+| Famous artwork | Africa | Fela Kuti — Zombie (1976, Nigeria) |
+| Famous artwork | Africa | Franco & TPOK Jazz — Mario (1985, DR Congo) |
+| Famous artwork | Africa | Salif Keita — Soro (1987, Mali) |
+| Famous artwork | Africa | Ladysmith Black Mambazo — Shaka Zulu (1987, South Africa) |
+| Famous artwork | Africa | Oumou Sangaré — Moussolou (1989, Mali) |
+| Famous artwork | Africa | Ali Farka Touré — Talking Timbuktu (1994, Mali) |
+| Famous artwork | Africa | Youssou N’Dour & Neneh Cherry — 7 Seconds (1994, Senegal) |
+| Famous artwork | Africa | Cheb Khaled — Didi (1992, Algeria) |
+| Famous artwork | Africa | Angelique Kidjo — Mother Nature (2021, Benin) |
+| Famous artwork | Africa | Tinariwen — Amassakoul (2004, Mali) |
+| Famous artwork | Africa | Burna Boy — African Giant (2019, Nigeria) |
+| Famous artwork | Africa | Master KG ft. Nomcebo — Jerusalema (2019, South Africa) |
+| Famous artwork | Africa | Pantsula (1950s–, South Africa) |
+| Famous artwork | Africa | Toyi-Toyi (20th c., Southern Africa) |
+| Famous artwork | Africa | Azonto (2010s, Ghana) |
+| Famous artwork | Africa | Gwara Gwara (2016–, South Africa) |
+| Famous artwork | Africa | Djamaa el Djazaïr (Great Mosque of Algiers) (2019, Algeria) |
+| Famous artwork | Africa | Njideka Akunyili Crosby — I Still Face You (2015, Nigeria/US) |
+| Famous artwork | Africa | Chinua Achebe — Things Fall Apart (1958, Nigeria) |
+| Famous artwork | Africa | Ngũgĩ wa Thiong’o — A Grain of Wheat (1967, Kenya) |
+| Famous artwork | Africa | Tayeb Salih — Season of Migration to the North (1966, Sudan) |
+| Famous artwork | Africa | Wole Soyinka — Death and the King’s Horseman (1975, Nigeria) |
+| Famous artwork | Africa | Mariama Bâ — So Long a Letter (1979, Senegal) |
+| Famous artwork | Africa | Tsitsi Dangarembga — Nervous Conditions (1988, Zimbabwe) |
+| Famous artwork | Africa | Ben Okri — The Famished Road (1991, Nigeria) |
+| Famous artwork | Africa | Nuruddin Farah — Maps (1986, Somalia) |
+| Famous artwork | Africa | Abdulrazak Gurnah — Paradise (1994, Tanzania) |
+| Famous artwork | Africa | Chimamanda Ngozi Adichie — Half of a Yellow Sun (2006, Nigeria) |
+| Famous artwork | Africa | Naguib Mahfouz — The Cairo Trilogy (1956–57, Egypt) |
+| Famous artwork | Africa | Assia Djebar — Fantasia: An Algerian Cavalcade (1985, Algeria) |
+| Famous artwork | Africa | Ayi Kwei Armah — The Beautyful Ones Are Not Yet Born (1968, Ghana) |
+| Famous artwork | Africa | Nnedi Okorafor — Who Fears Death (2010, Nigeria/US) |
+| Famous artwork | Africa | Thomas Mofolo — Chaka (1925, Lesotho) |
+| Famous artwork | Africa | Great Mosque of Djenné (1907 reconstruction, Mali) |
+| Famous artwork | Africa | Fiat Tagliero Building (1938, Eritrea) |
+| Famous artwork | Africa | Kenyatta International Convention Centre (1974, Kenya) |
+| Famous artwork | Africa | Eastgate Centre (1996, Zimbabwe) |
+| Famous artwork | Africa | Gando Primary School (2001, Burkina Faso; Francis Kéré) |
+| Famous artwork | Africa | Bibliotheca Alexandrina (2002, Egypt) |
+| Famous artwork | Africa | Zeitz MOCAA (2017, South Africa) |
+| Famous artwork | Africa | Gerard Sekoto — Yellow Houses, Sophiatown (1940s, South Africa) |
+| Famous artwork | Africa | Ben Enwonwu — Tutu (1973, Nigeria) |
+| Famous artwork | Africa | Ibrahim El-Salahi — The Inevitable (1964, Sudan) |
+| Famous artwork | Africa | Skunder Boghossian — Night Flight of Dread and Delight (1964, Ethiopia) |
+| Famous artwork | Africa | Chéri Samba — J’aime la couleur (1999, DR Congo) |
+| Famous artwork | Africa | Julie Mehretu — Stadia II (2004, Ethiopia/US) |
+| Famous artwork | South America, Central America and the Caribbean | City of God (Fernando Meirelles & Kátia Lund, Brazil, 2002) |
+| Famous artwork | South America, Central America and the Caribbean | Central Station (Walter Salles, Brazil, 1998) |
+| Famous artwork | South America, Central America and the Caribbean | Black Orpheus (Marcel Camus, Brazil, 1959) |
+| Famous artwork | South America, Central America and the Caribbean | Bacurau (Kleber Mendonça Filho & Juliano Dornelles, Brazil, 2019) |
+| Famous artwork | South America, Central America and the Caribbean | Pixote (Héctor Babenco, Brazil, 1980) |
+| Famous artwork | South America, Central America and the Caribbean | Elite Squad (José Padilha, Brazil, 2007) |
+| Famous artwork | South America, Central America and the Caribbean | Macunaíma (Joaquim Pedro de Andrade, Brazil, 1969) |
+| Famous artwork | South America, Central America and the Caribbean | The Secret in Their Eyes (Juan José Campanella, Argentina, 2009) |
+| Famous artwork | South America, Central America and the Caribbean | The Official Story (Luis Puenzo, Argentina, 1985) |
+| Famous artwork | South America, Central America and the Caribbean | Nine Queens (Fabián Bielinsky, Argentina, 2000) |
+| Famous artwork | South America, Central America and the Caribbean | The Headless Woman (Lucrecia Martel, Argentina, 2008) |
+| Famous artwork | South America, Central America and the Caribbean | Wild Tales (Damián Szifron, Argentina, 2014) |
+| Famous artwork | South America, Central America and the Caribbean | A Fantastic Woman (Sebastián Lelio, Chile, 2017) |
+| Famous artwork | South America, Central America and the Caribbean | No (Pablo Larraín, Chile, 2012) |
+| Famous artwork | South America, Central America and the Caribbean | The Battle of Chile (Patricio Guzmán, Chile, 1975–79) |
+| Famous artwork | South America, Central America and the Caribbean | The Milk of Sorrow (Claudia Llosa, Peru, 2009) |
+| Famous artwork | South America, Central America and the Caribbean | Embrace of the Serpent (Ciro Guerra, Colombia, 2015) |
+| Famous artwork | South America, Central America and the Caribbean | Birds of Passage (Ciro Guerra & Cristina Gallego, Colombia, 2018) |
+| Famous artwork | South America, Central America and the Caribbean | Monos (Alejandro Landes, Colombia, 2019) |
+| Famous artwork | South America, Central America and the Caribbean | 7 Boxes (Juan Carlos Maneglia & Tana Schémbori, Paraguay, 2012) |
+| Famous artwork | South America, Central America and the Caribbean | Blood of the Condor / Yawar Mallku (Jorge Sanjinés, Bolivia, 1969) |
+| Famous artwork | South America, Central America and the Caribbean | I Am Cuba (Mikhail Kalatozov, Cuba, 1964) |
+| Famous artwork | South America, Central America and the Caribbean | Memories of Underdevelopment (Tomás Gutiérrez Alea, Cuba, 1968) |
+| Famous artwork | South America, Central America and the Caribbean | Strawberry and Chocolate (Tomás Gutiérrez Alea & Juan Carlos Tabío, Cuba, 1993) |
+| Famous artwork | South America, Central America and the Caribbean | Lucía (Humberto Solás, Cuba, 1968) |
+| Famous artwork | South America, Central America and the Caribbean | Ixcanul (Jayro Bustamante, Guatemala, 2015) |
+| Famous artwork | South America, Central America and the Caribbean | La Llorona (Jayro Bustamante, Guatemala, 2019) |
+| Famous artwork | South America, Central America and the Caribbean | Whisky (Juan Pablo Rebella & Pablo Stoll, Uruguay, 2004) |
+| Famous artwork | South America, Central America and the Caribbean | Tango (Argentina/Uruguay) |
+| Famous artwork | South America, Central America and the Caribbean | Samba (Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Capoeira (Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Frevo (Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Forró (Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Candombe (Uruguay) |
+| Famous artwork | South America, Central America and the Caribbean | Cueca (Chile) |
+| Famous artwork | South America, Central America and the Caribbean | Marinera (Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Huayno (Andes) |
+| Famous artwork | South America, Central America and the Caribbean | Diablada (Bolivia) |
+| Famous artwork | South America, Central America and the Caribbean | Joropo (Venezuela/Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | Cumbia (Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | Mapalé (Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | Bomba (Puerto Rico) |
+| Famous artwork | South America, Central America and the Caribbean | Plena (Puerto Rico) |
+| Famous artwork | South America, Central America and the Caribbean | Danzón (Cuba) |
+| Famous artwork | South America, Central America and the Caribbean | Rumba (Cuba) |
+| Famous artwork | South America, Central America and the Caribbean | Mambo (Cuba) |
+| Famous artwork | South America, Central America and the Caribbean | Merengue (Dominican Republic) |
+| Famous artwork | South America, Central America and the Caribbean | Bachata (Dominican Republic) |
+| Famous artwork | South America, Central America and the Caribbean | Christ the Redeemer (Paul Landowski & Heitor da Silva Costa, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Monumento às Bandeiras (Victor Brecheret, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Hand of the Desert (Mario Irarrázabal, Chile) |
+| Famous artwork | South America, Central America and the Caribbean | La Carreta (José Belloni, Uruguay) |
+| Famous artwork | South America, Central America and the Caribbean | San Agustín Stone Statues (San Agustín culture, Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | Ponce Monolith (Tiwanaku, Bolivia) |
+| Famous artwork | South America, Central America and the Caribbean | Bennett (El Fraile) Monolith (Tiwanaku, Bolivia) |
+| Famous artwork | South America, Central America and the Caribbean | Lanzón (Chavín de Huántar, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Moche Portrait Vessels (Moche culture, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Sicán/Lambayeque Tumis (ritual metalwork, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Intihuatana, Machu Picchu (Inca, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Valdivia “Venus” Figurines (Valdivia culture, Ecuador) |
+| Famous artwork | South America, Central America and the Caribbean | Diquís Stone Spheres (Costa Rica) |
+| Famous artwork | South America, Central America and the Caribbean | Stela H, Copán (Maya, Honduras) |
+| Famous artwork | South America, Central America and the Caribbean | Tikal Stela 31 (Maya, Guatemala) |
+| Famous artwork | South America, Central America and the Caribbean | Quiriguá Stela E (Maya, Guatemala) |
+| Famous artwork | South America, Central America and the Caribbean | Taíno Zemi (three-pointed stones, Caribbean) |
+| Famous artwork | South America, Central America and the Caribbean | Taíno Duho (ceremonial seat, Caribbean) |
+| Famous artwork | South America, Central America and the Caribbean | Negro Aroused (Edna Manley, Jamaica) |
+| Famous artwork | South America, Central America and the Caribbean | Penetrables (Jesús Rafael Soto, Venezuela) |
+| Famous artwork | South America, Central America and the Caribbean | Chromosaturation (Carlos Cruz-Diez, Venezuela) |
+| Famous artwork | South America, Central America and the Caribbean | Bichos (Lygia Clark, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Babel (Cildo Meireles, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Bird / El Pájaro (Fernando Botero, Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | María Lionza (Alejandro Colina, Venezuela) |
+| Famous artwork | South America, Central America and the Caribbean | One Hundred Years of Solitude (Gabriel García Márquez, Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | Love in the Time of Cholera (Gabriel García Márquez, Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | Ficciones (Jorge Luis Borges, Argentina) |
+| Famous artwork | South America, Central America and the Caribbean | The Aleph (Jorge Luis Borges, Argentina) |
+| Famous artwork | South America, Central America and the Caribbean | Hopscotch / Rayuela (Julio Cortázar, Argentina) |
+| Famous artwork | South America, Central America and the Caribbean | The Tunnel (Ernesto Sabato, Argentina) |
+| Famous artwork | South America, Central America and the Caribbean | Martín Fierro (José Hernández, Argentina) |
+| Famous artwork | South America, Central America and the Caribbean | The Hour of the Star (Clarice Lispector, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Dom Casmurro (Machado de Assis, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | The Posthumous Memoirs of Brás Cubas (Machado de Assis, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Grande Sertão: Veredas (João Guimarães Rosa, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Macunaíma (Mário de Andrade, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Gabriela, Clove and Cinnamon (Jorge Amado, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | The Alchemist (Paulo Coelho, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | The House of the Spirits (Isabel Allende, Chile) |
+| Famous artwork | South America, Central America and the Caribbean | The Savage Detectives (Roberto Bolaño, Chile) |
+| Famous artwork | South America, Central America and the Caribbean | 2666 (Roberto Bolaño, Chile) |
+| Famous artwork | South America, Central America and the Caribbean | Twenty Love Poems and a Song of Despair (Pablo Neruda, Chile) |
+| Famous artwork | South America, Central America and the Caribbean | Canto General (Pablo Neruda, Chile) |
+| Famous artwork | South America, Central America and the Caribbean | Trilce (César Vallejo, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | The Time of the Hero (Mario Vargas Llosa, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Conversation in the Cathedral (Mario Vargas Llosa, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | The Feast of the Goat (Mario Vargas Llosa, Peru/Dominican Republic) |
+| Famous artwork | South America, Central America and the Caribbean | The Green House (Mario Vargas Llosa, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Deep Rivers / Los ríos profundos (José María Arguedas, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Huasipungo (Jorge Icaza, Ecuador) |
+| Famous artwork | South America, Central America and the Caribbean | Doña Bárbara (Rómulo Gallegos, Venezuela) |
+| Famous artwork | South America, Central America and the Caribbean | I, the Supreme / Yo el Supremo (Augusto Roa Bastos, Paraguay) |
+| Famous artwork | South America, Central America and the Caribbean | The Kingdom of This World (Alejo Carpentier, Cuba) |
+| Famous artwork | South America, Central America and the Caribbean | Three Trapped Tigers / Tres tristes tigres (Guillermo Cabrera Infante, Cuba) |
+| Famous artwork | South America, Central America and the Caribbean | Paradiso (José Lezama Lima, Cuba) |
+| Famous artwork | South America, Central America and the Caribbean | Before Night Falls (Reinaldo Arenas, Cuba) |
+| Famous artwork | South America, Central America and the Caribbean | Cecilia Valdés (Cirilo Villaverde, Cuba) |
+| Famous artwork | South America, Central America and the Caribbean | Omeros (Derek Walcott, Saint Lucia) |
+| Famous artwork | South America, Central America and the Caribbean | A House for Mr Biswas (V. S. Naipaul, Trinidad & Tobago) |
+| Famous artwork | South America, Central America and the Caribbean | The Dragon Can’t Dance (Earl Lovelace, Trinidad & Tobago) |
+| Famous artwork | South America, Central America and the Caribbean | Masters of the Dew (Jacques Roumain, Haiti) |
+| Famous artwork | South America, Central America and the Caribbean | One Day of Life (Manlio Argueta, El Salvador) |
+| Famous artwork | South America, Central America and the Caribbean | La guaracha del Macho Camacho (Luis Rafael Sánchez, Puerto Rico) |
+| Famous artwork | South America, Central America and the Caribbean | Machu Picchu (Inca, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Sacsayhuamán (Inca, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Qhapaq Ñan / Andean Road System (Inca, Andes) |
+| Famous artwork | South America, Central America and the Caribbean | Chan Chan (Chimú, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Kuélap (Chachapoya, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Tiwanaku & Pumapunku (Tiwanaku culture, Bolivia) |
+| Famous artwork | South America, Central America and the Caribbean | Nazca Lines (Nazca culture, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Ciudad Perdida (Tairona, Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | Cartagena de Indias, Walled City (Colonial, Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | Ouro Preto (Baroque, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Brasília – National Congress (Oscar Niemeyer & Lúcio Costa, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Cathedral of Brasília (Oscar Niemeyer, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Pampulha Modern Ensemble (Oscar Niemeyer, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Niterói Museum of Contemporary Art (Oscar Niemeyer, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Biblioteca Virgilio Barco (Rogelio Salmona, Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | Teatro Colón (Argentina) |
+| Famous artwork | South America, Central America and the Caribbean | Casapueblo (Carlos Páez Vilaró, Uruguay) |
+| Famous artwork | South America, Central America and the Caribbean | Palacio Salvo (Uruguay) |
+| Famous artwork | South America, Central America and the Caribbean | The Jungle / La Jungla (Wifredo Lam, Cuba) |
+| Famous artwork | South America, Central America and the Caribbean | El Velorio (Francisco Oller, Puerto Rico) |
+| Famous artwork | South America, Central America and the Caribbean | Abaporu (Tarsila do Amaral, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Antropofagia (Tarsila do Amaral, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Guerra e Paz (War and Peace murals) (Candido Portinari, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | O Lavrador de Café (Candido Portinari, Brazil) |
+| Famous artwork | South America, Central America and the Caribbean | Manifestación (Antonio Berni, Argentina) |
+| Famous artwork | South America, Central America and the Caribbean | Juanito Laguna series (Antonio Berni, Argentina) |
+| Famous artwork | South America, Central America and the Caribbean | Vuel Villa (Xul Solar, Argentina) |
+| Famous artwork | South America, Central America and the Caribbean | Invasion of the Night (Roberto Matta, Chile) |
+| Famous artwork | South America, Central America and the Caribbean | White Package (Claudio Bravo, Chile) |
+| Famous artwork | South America, Central America and the Caribbean | La Edad de la Ira (Oswaldo Guayasamín, Ecuador) |
+| Famous artwork | South America, Central America and the Caribbean | Las Manos de la Protesta (Eduardo Kingman, Ecuador) |
+| Famous artwork | South America, Central America and the Caribbean | La Muerte de Pablo Escobar (Fernando Botero, Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | Violencia (Alejandro Obregón, Colombia) |
+| Famous artwork | South America, Central America and the Caribbean | La Huida de la Madre (Tilsa Tsuchiya, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Inkarri (Fernando de Szyszlo, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | El tapado (Pancho Fierro, Peru) |
+| Famous artwork | South America, Central America and the Caribbean | Merengue (Jaime Colson, Dominican Republic) |
+| Famous artwork | South America, Central America and the Caribbean | Maîtresse Erzulie (Hector Hyppolite, Haiti) |
+| Famous artwork | Asia | Rashomon (Akira Kurosawa, Japan, 1950) |
+| Famous artwork | Asia | Seven Samurai (Akira Kurosawa, Japan, 1954) |
+| Famous artwork | Asia | Tokyo Story (Yasujirō Ozu, Japan, 1953) |
+| Famous artwork | Asia | In the Mood for Love (Wong Kar-wai, Hong Kong, 2000) |
+| Famous artwork | Asia | Crouching Tiger, Hidden Dragon (Ang Lee, Taiwan/China, 2000) |
+| Famous artwork | Asia | Parasite (Bong Joon-ho, South Korea, 2019) |
+| Famous artwork | Asia | Oldboy (Park Chan-wook, South Korea, 2003) |
+| Famous artwork | Asia | A Separation (Asghar Farhadi, Iran, 2011) |
+| Famous artwork | Asia | The House Is Black (Forough Farrokhzad, Iran, 1962) |
+| Famous artwork | Asia | Pather Panchali (Satyajit Ray, India, 1955) |
+| Famous artwork | Asia | Aparajito (Satyajit Ray, India, 1956) |
+| Famous artwork | Asia | The World of Apu (Satyajit Ray, India, 1959) |
+| Famous artwork | Asia | Mother India (Mehboob Khan, India, 1957) |
+| Famous artwork | Asia | Sholay (Ramesh Sippy, India, 1975) |
+| Famous artwork | Asia | Lagaan (Ashutosh Gowariker, India, 2001) |
+| Famous artwork | Asia | Hero (Zhang Yimou, China, 2002) |
+| Famous artwork | Asia | Raise the Red Lantern (Zhang Yimou, China, 1991) |
+| Famous artwork | Asia | Farewell My Concubine (Chen Kaige, China, 1993) |
+| Famous artwork | Asia | Still Life (Jia Zhangke, China, 2006) |
+| Famous artwork | Asia | Bal (Honey) (Semih Kaplanoğlu, Turkey, 2010) |
+| Famous artwork | Asia | The Color of Pomegranates (Sergei Parajanov, Armenia, 1969) |
+| Famous artwork | Asia | The Cow (Dariush Mehrjui, Iran, 1969) |
+| Famous artwork | Asia | Ashes of Time (Wong Kar-wai, Hong Kong, 1994) |
+| Famous artwork | Asia | Shoplifters (Hirokazu Kore-eda, Japan, 2018) |
+| Famous artwork | Asia | Spirited Away (Hayao Miyazaki, Japan, 2001) |
+| Famous artwork | Asia | Princess Mononoke (Hayao Miyazaki, Japan, 1997) |
+| Famous artwork | Asia | My Neighbor Totoro (Hayao Miyazaki, Japan, 1988) |
+| Famous artwork | Asia | Grave of the Fireflies (Isao Takahata, Japan, 1988) |
+| Famous artwork | Asia | Departures (Yōjirō Takita, Japan, 2008) |
+| Famous artwork | Asia | The Host (Bong Joon-ho, South Korea, 2006) |
+| Famous artwork | Asia | Georgian polyphonic singing |
+| Famous artwork | Asia | Qawwali (Nusrat Fateh Ali Khan, Pakistan) |
+| Famous artwork | Asia | Kabuki nagauta music (Japan) |
+| Famous artwork | Asia | Raga compositions (Ravi Shankar, India) |
+| Famous artwork | Asia | Kroncong folk-pop (Indonesia) |
+| Famous artwork | Asia | Mongolian throat singing (Khoomei) |
+| Famous artwork | Asia | Nhã nhạc (Vietnamese court music) |
+| Famous artwork | Asia | P’ansori epic singing (Korea) |
+| Famous artwork | Asia | Uyghur muqam (Xinjiang, China) |
+| Famous artwork | Asia | Persian radif (Iran) |
+| Famous artwork | Asia | Bharatanatyam (India) |
+| Famous artwork | Asia | Kathak (India) |
+| Famous artwork | Asia | Kathakali (India) |
+| Famous artwork | Asia | Manipuri (India) |
+| Famous artwork | Asia | Odissi (India) |
+| Famous artwork | Asia | Kuchipudi (India) |
+| Famous artwork | Asia | Yakshagana (India) |
+| Famous artwork | Asia | Sattriya (India) |
+| Famous artwork | Asia | Butoh (Japan, 20th century avant-garde) |
+| Famous artwork | Asia | Noh theater dance (Japan) |
+| Famous artwork | Asia | Kabuki theater dance (Japan) |
+| Famous artwork | Asia | Bugaku (Japan, court dance) |
+| Famous artwork | Asia | Nihon Buyō (Japan) |
+| Famous artwork | Asia | Talchum mask dance (Korea) |
+| Famous artwork | Asia | Seungmu dance (Korea) |
+| Famous artwork | Asia | Dragon Dance (China) |
+| Famous artwork | Asia | Lion Dance (China) |
+| Famous artwork | Asia | Balinese Legong (Indonesia) |
+| Famous artwork | Asia | Saman dance (Aceh, Indonesia) |
+| Famous artwork | Asia | Hula (Hawai‘i, Polynesian tradition) |
+| Famous artwork | Asia | Terracotta Army (China, Qin dynasty, 210 BCE) |
+| Famous artwork | Asia | Giant Buddha of Leshan (China, 8th century) |
+| Famous artwork | Asia | Longmen Grottoes (China) |
+| Famous artwork | Asia | Yungang Grottoes (China) |
+| Famous artwork | Asia | Bamiyan Buddhas (Afghanistan, destroyed 2001) |
+| Famous artwork | Asia | Gandhara Buddha statues (Pakistan/Afghanistan) |
+| Famous artwork | Asia | Ajanta cave sculptures (India) |
+| Famous artwork | Asia | Ellora cave sculptures (India) |
+| Famous artwork | Asia | Elephanta cave sculptures (India) |
+| Famous artwork | Asia | Khajuraho temple sculptures (India) |
+| Famous artwork | Asia | Chola bronze Nataraja (India) |
+| Famous artwork | Asia | Great Stupa of Sanchi sculptures (India) |
+| Famous artwork | Asia | Borobudur reliefs (Indonesia) |
+| Famous artwork | Asia | Prambanan reliefs (Indonesia) |
+| Famous artwork | Asia | Angkor Thom Bayon faces (Cambodia) |
+| Famous artwork | Asia | Angkor Wat bas-reliefs (Cambodia) |
+| Famous artwork | Asia | Khmer apsara figures (Cambodia) |
+| Famous artwork | Asia | Pagan Buddha images (Myanmar) |
+| Famous artwork | Asia | Shwezigon Pagoda sculptures (Myanmar) |
+| Famous artwork | Asia | Shaka Triad (Hōryū-ji, Japan, 7th century) |
+| Famous artwork | Asia | Kamakura Great Buddha (Japan) |
+| Famous artwork | Asia | Todaiji Great Buddha (Japan) |
+| Famous artwork | Asia | Seokguram Grotto Buddha (Korea, 8th century) |
+| Famous artwork | Asia | Dolhareubang statues (Jeju, Korea) |
+| Famous artwork | Asia | Achaemenid bas-reliefs (Persepolis, Persia) |
+| Famous artwork | Asia | Lamassu statues (Assyria, Mesopotamia) |
+| Famous artwork | Asia | Hittite Lion Gate sculptures (Turkey) |
+| Famous artwork | Asia | Seljuk stone reliefs (Turkey) |
+| Famous artwork | Asia | Khmer bronze statues (Cambodia) |
+| Famous artwork | Asia | Khmer Vishnu statues (Cambodia) |
+| Famous artwork | Asia | Rigveda (India) |
+| Famous artwork | Asia | Mahabharata (India) |
+| Famous artwork | Asia | Ramayana (India) |
+| Famous artwork | Asia | Upanishads (India) |
+| Famous artwork | Asia | Jataka Tales (India/Buddhist canon) |
+| Famous artwork | Asia | The Tale of Genji (Murasaki Shikibu, Japan) |
+| Famous artwork | Asia | Kokin Wakashū (Japan) |
+| Famous artwork | Asia | Manyōshū (Japan) |
+| Famous artwork | Asia | Bashō’s Haiku (Japan) |
+| Famous artwork | Asia | Kojiki (Japan) |
+| Famous artwork | Asia | Nihon Shoki (Japan) |
+| Famous artwork | Asia | Journey to the West (Wu Cheng’en, China) |
+| Famous artwork | Asia | Dream of the Red Chamber (Cao Xueqin, China) |
+| Famous artwork | Asia | Romance of the Three Kingdoms (Luo Guanzhong, China) |
+| Famous artwork | Asia | Water Margin (Shi Nai’an, China) |
+| Famous artwork | Asia | Tang dynasty poetry (Li Bai, Du Fu, Wang Wei, China) |
+| Famous artwork | Asia | Confucian Analects (China) |
+| Famous artwork | Asia | Dao De Jing (Laozi, China) |
+| Famous artwork | Asia | Zhuangzi (China) |
+| Famous artwork | Asia | Shahnameh (Ferdowsi, Persia) |
+| Famous artwork | Asia | Rubáiyát (Omar Khayyam, Persia) |
+| Famous artwork | Asia | Masnavi (Rumi, Persia) |
+| Famous artwork | Asia | Gulistan (Saadi, Persia) |
+| Famous artwork | Asia | Divan (Hafez, Persia) |
+| Famous artwork | Asia | One Thousand and One Nights (Arab world/Persia) |
+| Famous artwork | Asia | Book of Kings (Ferdowsi, Persia) |
+| Famous artwork | Asia | Epic of Gilgamesh (Mesopotamia) |
+| Famous artwork | Asia | Avesta (Zoroastrian scripture, Persia) |
+| Famous artwork | Asia | Bamboo Annals (China) |
+| Famous artwork | Asia | Shakuntala (Kalidasa, India) |
+| Famous artwork | Asia | Gitanjali (Rabindranath Tagore, India) |
+| Famous artwork | Asia | Godaan (Premchand, India) |
+| Famous artwork | Asia | Snow (Orhan Pamuk, Turkey) |
+| Famous artwork | Asia | Kokoro (Natsume Sōseki, Japan) |
+| Famous artwork | Asia | The Temple of the Golden Pavilion (Yukio Mishima, Japan) |
+| Famous artwork | Asia | Snow Country (Yasunari Kawabata, Japan) |
+| Famous artwork | Asia | Red Sorghum (Mo Yan, China) |
+| Famous artwork | Asia | Kafka on the Shore (Haruki Murakami, Japan) |
+| Famous artwork | Asia | Midnight’s Children (Salman Rushdie, India/UK) |
+| Famous artwork | Asia | My Name Is Red (Orhan Pamuk, Turkey) |
+| Famous artwork | Asia | Great Wall of China |
+| Famous artwork | Asia | Forbidden City (Beijing, China) |
+| Famous artwork | Asia | Summer Palace (Beijing, China) |
+| Famous artwork | Asia | Temple of Heaven (Beijing, China) |
+| Famous artwork | Asia | Mogao Caves (China) |
+| Famous artwork | Asia | Potala Palace (Lhasa, Tibet) |
+| Famous artwork | Asia | Jokhang Temple (Lhasa, Tibet) |
+| Famous artwork | Asia | Sanchi Stupa (India) |
+| Famous artwork | Asia | Ajanta Caves (India) |
+| Famous artwork | Asia | Ellora Caves (India) |
+| Famous artwork | Asia | Konark Sun Temple (India) |
+| Famous artwork | Asia | Brihadeeswarar Temple (India) |
+| Famous artwork | Asia | Meenakshi Temple (India) |
+| Famous artwork | Asia | Lotus Temple (Delhi, India) |
+| Famous artwork | Asia | Taj Mahal (Agra, India) |
+| Famous artwork | Asia | Fatehpur Sikri (India) |
+| Famous artwork | Asia | Qutub Minar (Delhi, India) |
+| Famous artwork | Asia | Charminar (Hyderabad, India) |
+| Famous artwork | Asia | Borobudur (Indonesia) |
+| Famous artwork | Asia | Prambanan (Indonesia) |
+| Famous artwork | Asia | Angkor Wat (Cambodia) |
+| Famous artwork | Asia | Angkor Thom (Cambodia) |
+| Famous artwork | Asia | Bayon Temple (Cambodia) |
+| Famous artwork | Asia | Bagan temples (Myanmar) |
+| Famous artwork | Asia | Shwedagon Pagoda (Myanmar) |
+| Famous artwork | Asia | Todai-ji (Japan) |
+| Famous artwork | Asia | Himeji Castle (Japan) |
+| Famous artwork | Asia | Kinkaku-ji (Golden Pavilion, Japan) |
+| Famous artwork | Asia | Ginkaku-ji (Silver Pavilion, Japan) |
+| Famous artwork | Asia | Itsukushima Shrine (Japan) |
+| Famous artwork | Asia | Ise Grand Shrine (Japan) |
+| Famous artwork | Asia | Nijo Castle (Japan) |
+| Famous artwork | Asia | Seokguram Grotto (Korea) |
+| Famous artwork | Asia | Bulguksa Temple (Korea) |
+| Famous artwork | Asia | Gyeongbokgung Palace (Korea) |
+| Famous artwork | Asia | Changdeokgung Palace (Korea) |
+| Famous artwork | Asia | Dome of the Rock (Jerusalem) |
+| Famous artwork | Asia | Hagia Sophia (Istanbul, Byzantine/Islamic period) |
+| Famous artwork | Asia | Suleymaniye Mosque (Istanbul, Ottoman) |
+| Famous artwork | Asia | Blue Mosque (Istanbul, Ottoman) |
+| Famous artwork | Asia | Dunhuang cave paintings (China) |
+| Famous artwork | Asia | Tang dynasty court paintings (China) |
+| Famous artwork | Asia | Song dynasty landscape scrolls (Fan Kuan, Guo Xi, China) |
+| Famous artwork | Asia | Yuan dynasty literati paintings (Zhao Mengfu, China) |
+| Famous artwork | Asia | Ming dynasty handscrolls (Shen Zhou, China) |
+| Famous artwork | Asia | Qing dynasty landscapes (Shitao, Bada Shanren, China) |
+| Famous artwork | Asia | The Great Wave off Kanagawa (Katsushika Hokusai, Japan) |
+| Famous artwork | Asia | Fifty-three Stations of the Tōkaidō (Utagawa Hiroshige, Japan) |
+| Famous artwork | Asia | Folding screens (Kano Eitoku, Japan) |
+| Famous artwork | Asia | Ink landscapes (Sesshū Tōyō, Japan) |
+| Famous artwork | Asia | Wind God and Thunder God (Tawaraya Sōtatsu, Japan) |
+| Famous artwork | Asia | Irises screens (Ogata Kōrin, Japan) |
+| Famous artwork | Asia | Colorful Realm of Living Beings (Jakuchū Itō, Japan) |
+| Famous artwork | Asia | Mughal miniature paintings (India) |
+| Famous artwork | Asia | Rajput miniature paintings (India) |
+| Famous artwork | Asia | Pahari school paintings (India) |
+| Famous artwork | Asia | Kangra paintings (India) |
+| Famous artwork | Asia | Ajanta cave murals (India) |
+| Famous artwork | Asia | Thangka paintings (Tibet) |
+| Famous artwork | Asia | Persian miniatures (Tabriz, Herat schools, Persia) |
+| Famous artwork | Asia | Bihzad’s miniatures (Persia) |
+| Famous artwork | Asia | Ottoman miniature paintings (Turkey) |
+| Famous artwork | Asia | Safavid Isfahan school miniatures (Persia) |
+| Famous artwork | Asia | Armenian illuminated manuscripts |
+| Famous artwork | Asia | Georgian medieval frescoes |
+| Famous artwork | Asia | Ink painting (Qi Baishi, China, 20th century) |
+| Famous artwork | Asia | Horse paintings (Xu Beihong, China) |
+| Famous artwork | Asia | Modern landscapes (Zhang Daqian, China) |
+| Famous artwork | Asia | Infinity Nets (Yayoi Kusama, Japan, modern) |
+| Famous artwork | Asia | Superflat works (Takashi Murakami, Japan, contemporary) |
+| Famous artwork | North America excluding the Caribbean | The Great Train Robbery (Edwin S. Porter, 1903) |
+| Famous artwork | North America excluding the Caribbean | The Birth of a Nation (D. W. Griffith, 1915) |
+| Famous artwork | North America excluding the Caribbean | Nanook of the North (Robert Flaherty, 1922) |
+| Famous artwork | North America excluding the Caribbean | The General (Buster Keaton, 1926) |
+| Famous artwork | North America excluding the Caribbean | Sunrise: A Song of Two Humans (F. W. Murnau, 1927) |
+| Famous artwork | North America excluding the Caribbean | The Jazz Singer (Alan Crosland, 1927) |
+| Famous artwork | North America excluding the Caribbean | Snow White and the Seven Dwarfs (Walt Disney, 1937) |
+| Famous artwork | North America excluding the Caribbean | Stagecoach (John Ford, 1939) |
+| Famous artwork | North America excluding the Caribbean | Citizen Kane (Orson Welles, 1941) |
+| Famous artwork | North America excluding the Caribbean | Casablanca (Michael Curtiz, 1942) |
+| Famous artwork | North America excluding the Caribbean | The Best Years of Our Lives (William Wyler, 1946) |
+| Famous artwork | North America excluding the Caribbean | Sunset Boulevard (Billy Wilder, 1950) |
+| Famous artwork | North America excluding the Caribbean | Singin’ in the Rain (Gene Kelly & Stanley Donen, 1952) |
+| Famous artwork | North America excluding the Caribbean | Rear Window (Alfred Hitchcock, 1954) |
+| Famous artwork | North America excluding the Caribbean | The Searchers (John Ford, 1956) |
+| Famous artwork | North America excluding the Caribbean | Vertigo (Alfred Hitchcock, 1958) |
+| Famous artwork | North America excluding the Caribbean | Psycho (Alfred Hitchcock, 1960) |
+| Famous artwork | North America excluding the Caribbean | Dr. Strangelove (Stanley Kubrick, 1964) |
+| Famous artwork | North America excluding the Caribbean | 2001: A Space Odyssey (Stanley Kubrick, 1968) |
+| Famous artwork | North America excluding the Caribbean | The Godfather (Francis Ford Coppola, 1972) |
+| Famous artwork | North America excluding the Caribbean | Jaws (Steven Spielberg, 1975) |
+| Famous artwork | North America excluding the Caribbean | Star Wars (George Lucas, 1977) |
+| Famous artwork | North America excluding the Caribbean | Annie Hall (Woody Allen, 1977) |
+| Famous artwork | North America excluding the Caribbean | Apocalypse Now (Francis Ford Coppola, 1979) |
+| Famous artwork | North America excluding the Caribbean | Raging Bull (Martin Scorsese, 1980) |
+| Famous artwork | North America excluding the Caribbean | E.T. the Extra-Terrestrial (Steven Spielberg, 1982) |
+| Famous artwork | North America excluding the Caribbean | Blade Runner (Ridley Scott, 1982) |
+| Famous artwork | North America excluding the Caribbean | Do the Right Thing (Spike Lee, 1989) |
+| Famous artwork | North America excluding the Caribbean | Pulp Fiction (Quentin Tarantino, 1994) |
+| Famous artwork | North America excluding the Caribbean | The Matrix (The Wachowskis, 1999) |
+| Famous artwork | North America excluding the Caribbean | The Sweet Hereafter (Atom Egoyan, 1997, Canada) |
+| Famous artwork | North America excluding the Caribbean | Atanarjuat: The Fast Runner (Zacharias Kunuk, 2001, Canada) |
+| Famous artwork | North America excluding the Caribbean | Amores Perros (Alejandro G. Iñárritu, 2000, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Roma (Alfonso Cuarón, 2018, Mexico) |
+| Famous artwork | North America excluding the Caribbean | The Shape of Water (Guillermo del Toro, 2017, Canada/U.S.) |
+| Famous artwork | North America excluding the Caribbean | West Side Story (Leonard Bernstein & Stephen Sondheim, 1957) |
+| Famous artwork | North America excluding the Caribbean | Maple Leaf Rag (Scott Joplin, 1899) |
+| Famous artwork | North America excluding the Caribbean | The Unanswered Question (Charles Ives, 1908/1930) |
+| Famous artwork | North America excluding the Caribbean | West End Blues (Louis Armstrong, 1928) |
+| Famous artwork | North America excluding the Caribbean | Rhapsody in Blue (George Gershwin, 1924) |
+| Famous artwork | North America excluding the Caribbean | Adagio for Strings (Samuel Barber, 1936) |
+| Famous artwork | North America excluding the Caribbean | Appalachian Spring (Aaron Copland, 1944) |
+| Famous artwork | North America excluding the Caribbean | Take the ‘A’ Train (Billy Strayhorn/Duke Ellington, 1941) |
+| Famous artwork | North America excluding the Caribbean | Strange Fruit (Billie Holiday, 1939) |
+| Famous artwork | North America excluding the Caribbean | ’Round Midnight (Thelonious Monk, 1944) |
+| Famous artwork | North America excluding the Caribbean | Ko-Ko (Charlie Parker, 1945) |
+| Famous artwork | North America excluding the Caribbean | Kind of Blue (Miles Davis, 1959) |
+| Famous artwork | North America excluding the Caribbean | A Love Supreme (John Coltrane, 1965) |
+| Famous artwork | North America excluding the Caribbean | 4′33″ (John Cage, 1952) |
+| Famous artwork | North America excluding the Caribbean | Music for 18 Musicians (Steve Reich, 1976) |
+| Famous artwork | North America excluding the Caribbean | Einstein on the Beach (Philip Glass/Robert Wilson, 1976) |
+| Famous artwork | North America excluding the Caribbean | Short Ride in a Fast Machine (John Adams, 1986) |
+| Famous artwork | North America excluding the Caribbean | This Land Is Your Land (Woody Guthrie, 1940) |
+| Famous artwork | North America excluding the Caribbean | Like a Rolling Stone (Bob Dylan, 1965) |
+| Famous artwork | North America excluding the Caribbean | Good Vibrations (The Beach Boys, 1966) |
+| Famous artwork | North America excluding the Caribbean | Respect (Aretha Franklin, 1967) |
+| Famous artwork | North America excluding the Caribbean | What’s Going On (Marvin Gaye, 1971) |
+| Famous artwork | North America excluding the Caribbean | Blue (Joni Mitchell, 1971, Canada) |
+| Famous artwork | North America excluding the Caribbean | Hallelujah (Leonard Cohen, 1984, Canada) |
+| Famous artwork | North America excluding the Caribbean | Johnny B. Goode (Chuck Berry, 1958) |
+| Famous artwork | North America excluding the Caribbean | Hound Dog (Big Mama Thornton, 1953) |
+| Famous artwork | North America excluding the Caribbean | What’d I Say (Ray Charles, 1959) |
+| Famous artwork | North America excluding the Caribbean | Purple Rain (Prince, 1984) |
+| Famous artwork | North America excluding the Caribbean | Thriller (Michael Jackson, 1982) |
+| Famous artwork | North America excluding the Caribbean | Born to Run (Bruce Springsteen, 1975) |
+| Famous artwork | North America excluding the Caribbean | Smells Like Teen Spirit (Nirvana, 1991) |
+| Famous artwork | North America excluding the Caribbean | Straight Outta Compton (N.W.A, 1988) |
+| Famous artwork | North America excluding the Caribbean | It Takes a Nation of Millions to Hold Us Back (Public Enemy, 1988) |
+| Famous artwork | North America excluding the Caribbean | The Chronic (Dr. Dre, 1992) |
+| Famous artwork | North America excluding the Caribbean | Lose Yourself (Eminem, 2002) |
+| Famous artwork | North America excluding the Caribbean | Formation (Beyoncé, 2016) |
+| Famous artwork | North America excluding the Caribbean | My Beautiful Dark Twisted Fantasy (Kanye West, 2010) |
+| Famous artwork | North America excluding the Caribbean | The Miseducation of Lauryn Hill (Lauryn Hill, 1998) |
+| Famous artwork | North America excluding the Caribbean | Jolene (Dolly Parton, 1973) |
+| Famous artwork | North America excluding the Caribbean | Folsom Prison Blues (Johnny Cash, 1955) |
+| Famous artwork | North America excluding the Caribbean | El Son de la Negra (Traditional mariachi, 20th c., Mexico) |
+| Famous artwork | North America excluding the Caribbean | Huapango (José Pablo Moncayo, 1941, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Sensemayá (Silvestre Revueltas, 1938, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Danzón No. 2 (Arturo Márquez, 1994, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Bésame Mucho (Consuelo Velázquez, 1940, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Hopi Snake Dance (U.S. Southwest) |
+| Famous artwork | North America excluding the Caribbean | Haudenosaunee Smoke Dance (NY/Ontario) |
+| Famous artwork | North America excluding the Caribbean | Jingle Dress Dance (Anishinaabe, 20th c.) |
+| Famous artwork | North America excluding the Caribbean | Fancy Dance (Intertribal powwow) |
+| Famous artwork | North America excluding the Caribbean | Hoop Dance (Plains, intertribal) |
+| Famous artwork | North America excluding the Caribbean | Danza de los Voladores (Veracruz, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Jarabe Tapatío / Mexican Hat Dance (19th c., Mexico) |
+| Famous artwork | North America excluding the Caribbean | Danza de los Viejitos (Michoacán, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Concheros (Central Mexico) |
+| Famous artwork | North America excluding the Caribbean | Deer Dance (Yaqui/Mayo, NW Mexico) |
+| Famous artwork | North America excluding the Caribbean | Martha Graham — Lamentation (1930) |
+| Famous artwork | North America excluding the Caribbean | Martha Graham — Appalachian Spring (1944) |
+| Famous artwork | North America excluding the Caribbean | Merce Cunningham — RainForest (1968) |
+| Famous artwork | North America excluding the Caribbean | Katherine Dunham — Barrelhouse Blues (1940) |
+| Famous artwork | North America excluding the Caribbean | Alvin Ailey — Revelations (1960) |
+| Famous artwork | North America excluding the Caribbean | George Balanchine — Serenade (1934) |
+| Famous artwork | North America excluding the Caribbean | George Balanchine — Agon (1957) |
+| Famous artwork | North America excluding the Caribbean | Jerome Robbins — Fancy Free (1944) |
+| Famous artwork | North America excluding the Caribbean | Twyla Tharp — Deuce Coupe (1973) |
+| Famous artwork | North America excluding the Caribbean | Twyla Tharp — In the Upper Room (1986) |
+| Famous artwork | North America excluding the Caribbean | Bill T. Jones — D-Man in the Waters (1989) |
+| Famous artwork | North America excluding the Caribbean | Steve Paxton — Contact Improvisation (1972) |
+| Famous artwork | North America excluding the Caribbean | Amalia Hernández — Sones de Michoacán (1950s) |
+| Famous artwork | North America excluding the Caribbean | Alonzo King — The Propelled Heart (2015) |
+| Famous artwork | North America excluding the Caribbean | Crystal Pite — Betroffenheit (with Jonathon Young, 2015, Canada) |
+| Famous artwork | North America excluding the Caribbean | Olmec Colossal Heads (c. 1200–400 BCE, Veracruz/Tabasco, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Aztec Sun Stone (c. 1502, Mexico City) |
+| Famous artwork | North America excluding the Caribbean | Statue of Coatlicue (c. 1500, Mexico City) |
+| Famous artwork | North America excluding the Caribbean | Coyolxauhqui Stone (c. 1460s, Templo Mayor, Mexico City) |
+| Famous artwork | North America excluding the Caribbean | Mayan Stelae at Copán (c. 731 CE, Honduras) |
+| Famous artwork | North America excluding the Caribbean | Chacmool figures (c. 900–1200, Maya/Toltec) |
+| Famous artwork | North America excluding the Caribbean | Tlaloc monolith (Aztec; Mexico City) |
+| Famous artwork | North America excluding the Caribbean | Northwest Coast Totem Poles (Tlingit/Haida/Tsimshian) |
+| Famous artwork | North America excluding the Caribbean | Hopewell Effigy Pipes (c. 200 BCE–500 CE, Ohio) |
+| Famous artwork | North America excluding the Caribbean | Mississippian Shell Gorgets (c. 1000–1500 CE) |
+| Famous artwork | North America excluding the Caribbean | Mount Rushmore (Gutzon Borglum, 1927–41, South Dakota) |
+| Famous artwork | North America excluding the Caribbean | Abraham Lincoln statue, Lincoln Memorial (Daniel Chester French, 1922) |
+| Famous artwork | North America excluding the Caribbean | Statue of Liberty (Frédéric-Auguste Bartholdi, 1886, New York) |
+| Famous artwork | North America excluding the Caribbean | Vietnam Veterans Memorial (Maya Lin, 1982, Washington, D.C.) |
+| Famous artwork | North America excluding the Caribbean | Spiral Jetty (Robert Smithson, 1970, Utah) |
+| Famous artwork | North America excluding the Caribbean | Double Negative (Michael Heizer, 1969–70, Nevada) |
+| Famous artwork | North America excluding the Caribbean | The Lightning Field (Walter De Maria, 1977, New Mexico) |
+| Famous artwork | North America excluding the Caribbean | Sun Tunnels (Nancy Holt, 1976, Utah) |
+| Famous artwork | North America excluding the Caribbean | Tilted Arc (Richard Serra, 1981, New York; removed 1989) |
+| Famous artwork | North America excluding the Caribbean | Cloud Gate (Anish Kapoor, 2004, Chicago) |
+| Famous artwork | North America excluding the Caribbean | Flamingo (Alexander Calder, 1974, Chicago) |
+| Famous artwork | North America excluding the Caribbean | Eagle (Alexander Calder, 1971, Seattle) |
+| Famous artwork | North America excluding the Caribbean | Clothespin (Claes Oldenburg, 1976, Philadelphia) |
+| Famous artwork | North America excluding the Caribbean | Spoonbridge and Cherry (Oldenburg & van Bruggen, 1988, Minneapolis) |
+| Famous artwork | North America excluding the Caribbean | LOVE (Robert Indiana, 1970) |
+| Famous artwork | North America excluding the Caribbean | Red Cube (Isamu Noguchi, 1968, New York) |
+| Famous artwork | North America excluding the Caribbean | Kouros (Isamu Noguchi, 1945) |
+| Famous artwork | North America excluding the Caribbean | Sky Cathedral (Louise Nevelson, 1958) |
+| Famous artwork | North America excluding the Caribbean | Repetition Nineteen III (Eva Hesse, 1968) |
+| Famous artwork | North America excluding the Caribbean | Torqued Ellipses (Richard Serra, 1996–97) |
+| Famous artwork | North America excluding the Caribbean | Ladder for Booker T. Washington (Martin Puryear, 1996) |
+| Famous artwork | North America excluding the Caribbean | Balloon Dog (Jeff Koons, 1994–2000) |
+| Famous artwork | North America excluding the Caribbean | Roden Crater (James Turrell, begun 1977, Arizona) |
+| Famous artwork | North America excluding the Caribbean | Maman (Louise Bourgeois, 1999; Ottawa version) |
+| Famous artwork | North America excluding the Caribbean | Untitled (Monument for V. Tatlin) (Dan Flavin, 1964, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Popol Vuh (K’iche’ Maya, c. 1550, Guatemala) |
+| Famous artwork | North America excluding the Caribbean | Florentine Codex (Bernardino de Sahagún, 1540s–1585, Mexico) |
+| Famous artwork | North America excluding the Caribbean | El Periquillo Sarniento (J. J. Fernández de Lizardi, 1816, Mexico) |
+| Famous artwork | North America excluding the Caribbean | The Federalist Papers (Hamilton/Madison/Jay, 1787–88, U.S.) |
+| Famous artwork | North America excluding the Caribbean | The Scarlet Letter (Nathaniel Hawthorne, 1850, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Moby-Dick (Herman Melville, 1851, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Leaves of Grass (Walt Whitman, 1855, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Uncle Tom’s Cabin (Harriet Beecher Stowe, 1852, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Adventures of Huckleberry Finn (Mark Twain, 1884, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Little Women (Louisa May Alcott, 1868, U.S.) |
+| Famous artwork | North America excluding the Caribbean | The Awakening (Kate Chopin, 1899, U.S.) |
+| Famous artwork | North America excluding the Caribbean | The Souls of Black Folk (W. E. B. Du Bois, 1903, U.S.) |
+| Famous artwork | North America excluding the Caribbean | The Great Gatsby (F. Scott Fitzgerald, 1925, U.S.) |
+| Famous artwork | North America excluding the Caribbean | The Sun Also Rises (Ernest Hemingway, 1926, U.S.) |
+| Famous artwork | North America excluding the Caribbean | The Sound and the Fury (William Faulkner, 1929, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Their Eyes Were Watching God (Zora Neale Hurston, 1937, U.S.) |
+| Famous artwork | North America excluding the Caribbean | The Grapes of Wrath (John Steinbeck, 1939, U.S.) |
+| Famous artwork | North America excluding the Caribbean | The Waste Land (T. S. Eliot, 1922, U.S. author) |
+| Famous artwork | North America excluding the Caribbean | Howl (Allen Ginsberg, 1956, U.S.) |
+| Famous artwork | North America excluding the Caribbean | On the Road (Jack Kerouac, 1957, U.S.) |
+| Famous artwork | North America excluding the Caribbean | To Kill a Mockingbird (Harper Lee, 1960, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Catch-22 (Joseph Heller, 1961, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Invisible Man (Ralph Ellison, 1952, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Slaughterhouse-Five (Kurt Vonnegut, 1969, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Beloved (Toni Morrison, 1987, U.S.) |
+| Famous artwork | North America excluding the Caribbean | The Handmaid’s Tale (Margaret Atwood, 1985, Canada) |
+| Famous artwork | North America excluding the Caribbean | Anne of Green Gables (L. M. Montgomery, 1908, Canada) |
+| Famous artwork | North America excluding the Caribbean | The English Patient (Michael Ondaatje, 1992, Canada) |
+| Famous artwork | North America excluding the Caribbean | Green Grass, Running Water (Thomas King, 1993, Canada) |
+| Famous artwork | North America excluding the Caribbean | Selected Stories (Alice Munro, 1996, Canada) |
+| Famous artwork | North America excluding the Caribbean | The Death of Artemio Cruz (Carlos Fuentes, 1962, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Pedro Páramo (Juan Rulfo, 1955, Mexico) |
+| Famous artwork | North America excluding the Caribbean | The Labyrinth of Solitude (Octavio Paz, 1950, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Sor Juana Inés de la Cruz — Poems (17th c., Mexico) |
+| Famous artwork | North America excluding the Caribbean | Los de abajo (Mariano Azuela, 1915, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Hombres de maíz (Miguel Ángel Asturias, 1949, Guatemala) |
+| Famous artwork | North America excluding the Caribbean | El Señor Presidente (Miguel Ángel Asturias, 1946, Guatemala) |
+| Famous artwork | North America excluding the Caribbean | The House on Mango Street (Sandra Cisneros, 1984, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Maus (Art Spiegelman, 1980–91, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Fun Home (Alison Bechdel, 2006, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Teotihuacan — Pyramid of the Sun (c. 200 CE, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Teotihuacan — Pyramid of the Moon (c. 200–450 CE, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Chichén Itzá — El Castillo (c. 9th–12th c., Mexico) |
+| Famous artwork | North America excluding the Caribbean | Uxmal — Pyramid of the Magician (c. 600–1000, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Palenque — Temple of the Inscriptions (c. 675–683, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Monte Albán — Great Plaza (c. 500 BCE–750 CE, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Templo Mayor (Aztec, 14th–16th c.; excavations 1978–, Mexico City) |
+| Famous artwork | North America excluding the Caribbean | Tikal — Temple I (c. 732, Guatemala) |
+| Famous artwork | North America excluding the Caribbean | Copán — Hieroglyphic Stairway (8th c., Honduras) |
+| Famous artwork | North America excluding the Caribbean | Cahokia — Monks Mound (c. 1050–1200, Illinois, U.S.) |
+| Famous artwork | North America excluding the Caribbean | Pueblo Bonito, Chaco Canyon (c. 828–1126, New Mexico) |
+| Famous artwork | North America excluding the Caribbean | Mesa Verde — Cliff Palace (c. 1200s, Colorado) |
+| Famous artwork | North America excluding the Caribbean | Taos Pueblo (1000–present, New Mexico) |
+| Famous artwork | North America excluding the Caribbean | Mission San Xavier del Bac (1783–97, Arizona) |
+| Famous artwork | North America excluding the Caribbean | Mission San José y San Miguel de Aguayo (1720, Texas) |
+| Famous artwork | North America excluding the Caribbean | Monticello (Thomas Jefferson, 1772, Virginia) |
+| Famous artwork | North America excluding the Caribbean | U.S. Capitol (1793–, Washington, D.C.) |
+| Famous artwork | North America excluding the Caribbean | Brooklyn Bridge (1883, New York) |
+| Famous artwork | North America excluding the Caribbean | Flatiron Building (1902, New York) |
+| Famous artwork | North America excluding the Caribbean | Robie House (Frank Lloyd Wright, 1910, Chicago) |
+| Famous artwork | North America excluding the Caribbean | Fallingwater (Frank Lloyd Wright, 1935–39, Pennsylvania) |
+| Famous artwork | North America excluding the Caribbean | Solomon R. Guggenheim Museum (Frank Lloyd Wright, 1959, New York) |
+| Famous artwork | North America excluding the Caribbean | Seagram Building (Mies van der Rohe & Philip Johnson, 1958, New York) |
+| Famous artwork | North America excluding the Caribbean | Farnsworth House (Mies van der Rohe, 1951, Illinois) |
+| Famous artwork | North America excluding the Caribbean | Glass House (Philip Johnson, 1949, Connecticut) |
+| Famous artwork | North America excluding the Caribbean | Salk Institute (Louis Kahn, 1965, La Jolla) |
+| Famous artwork | North America excluding the Caribbean | TWA Flight Center (Eero Saarinen, 1962, New York) |
+| Famous artwork | North America excluding the Caribbean | Habitat 67 (Moshe Safdie, 1967, Montreal) |
+| Famous artwork | North America excluding the Caribbean | CN Tower (1976, Toronto) |
+| Famous artwork | North America excluding the Caribbean | National Museum of Anthropology (Pedro Ramírez Vázquez, 1964, Mexico City) |
+| Famous artwork | North America excluding the Caribbean | UNAM Central Library (Juan O’Gorman et al., 1956, Mexico City) |
+| Famous artwork | North America excluding the Caribbean | Casa Estudio Diego Rivera y Frida Kahlo (Juan O’Gorman, 1931, Mexico City) |
+| Famous artwork | North America excluding the Caribbean | Torres Satélite (Luis Barragán & Mathias Goeritz, 1958, Naucalpan) |
+| Famous artwork | North America excluding the Caribbean | Walt Disney Concert Hall (Frank Gehry, 2003, Los Angeles) |
+| Famous artwork | North America excluding the Caribbean | One World Trade Center (David Childs/SOM, 2014, New York) |
+| Famous artwork | North America excluding the Caribbean | Bonampak Murals (c. 790–800, Chiapas, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Cacaxtla Murals (c. 650–900, Tlaxcala, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Teotihuacan — Tetitla Murals (c. 450–650, Mexico) |
+| Famous artwork | North America excluding the Caribbean | Codex Mendoza (c. 1541, Mexico) |
+| Famous artwork | North America excluding the Caribbean | José María Velasco — The Valley of Mexico from the Santa Isabel Mountain Range (1875) |
+| Famous artwork | North America excluding the Caribbean | Diego Rivera — Detroit Industry Murals (1932–33) |
+| Famous artwork | North America excluding the Caribbean | Diego Rivera — Man, Controller of the Universe (1934) |
+| Famous artwork | North America excluding the Caribbean | José Clemente Orozco — The Epic of American Civilization (1932–34) |
+| Famous artwork | North America excluding the Caribbean | David Alfaro Siqueiros — Portrait of the Bourgeoisie (1939–40) |
+| Famous artwork | North America excluding the Caribbean | Frida Kahlo — The Two Fridas (1939) |
+| Famous artwork | North America excluding the Caribbean | Frida Kahlo — Self-Portrait with Thorn Necklace and Hummingbird (1940) |
+| Famous artwork | North America excluding the Caribbean | Thomas Eakins — The Gross Clinic (1875) |
+| Famous artwork | North America excluding the Caribbean | Winslow Homer — The Gulf Stream (1899) |
+| Famous artwork | North America excluding the Caribbean | Mary Cassatt — The Child’s Bath (1893) |
+| Famous artwork | North America excluding the Caribbean | Grant Wood — American Gothic (1930) |
+| Famous artwork | North America excluding the Caribbean | Edward Hopper — Nighthawks (1942) |
+| Famous artwork | North America excluding the Caribbean | Georgia O’Keeffe — Black Iris (1926) |
+| Famous artwork | North America excluding the Caribbean | Jackson Pollock — Number 1A, 1948 (1948) |
+| Famous artwork | North America excluding the Caribbean | Mark Rothko — No. 14 (1960) |
+| Famous artwork | North America excluding the Caribbean | Barnett Newman — Vir Heroicus Sublimis (1950–51) |
+| Famous artwork | North America excluding the Caribbean | Willem de Kooning — Woman I (1950–52) |
+| Famous artwork | North America excluding the Caribbean | Helen Frankenthaler — Mountains and Sea (1952) |
+| Famous artwork | North America excluding the Caribbean | Jasper Johns — Flag (1954–55) |
+| Famous artwork | North America excluding the Caribbean | Robert Rauschenberg — Monogram (1955–59) |
+| Famous artwork | North America excluding the Caribbean | Andy Warhol — Marilyn Diptych (1962) |
+| Famous artwork | North America excluding the Caribbean | Roy Lichtenstein — Whaam! (1963) |
+| Famous artwork | North America excluding the Caribbean | Jean-Michel Basquiat — Untitled (1982) |
+| Famous artwork | North America excluding the Caribbean | Alma Thomas — Resurrection (1966) |
+| Famous artwork | North America excluding the Caribbean | Jacob Lawrence — The Migration Series, Panel No. 1 (1940–41) |
+| Famous artwork | North America excluding the Caribbean | Emily Carr — Scorned as Timber, Beloved of the Sky (1935, Canada) |
+| Famous artwork | North America excluding the Caribbean | Tom Thomson — The West Wind (1917, Canada) |
+| Famous artwork | North America excluding the Caribbean | Lawren Harris — North Shore, Lake Superior (1926, Canada) |
+| Famous artwork | North America excluding the Caribbean | Alex Colville — Horse and Train (1954, Canada) |
+| Famous artwork | North America excluding the Caribbean | Norval Morrisseau — Androgyny (1983, Canada) |
+| Famous artwork | North America excluding the Caribbean | Kent Monkman — The Scream (2017, Canada) |
+| Famous artwork | Europe | The Battleship Potemkin (Sergei Eisenstein, 1925, Russia) |
+| Famous artwork | Europe | Metropolis (Fritz Lang, 1927, Germany) |
+| Famous artwork | Europe | The Cabinet of Dr. Caligari (Robert Wiene, 1920, Germany) |
+| Famous artwork | Europe | The Seventh Seal (Ingmar Bergman, 1957, Sweden) |
+| Famous artwork | Europe | Wild Strawberries (Ingmar Bergman, 1957, Sweden) |
+| Famous artwork | Europe | Persona (Ingmar Bergman, 1966, Sweden) |
+| Famous artwork | Europe | La Dolce Vita (Federico Fellini, 1960, Italy) |
+| Famous artwork | Europe | 8½ (Federico Fellini, 1963, Italy) |
+| Famous artwork | Europe | Bicycle Thieves (Vittorio De Sica, 1948, Italy) |
+| Famous artwork | Europe | Rome, Open City (Roberto Rossellini, 1945, Italy) |
+| Famous artwork | Europe | Amarcord (Federico Fellini, 1973, Italy) |
+| Famous artwork | Europe | M (Fritz Lang, 1931, Germany) |
+| Famous artwork | Europe | A Trip to the Moon (Georges Méliès, 1902, France) |
+| Famous artwork | Europe | The 400 Blows (François Truffaut, 1959, France) |
+| Famous artwork | Europe | Breathless (Jean-Luc Godard, 1960, France) |
+| Famous artwork | Europe | Last Year at Marienbad (Alain Resnais, 1961, France) |
+| Famous artwork | Europe | Blue (Krzysztof Kieślowski, 1993, Poland/France) |
+| Famous artwork | Europe | The Decalogue (Krzysztof Kieślowski, 1989, Poland) |
+| Famous artwork | Europe | Pan’s Labyrinth (Guillermo del Toro, 2006, Spain/Mexico) |
+| Famous artwork | Europe | Talk to Her (Pedro Almodóvar, 2002, Spain) |
+| Famous artwork | Europe | Volver (Pedro Almodóvar, 2006, Spain) |
+| Famous artwork | Europe | Fanny and Alexander (Ingmar Bergman, 1982, Sweden) |
+| Famous artwork | Europe | Nosferatu (F. W. Murnau, 1922, Germany) |
+| Famous artwork | Europe | Wings of Desire (Wim Wenders, 1987, Germany) |
+| Famous artwork | Europe | Run Lola Run (Tom Tykwer, 1998, Germany) |
+| Famous artwork | Europe | Cinema Paradiso (Giuseppe Tornatore, 1988, Italy) |
+| Famous artwork | Europe | The Pianist (Roman Polanski, 2002, Poland/France) |
+| Famous artwork | Europe | Amélie (Jean-Pierre Jeunet, 2001, France) |
+| Famous artwork | Europe | The Great Beauty (Paolo Sorrentino, 2013, Italy) |
+| Famous artwork | Europe | The Lives of Others (Florian Henckel von Donnersmarck, 2006, Germany) |
+| Famous artwork | Europe | Gregorian Chant (Medieval, Europe) |
+| Famous artwork | Europe | Hildegard of Bingen – Ordo Virtutum (1151, Germany) |
+| Famous artwork | Europe | Guillaume de Machaut – Messe de Nostre Dame (1360s, France) |
+| Famous artwork | Europe | Josquin des Prez – Missa Pange Lingua (c. 1515, Franco-Flemish) |
+| Famous artwork | Europe | Palestrina – Missa Papae Marcelli (1562, Italy) |
+| Famous artwork | Europe | Claudio Monteverdi – L’Orfeo (1607, Italy) |
+| Famous artwork | Europe | Johann Sebastian Bach – Mass in B minor (1749, Germany) |
+| Famous artwork | Europe | Bach – Brandenburg Concertos (1721, Germany) |
+| Famous artwork | Europe | George Frideric Handel – Messiah (1741, Germany/England) |
+| Famous artwork | Europe | Antonio Vivaldi – The Four Seasons (1725, Italy) |
+| Famous artwork | Europe | Franz Joseph Haydn – Symphony No. 94 “Surprise” (1791, Austria) |
+| Famous artwork | Europe | Wolfgang Amadeus Mozart – Requiem (1791, Austria) |
+| Famous artwork | Europe | Mozart – The Marriage of Figaro (1786, Austria) |
+| Famous artwork | Europe | Ludwig van Beethoven – Symphony No. 9 (1824, Germany) |
+| Famous artwork | Europe | Beethoven – Moonlight Sonata (1801, Germany) |
+| Famous artwork | Europe | Franz Schubert – Ave Maria (1825, Austria) |
+| Famous artwork | Europe | Frederic Chopin – Nocturnes (1830s, Poland/France) |
+| Famous artwork | Europe | Franz Liszt – Hungarian Rhapsodies (1846–53, Hungary) |
+| Famous artwork | Europe | Richard Wagner – The Ring Cycle (1876, Germany) |
+| Famous artwork | Europe | Giuseppe Verdi – Aida (1871, Italy) |
+| Famous artwork | Europe | Giacomo Puccini – La Bohème (1896, Italy) |
+| Famous artwork | Europe | Johannes Brahms – Symphony No. 1 (1876, Germany) |
+| Famous artwork | Europe | Gustav Mahler – Symphony No. 5 (1902, Austria) |
+| Famous artwork | Europe | Richard Strauss – Also sprach Zarathustra (1896, Germany) |
+| Famous artwork | Europe | Edvard Grieg – Peer Gynt Suite (1875, Norway) |
+| Famous artwork | Europe | Jean Sibelius – Finlandia (1899, Finland) |
+| Famous artwork | Europe | Claude Debussy – Clair de Lune (1905, France) |
+| Famous artwork | Europe | Maurice Ravel – Boléro (1928, France) |
+| Famous artwork | Europe | Igor Stravinsky – The Rite of Spring (1913, Russia/France) |
+| Famous artwork | Europe | Sergei Prokofiev – Peter and the Wolf (1936, Russia) |
+| Famous artwork | Europe | Dmitri Shostakovich – Symphony No. 7 “Leningrad” (1942, Russia) |
+| Famous artwork | Europe | Béla Bartók – Concerto for Orchestra (1945, Hungary) |
+| Famous artwork | Europe | Benjamin Britten – War Requiem (1962, UK) |
+| Famous artwork | Europe | György Ligeti – Atmosphères (1961, Hungary/Austria) |
+| Famous artwork | Europe | Pierre Boulez – Le Marteau sans maître (1955, France) |
+| Famous artwork | Europe | The Beatles – Sgt. Pepper’s Lonely Hearts Club Band (1967, UK) |
+| Famous artwork | Europe | Pink Floyd – The Dark Side of the Moon (1973, UK) |
+| Famous artwork | Europe | ABBA – Dancing Queen (1976, Sweden) |
+| Famous artwork | Europe | U2 – The Joshua Tree (1987, Ireland) |
+| Famous artwork | Europe | Daft Punk – Discovery (2001, France) |
+| Famous artwork | Europe | Giotto – The Lamentation (c. 1305, Padua, Italy) |
+| Famous artwork | Europe | Albrecht Dürer – Self-Portrait (1500, Germany) |
+| Famous artwork | Europe | Hans Holbein the Younger – The Ambassadors (1533, England) |
+| Famous artwork | Europe | William Blake – The Great Red Dragon and the Woman Clothed with the Sun (1805–10, UK) |
+| Famous artwork | Europe | Caspar David Friedrich – Wanderer above the Sea of Fog (1818, Germany) |
+| Famous artwork | Europe | Jean-Baptiste Lully – Ballet de la nuit (1653, France) |
+| Famous artwork | Europe | Édouard Manet – Le Déjeuner sur l’herbe (1863, France) |
+| Famous artwork | Europe | Marius Petipa – Swan Lake (1877, Russia) |
+| Famous artwork | Europe | Petipa – The Sleeping Beauty (1890, Russia) |
+| Famous artwork | Europe | Petipa/Ivanov – The Nutcracker (1892, Russia) |
+| Famous artwork | Europe | Sergei Diaghilev – Ballets Russes (1909–29, Russia/France) |
+| Famous artwork | Europe | Vaslav Nijinsky – The Rite of Spring choreography (1913, Paris) |
+| Famous artwork | Europe | George Balanchine – Apollo (1928, Russia/USA) |
+| Famous artwork | Europe | Sandro Botticelli – The Birth of Venus (c. 1485, Italy) |
+| Famous artwork | Europe | Maurice Béjart – Boléro (1961, France) |
+| Famous artwork | Europe | Pina Bausch – Tanztheater works (1970s–2000s, Germany) |
+| Famous artwork | Europe | Flamenco (Spain, traditional) |
+| Famous artwork | Europe | Irish step dance / Riverdance (Ireland) |
+| Famous artwork | Europe | Georges Seurat – A Sunday Afternoon on the Island of La Grande Jatte (1886, France) |
+| Famous artwork | Europe | Kazimir Malevich – Black Square (1915, Russia) |
+| Famous artwork | Europe | Venus of Willendorf (28,000 BCE, Austria) |
+| Famous artwork | Europe | Venus de Milo (c. 130 BCE, Greece) |
+| Famous artwork | Europe | Laocoön and His Sons (1st c. BCE, Greece/Rome) |
+| Famous artwork | Europe | Augustus of Prima Porta (20 BCE, Rome) |
+| Famous artwork | Europe | Equestrian Statue of Marcus Aurelius (175 CE, Rome) |
+| Famous artwork | Europe | Gero Cross (970, Germany) |
+| Famous artwork | Europe | Donatello – David (1440s, Italy) |
+| Famous artwork | Europe | Lorenzo Ghiberti – Gates of Paradise (1452, Florence) |
+| Famous artwork | Europe | Michelangelo – Pietà (1499, Vatican) |
+| Famous artwork | Europe | Michelangelo – David (1504, Florence) |
+| Famous artwork | Europe | Michelangelo – Moses (1515, Rome) |
+| Famous artwork | Europe | Gian Lorenzo Bernini – Apollo and Daphne (1625, Rome) |
+| Famous artwork | Europe | Bernini – Ecstasy of Saint Teresa (1652, Rome) |
+| Famous artwork | Europe | Etienne-Maurice Falconet – The Bronze Horseman (1782, St. Petersburg) |
+| Famous artwork | Europe | Antonio Canova – Psyche Revived by Cupid’s Kiss (1787, Italy) |
+| Famous artwork | Europe | Canova – Napoleon as Mars the Peacemaker (1806) |
+| Famous artwork | Europe | Auguste Rodin – The Thinker (1904, France) |
+| Famous artwork | Europe | Rodin – The Kiss (1882, France) |
+| Famous artwork | Europe | Constantin Brâncuși – Bird in Space (1923, Romania/France) |
+| Famous artwork | Europe | Alberto Giacometti – Walking Man I (1960, Switzerland) |
+| Famous artwork | Europe | Henry Moore – Reclining Figure series (UK) |
+| Famous artwork | Europe | Barbara Hepworth – Single Form (1961–64, UK) |
+| Famous artwork | Europe | Anish Kapoor – Cloud Gate (2006, UK/India) |
+| Famous artwork | Europe | Damien Hirst – The Physical Impossibility of Death in the Mind of Someone Living (1991, UK) |
+| Famous artwork | Europe | Antony Gormley – Angel of the North (1998, UK) |
+| Famous artwork | Europe | Louise Bourgeois – Maman (1999, France) |
+| Famous artwork | Europe | Eduardo Chillida – Peine del Viento (1976, Spain) |
+| Famous artwork | Europe | Jaume Plensa – Crown Fountain (2004, Spain/Chicago) |
+| Famous artwork | Europe | Magdalena Abakanowicz – Agora (2006, Poland/Chicago) |
+| Famous artwork | Europe | Olafur Eliasson – The Weather Project (2003, UK/Tate Modern) |
+| Famous artwork | Europe | Homer – Iliad (c. 8th c. BCE, Greece) |
+| Famous artwork | Europe | Homer – Odyssey (c. 8th c. BCE, Greece) |
+| Famous artwork | Europe | Virgil – Aeneid (19 BCE, Rome) |
+| Famous artwork | Europe | Dante Alighieri – Divine Comedy (1320, Italy) |
+| Famous artwork | Europe | Geoffrey Chaucer – The Canterbury Tales (1400, England) |
+| Famous artwork | Europe | Miguel de Cervantes – Don Quixote (1605, Spain) |
+| Famous artwork | Europe | William Shakespeare – Hamlet (1600, England) |
+| Famous artwork | Europe | Shakespeare – Romeo and Juliet (1597, England) |
+| Famous artwork | Europe | John Milton – Paradise Lost (1667, England) |
+| Famous artwork | Europe | Molière – Tartuffe (1664, France) |
+| Famous artwork | Europe | Voltaire – Candide (1759, France) |
+| Famous artwork | Europe | Johann Wolfgang von Goethe – Faust (1808–32, Germany) |
+| Famous artwork | Europe | Friedrich Schiller – William Tell (1804, Germany) |
+| Famous artwork | Europe | Jane Austen – Pride and Prejudice (1813, England) |
+| Famous artwork | Europe | Mary Shelley – Frankenstein (1818, UK) |
+| Famous artwork | Europe | Lord Byron – Childe Harold’s Pilgrimage (1812–18, UK) |
+| Famous artwork | Europe | Victor Hugo – Les Misérables (1862, France) |
+| Famous artwork | Europe | Hugo – The Hunchback of Notre-Dame (1831, France) |
+| Famous artwork | Europe | Alexander Pushkin – Eugene Onegin (1833, Russia) |
+| Famous artwork | Europe | Fyodor Dostoevsky – Crime and Punishment (1866, Russia) |
+| Famous artwork | Europe | Dostoevsky – The Brothers Karamazov (1880, Russia) |
+| Famous artwork | Europe | Leo Tolstoy – War and Peace (1869, Russia) |
+| Famous artwork | Europe | Tolstoy – Anna Karenina (1877, Russia) |
+| Famous artwork | Europe | Charles Dickens – Great Expectations (1861, UK) |
+| Famous artwork | Europe | Gustave Flaubert – Madame Bovary (1857, France) |
+| Famous artwork | Europe | Émile Zola – Germinal (1885, France) |
+| Famous artwork | Europe | Henrik Ibsen – A Doll’s House (1879, Norway) |
+| Famous artwork | Europe | James Joyce – Ulysses (1922, Ireland) |
+| Famous artwork | Europe | Franz Kafka – The Metamorphosis (1915, Austria/Czechia) |
+| Famous artwork | Europe | Marcel Proust – In Search of Lost Time (1913–27, France) |
+| Famous artwork | Europe | Thomas Mann – The Magic Mountain (1924, Germany) |
+| Famous artwork | Europe | Virginia Woolf – Mrs Dalloway (1925, UK) |
+| Famous artwork | Europe | Albert Camus – The Stranger (1942, France) |
+| Famous artwork | Europe | Jean-Paul Sartre – Nausea (1938, France) |
+| Famous artwork | Europe | Samuel Beckett – Waiting for Godot (1953, Ireland/France) |
+| Famous artwork | Europe | George Orwell – 1984 (1949, UK) |
+| Famous artwork | Europe | J. R. R. Tolkien – The Lord of the Rings (1954–55, UK) |
+| Famous artwork | Europe | Umberto Eco – The Name of the Rose (1980, Italy) |
+| Famous artwork | Europe | Milan Kundera – The Unbearable Lightness of Being (1984, Czechia) |
+| Famous artwork | Europe | Orhan Pamuk – My Name Is Red (1998, Turkey) |
+| Famous artwork | Europe | Stonehenge (c. 2500 BCE, UK) |
+| Famous artwork | Europe | Parthenon (447–432 BCE, Athens) |
+| Famous artwork | Europe | Colosseum (80 CE, Rome) |
+| Famous artwork | Europe | Hagia Sophia (537 CE, Constantinople/Istanbul) |
+| Famous artwork | Europe | Romanesque cathedrals (11th–12th c., Europe) |
+| Famous artwork | Europe | Notre-Dame de Paris (1163, France) |
+| Famous artwork | Europe | Chartres Cathedral (1194, France) |
+| Famous artwork | Europe | Florence Cathedral (1296–1436, Italy) |
+| Famous artwork | Europe | St. Peter’s Basilica (1626, Vatican) |
+| Famous artwork | Europe | Palace of Versailles (17th c., France) |
+| Famous artwork | Europe | St. Basil’s Cathedral (1561, Moscow) |
+| Famous artwork | Europe | El Escorial (1584, Spain) |
+| Famous artwork | Europe | Palace of Westminster (1870s, London) |
+| Famous artwork | Europe | Eiffel Tower (1889, Paris) |
+| Famous artwork | Europe | Sagrada Família (1882–present, Barcelona) |
+| Famous artwork | Europe | Casa Batlló (1906, Gaudí, Spain) |
+| Famous artwork | Europe | Villa Savoye (1931, Le Corbusier, France) |
+| Famous artwork | Europe | Bauhaus Dessau (1925, Germany) |
+| Famous artwork | Europe | Barcelona Pavilion (1929, Mies van der Rohe, Spain) |
+| Famous artwork | Europe | Centre Pompidou (1977, Paris) |
+| Famous artwork | Europe | Guggenheim Museum Bilbao (1997, Spain) |
+| Famous artwork | Europe | Reichstag Dome (1999, Berlin) |
+| Famous artwork | Europe | The Shard (2012, London) |
+| Famous artwork | Europe | Louvre Pyramid (1989, Paris) |
+| Famous artwork | Europe | Pantheon (118 CE, Rome) |
+| Famous artwork | Europe | Neuschwanstein Castle (1886, Germany) |
+| Famous artwork | Europe | Schönbrunn Palace (1700s, Austria) |
+| Famous artwork | Europe | Acropolis complex (Athens) |
+| Famous artwork | Europe | Colonius modern towers (Cologne, Germany) |
+| Famous artwork | Europe | Chauvet Cave paintings (30,000 BCE, France) |
+| Famous artwork | Europe | Lascaux Cave paintings (17,000 BCE, France) |
+| Famous artwork | Europe | Giotto – Arena Chapel frescoes (1305, Italy) |
+| Famous artwork | Europe | Jan van Eyck – The Arnolfini Portrait (1434, Flanders) |
+| Famous artwork | Europe | Hieronymus Bosch – The Garden of Earthly Delights (c. 1500, Netherlands) |
+| Famous artwork | Europe | Leonardo da Vinci – The Last Supper (1498, Milan) |
+| Famous artwork | Europe | Leonardo da Vinci – Mona Lisa (1503–06, France) |
+| Famous artwork | Europe | Raphael – The School of Athens (1511, Vatican) |
+| Famous artwork | Europe | Michelangelo – Sistine Chapel ceiling (1512, Vatican) |
+| Famous artwork | Europe | Titian – Venus of Urbino (1538, Italy) |
+| Famous artwork | Europe | El Greco – The Burial of the Count of Orgaz (1586, Spain) |
+| Famous artwork | Europe | Caravaggio – The Calling of St. Matthew (1599, Italy) |
+| Famous artwork | Europe | Artemisia Gentileschi – Judith Slaying Holofernes (1614, Italy) |
+| Famous artwork | Europe | Peter Paul Rubens – The Descent from the Cross (1612, Flanders) |
+| Famous artwork | Europe | Diego Velázquez – Las Meninas (1656, Spain) |
+| Famous artwork | Europe | Johannes Vermeer – Girl with a Pearl Earring (1665, Netherlands) |
+| Famous artwork | Europe | Rembrandt – The Night Watch (1642, Netherlands) |
+| Famous artwork | Europe | Francisco Goya – The Third of May 1808 (1814, Spain) |
+| Famous artwork | Europe | J. M. W. Turner – The Fighting Temeraire (1839, UK) |
+| Famous artwork | Europe | Eugène Delacroix – Liberty Leading the People (1830, France) |
+| Famous artwork | Europe | Gustave Courbet – The Stone Breakers (1849, France) |
+| Famous artwork | Europe | Édouard Manet – Olympia (1863, France) |
+| Famous artwork | Europe | Claude Monet – Impression, Sunrise (1872, France) |
+| Famous artwork | Europe | Pierre-Auguste Renoir – Luncheon of the Boating Party (1881, France) |
+| Famous artwork | Europe | Edgar Degas – The Ballet Class (1874, France) |
+| Famous artwork | Europe | Paul Cézanne – Mont Sainte-Victoire (1887, France) |
+| Famous artwork | Europe | Vincent van Gogh – Starry Night (1889, Netherlands/France) |
+| Famous artwork | Europe | Van Gogh – Sunflowers (1888, Netherlands/France) |
+| Famous artwork | Europe | Paul Gauguin – Where Do We Come From? (1897, France) |
+| Famous artwork | Europe | Edvard Munch – The Scream (1893, Norway) |
+| Famous artwork | Europe | Gustav Klimt – The Kiss (1908, Austria) |
+| Famous artwork | Europe | Pablo Picasso – Les Demoiselles d’Avignon (1907, Spain/France) |
+| Famous artwork | Europe | Picasso – Guernica (1937, Spain) |
+| Famous artwork | Europe | Georges Braque – Violin and Candlestick (1910, France) |
+| Famous artwork | Europe | Henri Matisse – Dance (1910, France) |
+| Famous artwork | Europe | Wassily Kandinsky – Composition VII (1913, Russia) |
+| Famous artwork | Europe | Piet Mondrian – Composition with Red, Blue and Yellow (1930, Netherlands) |
+| Famous artwork | Europe | Marc Chagall – I and the Village (1911, Russia/France) |
+| Famous artwork | Europe | Salvador Dalí – The Persistence of Memory (1931, Spain) |
+| Famous artwork | Europe | René Magritte – The Treachery of Images (1929, Belgium) |
+| Famous artwork | Europe | Joan Miró – The Tilled Field (1924, Spain) |
+| Famous artwork | Europe | Paul Klee – Twittering Machine (1922, Switzerland) |
+| Famous artwork | Europe | Max Ernst – The Elephant Celebes (1921, Germany) |
+| Famous artwork | Europe | Francis Bacon – Study after Velázquez’s Portrait of Pope Innocent X (1953, UK) |
+| Famous artwork | Europe | Lucian Freud – Benefits Supervisor Sleeping (1995, UK) |
+| Famous artwork | Europe | Gerhard Richter – Betty (1988, Germany) |
+| Famous artwork | Europe | Anselm Kiefer – Margarete (1981, Germany) |
+| Famous artwork | Europe | Banksy – Girl with Balloon (2002, UK) |
+| Famous artwork | Europe | Damien Hirst – Spot Paintings (1990s, UK) |
+| Famous artwork | Europe | Yves Klein – Blue Monochrome (1961, France) |
+| Famous artwork | Europe | Bridget Riley – Movement in Squares (1961, UK) |
+| Famous artwork | Europe | Antoni Tàpies – Grey and Green Painting (1950s, Spain) |
+| Famous artwork | Europe | Günther Uecker – White Field (1964, Germany) |
+| Famous artwork | Europe | Sigmar Polke – Rasterbilder (1960s, Germany) |
+| Famous artwork | Europe | Eduardo Arroyo – España te miró (1975, Spain) |
+| Famous artwork | Europe | Jean Dubuffet – Paris Circus (1961, France) |
+| Famous artwork | Europe | David Hockney – A Bigger Splash (1967, UK) |
+| Famous artwork | Europe | Luc Tuymans – Gas Chamber (1986, Belgium) |
+| Famous artwork | Europe | Marlene Dumas – The Painter (1994, Netherlands) |
+| Famous artwork | Europe | Altamira Cave Paintings (c. 36,000 BCE, Spain) |
+| Famous artwork | Europe | Bayeux Tapestry (11th c., Normandy, France) |
+| Historical event | Oceania | Construction of Nan Madol in Pohnpei (~1200 CE) |
+| Historical event | Oceania | Portuguese sighting of the Solomon Islands (1568) |
+| Historical event | Oceania | European contact with Tuvalu and Marquesas (1595) |
+| Historical event | Oceania | Dutch sighting of New Guinea (1606) |
+| Historical event | Oceania | Spanish exploration of Vanuatu (1606) |
+| Historical event | Oceania | First European charting of Tonga and Fiji (1643) |
+| Historical event | Oceania | Discovery of Tasmania and New Zealand by Abel Tasman (1642) |
+| Historical event | Oceania | First Voyage of Captain James Cook (1768–1771) |
+| Historical event | Oceania | Claiming of New South Wales for Britain (1770) |
+| Historical event | Oceania | Second Voyage of Captain Cook (1772–1775) |
+| Historical event | Oceania | Death of Captain Cook in Hawaii (1779) |
+| Historical event | Oceania | Founding of Sydney as Australia’s first major settlement (1800s) |
+| Historical event | Oceania | Hawaiian unification under King Kamehameha I (1810) |
+| Historical event | Oceania | First Christian mission in New Zealand (1814) |
+| Historical event | Oceania | Founding of Brisbane (1824) |
+| Historical event | Oceania | British annexation of Western Australia (1829) |
+| Historical event | Oceania | Signing of the Treaty of Waitangi (1840) |
+| Historical event | Oceania | French annexation of Tahiti (1842) |
+| Historical event | Oceania | Gold rush in Victoria, Australia (1851) |
+| Historical event | Oceania | Māori Wars/New Zealand Wars (1845–1872) |
+| Historical event | Oceania | Hawaiian Kingdom adopts written constitution (1840) |
+| Historical event | Oceania | Annexation of New Caledonia by France (1853) |
+| Historical event | Oceania | Establishment of the Kingdom of Tonga (1875 constitution) |
+| Historical event | Oceania | Annexation of Fiji by Britain (1874) |
+| Historical event | Oceania | Annexation of Hawaii by the United States (1898) |
+| Historical event | Oceania | Annexation of Cook Islands by New Zealand (1901) |
+| Historical event | Oceania | Federation of Australia (1901) |
+| Historical event | Oceania | Annexation of Papua by Australia (1906) |
+| Historical event | Oceania | Battle of Guadalcanal (1942–43) |
+| Historical event | Oceania | Battle of Midway (1942) |
+| Historical event | Oceania | Independence of Western Samoa (1962) |
+| Historical event | Oceania | Independence of Fiji (1970) |
+| Historical event | Oceania | Papua New Guinea independence (1975) |
+| Historical event | Oceania | Independence of Solomon Islands (1978) |
+| Historical event | Oceania | Independence of Tuvalu (1978) |
+| Historical event | Oceania | Independence of Kiribati (1979) |
+| Historical event | Oceania | Independence of Vanuatu (1980) |
+| Historical event | Oceania | Independence of Marshall Islands (1986) |
+| Historical event | Oceania | Referendum on Aboriginal rights in Australia (1967) |
+| Historical event | Oceania | Introduction of rabbits to Australia (1859) |
+| Historical event | Oceania | Women gain the right to vote in Samoa under New Zealand rule (1920) |
+| Historical event | Oceania | Aboriginal Tent Embassy established in Canberra (1975) |
+| Historical event | Oceania | Rainbow Warrior bombing in Auckland (1985) |
+| Historical event | Oceania | Nuclear testing at Bikini and Enewetak (1946–1958) |
+| Historical event | Oceania | Hawaiian Renaissance (1970s) |
+| Historical event | Oceania | Palau independence (1994) |
+| Historical event | Oceania | East Timor independence (2002) |
+| Historical event | Oceania | First Rugby World Cup (1987) |
+| Historical event | Oceania | Melbourne hosts Olympic Games (1956) |
+| Historical event | Oceania | Sydney hosts Olympic Games (2000) |
+| Historical event | Africa | Unification of Upper and Lower Egypt by King Narmer |
+| Historical event | Africa | Construction of the Pyramids of Giza (c. 2600–2500 BCE) |
+| Historical event | Africa | Expansion of the Kingdom of Kush (c. 2000 BCE onward) |
+| Historical event | Africa | Hyksos Invasion of Egypt (c. 1650 BCE) |
+| Historical event | Africa | Establishment of the New Kingdom of Egypt (c. 1550 BCE) |
+| Historical event | Africa | Founding of Carthage (traditionally c. 814 BCE) |
+| Historical event | Africa | Rise of the Kingdom of Axum (c. 1st century CE) |
+| Historical event | Africa | Introduction of Christianity in Axum (c. 330 CE) |
+| Historical event | Africa | Carthaginian Wars with Rome (264–146 BCE) |
+| Historical event | Africa | Roman Conquest of Egypt (30 BCE) |
+| Historical event | Africa | Bantu Migrations (c. 1000 BCE – 500 CE) |
+| Historical event | Africa | The Fall of Meroë (c. 350 CE) |
+| Historical event | Africa | Decline of the Kingdom of Axum (7th century) |
+| Historical event | Africa | Introduction of Islam to North Africa (7th century) |
+| Historical event | Africa | Arab conquest of Egypt (639–642) |
+| Historical event | Africa | Establishment of Kairouan in Tunisia (670) |
+| Historical event | Africa | Rise of the Ghana Empire (c. 8th century) |
+| Historical event | Africa | Idrisid dynasty founded in Morocco (788) |
+| Historical event | Africa | Foundation of Fez (789) |
+| Historical event | Africa | Founding of Cairo by the Fatimids (969) |
+| Historical event | Africa | Flourishing of trans-Saharan trade routes (8th–11th centuries) |
+| Historical event | Africa | Height of the Ghana Empire (9th–11th centuries) |
+| Historical event | Africa | Almoravid movement spreads across North and West Africa (11th century) |
+| Historical event | Africa | Fall of the Ghana Empire (c. 1076, Almoravid conquest) |
+| Historical event | Africa | Founding of the city of Marrakech (1062) |
+| Historical event | Africa | Establishment of the Kanem-Bornu Empire (9th–11th centuries) |
+| Historical event | Africa | Rise of the Mali Empire under Sundiata Keita (1235) |
+| Historical event | Africa | Mansa Musa’s pilgrimage to Mecca (1324–1325) |
+| Historical event | Africa | Peak of Timbuktu as a center of learning (14th–15th centuries) |
+| Historical event | Africa | Establishment of the University of Sankore in Timbuktu (14th century) |
+| Historical event | Africa | Rise of the Songhai Empire (c. 15th century) |
+| Historical event | Africa | Battle of Tondibi (1493, Songhai victory securing empire’s expansion) |
+| Historical event | Africa | Formation of the Kingdom of Ife in Yorubaland (11th–15th centuries) |
+| Historical event | Africa | Development of Great Zimbabwe (11th–15th centuries) |
+| Historical event | Africa | Expansion of Swahili city-states on the East African coast (10th–15th centuries) |
+| Historical event | Africa | Establishment of Kilwa as a dominant trade city (c. 12th century) |
+| Historical event | Africa | Portuguese contact with Swahili Coast (late 15th century) |
+| Historical event | Africa | Zagwe dynasty rule in Ethiopia (c. 900–1270) |
+| Historical event | Africa | Construction of the rock-hewn churches of Lalibela (12th–13th centuries) |
+| Historical event | Africa | Solomonic dynasty restored in Ethiopia (1270) |
+| Historical event | Africa | Almohad dynasty controls North Africa (12th–13th centuries) |
+| Historical event | Africa | Arrival of the Portuguese at the mouth of the Congo River (1480s) |
+| Historical event | Africa | Portuguese establish trading posts on the Swahili Coast (early 1500s) |
+| Historical event | Africa | Fall of Kilwa and other Swahili city-states to the Portuguese (1505) |
+| Historical event | Africa | Battle of Mbwila in Angola, Portuguese defeat Kingdom of Kongo (1665) |
+| Historical event | Africa | Decline of the Kingdom of Kongo due to internal strife and Portuguese interference (17th century) |
+| Historical event | Africa | Rise of the Oyo Empire in Yorubaland (16th–17th centuries) |
+| Historical event | Africa | Height of the Benin Kingdom’s power and trade with Europeans (16th–17th centuries) |
+| Historical event | Africa | Moroccan invasion of the Songhai Empire (1591, Battle of Tondibi) |
+| Historical event | Africa | Collapse of the Songhai Empire after Moroccan occupation (late 16th–17th centuries) |
+| Historical event | Africa | Expansion of the Luba Kingdom in Central Africa (17th century) |
+| Historical event | Africa | Expansion of the Lunda Empire in Central Africa (17th–18th centuries) |
+| Historical event | Africa | Dutch settlement at the Cape of Good Hope (1652) |
+| Historical event | Africa | Establishment of the Cape Colony under the Dutch East India Company (mid-1600s) |
+| Historical event | Africa | Introduction of slavery at the Cape Colony (1658) |
+| Historical event | Africa | Rise of the Asante (Ashanti) Empire in present-day Ghana (17th century) |
+| Historical event | Africa | Growth of the Dahomey Kingdom and its involvement in the Atlantic slave trade (17th–18th centuries) |
+| Historical event | Africa | Fulani Jihads in West Africa, including religious reform movements (18th century) |
+| Historical event | Africa | Rise of the Zulu Kingdom’s precursors (Nguni migrations and consolidation, 18th century) |
+| Historical event | Africa | Omani Arabs take control of Zanzibar and expand influence along the East African coast (late 17th–18th centuries) |
+| Historical event | Africa | Abolition of the transatlantic slave trade by Britain (1807) |
+| Historical event | Africa | Zulu Kingdom rises under Shaka Zulu in Southern Africa (early 1800s) |
+| Historical event | Africa | British establish control of Sierra Leone as a colony for freed slaves (1808) |
+| Historical event | Africa | French colonization of Algeria begins (1830) |
+| Historical event | Africa | Boer Great Trek in South Africa (1835–1846) |
+| Historical event | Africa | Anglo-Zulu War (1879) |
+| Historical event | Africa | Establishment of Liberia as a republic for freed African Americans (1847) |
+| Historical event | Africa | Completion of the Suez Canal in Egypt (1869) |
+| Historical event | Africa | Mahdist War in Sudan (1881–1899) |
+| Historical event | Africa | Second Boer War between the British and Boers in South Africa (1899–1902) |
+| Historical event | Africa | Italian invasion and colonization of Libya (1911–1912) |
+| Historical event | Africa | South Africa becomes a self-governing dominion of the British Empire (1910) |
+| Historical event | Africa | World War I: African colonies serve as battlegrounds and supply soldiers (1914–1918) |
+| Historical event | Africa | Establishment of apartheid laws begins in South Africa (1910s–1940s) |
+| Historical event | Africa | Ethiopia defeats Italy at the Battle of Adwa, retaining independence (1896, reaffirmed in 20th c) |
+| Historical event | Africa | Italian occupation of Ethiopia (1936–1941) |
+| Historical event | Africa | World War II in Africa: North African Campaign (1940–1943) |
+| Historical event | Africa | Post-WWII rise of Pan-Africanist movements (1945) |
+| Historical event | Africa | Kwame Nkrumah leads Ghana to independence, first in Sub-Saharan Africa (1957) |
+| Historical event | Africa | Mau Mau uprising against British rule in Kenya (1952–1960) |
+| Historical event | Africa | Algerian War of Independence against France (1954–1962) |
+| Historical event | Africa | Wave of independence across Africa (1960, “Year of Africa,” 17 nations gain independence) |
+| Historical event | Africa | Founding of the Organization of African Unity (OAU) (1963) |
+| Historical event | Africa | Civil war in Nigeria (Biafran War, 1967–1970) |
+| Historical event | Africa | Independence of Angola and Mozambique from Portugal (1975) |
+| Historical event | Africa | Soweto Uprising in South Africa against apartheid (1976) |
+| Historical event | Africa | Overthrow of Emperor Haile Selassie in Ethiopia (1974) |
+| Historical event | Africa | Idi Amin’s dictatorship in Uganda (1971–1979) |
+| Historical event | Africa | Eritrean War of Independence begins (1961–1991) |
+| Historical event | Africa | Famine in Ethiopia draws global attention (1983–1985) |
+| Historical event | Africa | Nelson Mandela released from prison after 27 years (1990) |
+| Historical event | Africa | End of apartheid formally recognized by the international community (1991) |
+| Historical event | Africa | Rwandan Genocide (1994) |
+| Historical event | Africa | Eritrea gains independence from Ethiopia (1993) |
+| Historical event | Africa | Second Congo War (1998–2003), one of the deadliest conflicts since WWII |
+| Historical event | Africa | Establishment of the African Union (AU) (2002, replacing OAU) |
+| Historical event | Africa | Arab Spring uprisings affect North Africa (2010–2011, Tunisia, Egypt, Libya) |
+| Historical event | Africa | End of the Trans-Saharan slave trade under European colonial rule (late 19th–early 20th century) |
+| Historical event | Africa | Independence of Zimbabwe (1980) after the Rhodesian Bush War |
+| Historical event | Africa | South Sudan gains independence from Sudan, becoming Africa’s newest nation (2011) |
+| Historical event | South America, Central America and the Caribbean | c. 3500–1500 BCE – Valdivia culture in coastal Ecuador develops early pottery. |
+| Historical event | South America, Central America and the Caribbean | c. 3000–1800 BCE – Norte Chico/Caral urban centers flourish on Peru’s coast. |
+| Historical event | South America, Central America and the Caribbean | c. 900–200 BCE – Chavín horizon radiates from Chavín de Huántar (Peru). |
+| Historical event | South America, Central America and the Caribbean | c. 800–100 BCE – Paracas culture advances textile arts and surgery (Peru). |
+| Historical event | South America, Central America and the Caribbean | c. 200 BCE–600 CE – Nazca Lines built (Peru). |
+| Historical event | South America, Central America and the Caribbean | 100–800 CE – Moche civilization constructs Huacas del Sol y de la Luna (Peru). |
+| Historical event | South America, Central America and the Caribbean | c. 1000–1500 CE – Andean cultures perfect terrace agriculture and hydraulic systems (Peru, Bolivia). |
+| Historical event | South America, Central America and the Caribbean | c. 500–1000 CE – Tiwanaku dominates Andean altiplano (Bolivia). |
+| Historical event | South America, Central America and the Caribbean | c. 800 CE – Ciudad Perdida (Teyuna) founded by Tairona (Colombia). |
+| Historical event | South America, Central America and the Caribbean | c. 200–1600 CE – Tairona chiefdoms flourish in Sierra Nevada de Santa Marta (Colombia). |
+| Historical event | South America, Central America and the Caribbean | c. 500 BCE–500 CE – Saladoid migration spreads ceramics through Lesser Antilles (Caribbean). |
+| Historical event | South America, Central America and the Caribbean | 562 CE – Caracol (Belize) defeats Tikal, reshaping Classic Maya politics. |
+| Historical event | South America, Central America and the Caribbean | 695 CE – Tikal (Guatemala) defeats Calakmul in a pivotal Classic-era war. |
+| Historical event | South America, Central America and the Caribbean | 738 CE – Quiriguá (Guatemala) captures Copán’s king. |
+| Historical event | South America, Central America and the Caribbean | 776 CE – Altar Q dedicated at Copán legitimizes royal lineage (Honduras). |
+| Historical event | South America, Central America and the Caribbean | 800–900 CE – Southern-lowland Maya urban decline in Guatemala, Belize, and Honduras. |
+| Historical event | South America, Central America and the Caribbean | c. 1200–1470 – Chimú Kingdom builds Chan Chan (Peru). |
+| Historical event | South America, Central America and the Caribbean | 1438–1471 – Pachacuti reforms Cusco and launches Inca imperial expansion (Peru). |
+| Historical event | South America, Central America and the Caribbean | c. 1450–1500 – Machu Picchu constructed and ritually used (Peru). |
+| Historical event | South America, Central America and the Caribbean | c. 1470s – Inca expansion reaches the Quito region (Ecuador). |
+| Historical event | South America, Central America and the Caribbean | 1492 – Columbus lands in the Caribbean, initiating sustained transatlantic contact. |
+| Historical event | South America, Central America and the Caribbean | 1493–1496 – La Isabela and Santo Domingo founded; first lasting European city in the Americas (Hispaniola). |
+| Historical event | South America, Central America and the Caribbean | 1498 – Columbus reaches South America at the Gulf of Paria (present-day Venezuela). |
+| Historical event | South America, Central America and the Caribbean | 1500 – Pedro Álvares Cabral lands on the coast of Brazil (Porto Seguro). |
+| Historical event | South America, Central America and the Caribbean | 1502 – First recorded arrival of enslaved Africans to Hispaniola. |
+| Historical event | South America, Central America and the Caribbean | 1511 – Spanish conquest and settlement of Cuba begins (Baracoa). |
+| Historical event | South America, Central America and the Caribbean | 1513 – Vasco Núñez de Balboa sights the Pacific from Panama. |
+| Historical event | South America, Central America and the Caribbean | 1519 – Panama City founded. |
+| Historical event | South America, Central America and the Caribbean | 1524 – Spanish defeat K’iche’ Maya at Q’umarkaj; foothold in highland Guatemala. |
+| Historical event | South America, Central America and the Caribbean | 1526–1532 – Inca civil war (Huáscar vs. Atahualpa) weakens the empire. |
+| Historical event | South America, Central America and the Caribbean | 1532 – Pizarro seizes Atahualpa at Cajamarca (Peru). |
+| Historical event | South America, Central America and the Caribbean | 1533 – Atahualpa executed by Spaniards. |
+| Historical event | South America, Central America and the Caribbean | 1535 – Lima founded as capital of the Viceroyalty of Peru. |
+| Historical event | South America, Central America and the Caribbean | 1537 – Lempira leads Indigenous resistance in Honduras. |
+| Historical event | South America, Central America and the Caribbean | 1993 – Pablo Escobar killed by the Colombian National Police |
+| Historical event | South America, Central America and the Caribbean | 1545 – Silver discovered at Potosí (Bolivia), fueling a world silver economy. |
+| Historical event | South America, Central America and the Caribbean | 1549 – Portuguese crown consolidates Brazil with capital at Salvador. |
+| Historical event | South America, Central America and the Caribbean | 1565 – Rio de Janeiro founded by Estácio de Sá (Brazil). |
+| Historical event | South America, Central America and the Caribbean | 1572 – Túpac Amaru I executed in Cuzco (Peru). |
+| Historical event | South America, Central America and the Caribbean | 1584 – First printing press in South America works in Lima. |
+| Historical event | South America, Central America and the Caribbean | 1600 – Huaynaputina eruption causes climate shocks (Peru). |
+| Historical event | South America, Central America and the Caribbean | 1609–1767 – Jesuit-Guaraní reductions flourish (Paraguay–Argentina–Brazil). |
+| Historical event | South America, Central America and the Caribbean | 1655 – England captures Jamaica from Spain. |
+| Historical event | South America, Central America and the Caribbean | 1671 – Henry Morgan sacks Panama City. |
+| Historical event | South America, Central America and the Caribbean | 1721–1735 – Comunero Revolt in Paraguay challenges colonial rule. |
+| Historical event | South America, Central America and the Caribbean | 1733 – St. John slave uprising in the Danish West Indies (Caribbean). |
+| Historical event | South America, Central America and the Caribbean | 1749 – Port-au-Prince founded in Saint-Domingue (Haiti). |
+| Historical event | South America, Central America and the Caribbean | 1762–1763 – British occupation of Havana reshapes Caribbean geopolitics. |
+| Historical event | South America, Central America and the Caribbean | 1767 – Expulsion of Jesuits from Spanish America shutters missions across the region. |
+| Historical event | South America, Central America and the Caribbean | 1776 – Viceroyalty of the Río de la Plata created (Buenos Aires). |
+| Historical event | South America, Central America and the Caribbean | 1780–1783 – Túpac Amaru II rebellion mobilizes anti-colonial resistance (Peru/Upper Peru). |
+| Historical event | South America, Central America and the Caribbean | 1781 – Comunero Revolt erupts in Socorro, New Granada (Colombia). |
+| Historical event | South America, Central America and the Caribbean | 1791 – Bois Caïman ceremony sparks the Haitian Revolution (Saint-Domingue). |
+| Historical event | South America, Central America and the Caribbean | 1793 – Slavery abolished in Saint-Domingue by Commissioner Sonthonax (Cap-Français). |
+| Historical event | South America, Central America and the Caribbean | 1795 – Treaty of Basel transfers Santo Domingo to France. |
+| Historical event | South America, Central America and the Caribbean | 1797 – Garifuna exiled from St. Vincent to Roatán (Honduras). |
+| Historical event | South America, Central America and the Caribbean | 1797 – British capture Trinidad from Spain (Caribbean). |
+| Historical event | South America, Central America and the Caribbean | 1798 – Battle of St. George’s Caye consolidates British control in Belize waters. |
+| Historical event | South America, Central America and the Caribbean | 1804 – Haitian independence declared at Gonaïves—the first Black republic. |
+| Historical event | South America, Central America and the Caribbean | 1806 – Francisco de Miranda’s failed Venezuelan expedition lands at La Vela de Coro. |
+| Historical event | South America, Central America and the Caribbean | 1808 – Portuguese royal court relocates to Rio de Janeiro (Brazil). |
+| Historical event | South America, Central America and the Caribbean | 1809 – Quito issues the first cry for independence (Ecuador). |
+| Historical event | South America, Central America and the Caribbean | 1810 – May Revolution in Buenos Aires launches independence (Argentina). |
+| Historical event | South America, Central America and the Caribbean | 1940 – Leon Trotsky assassinated (Mexico) |
+| Historical event | South America, Central America and the Caribbean | 1811 – Paraguay declares independence (Asunción). |
+| Historical event | South America, Central America and the Caribbean | 1811 – Venezuela declares independence (Caracas). |
+| Historical event | South America, Central America and the Caribbean | 1812 – Caracas earthquake devastates the city amid the independence war. |
+| Historical event | South America, Central America and the Caribbean | 1813 – Bolívar’s Admirable Campaign liberates western Venezuela. |
+| Historical event | South America, Central America and the Caribbean | 1816 – Congress of Tucumán declares Argentina independent. |
+| Historical event | South America, Central America and the Caribbean | 1817 – Crossing of the Andes; victory at Chacabuco (Chile). |
+| Historical event | South America, Central America and the Caribbean | 1818 – Battle of Maipú consolidates Chilean independence. |
+| Historical event | South America, Central America and the Caribbean | 1819 – Battle of Boyacá secures New Granada’s independence (Colombia). |
+| Historical event | South America, Central America and the Caribbean | 1821 – Battle of Carabobo secures Venezuelan independence. |
+| Historical event | South America, Central America and the Caribbean | 1821 – Panama declares independence from Spain, joins Gran Colombia. |
+| Historical event | South America, Central America and the Caribbean | 1821 – San Martín proclaims Peru’s independence in Lima. |
+| Historical event | South America, Central America and the Caribbean | 1822 – Cry of Ipiranga proclaims Brazil’s independence (São Paulo). |
+| Historical event | South America, Central America and the Caribbean | 1822 – Guayaquil Conference between San Martín and Bolívar (Ecuador). |
+| Historical event | South America, Central America and the Caribbean | 1824 – Battle of Ayacucho ends Spanish rule in mainland South America (Peru). |
+| Historical event | South America, Central America and the Caribbean | 1825 – Bolivia proclaims independence at Sucre. |
+| Historical event | South America, Central America and the Caribbean | 1826 – Congress of Panama convenes for hemispheric unity (Panama City). |
+| Historical event | South America, Central America and the Caribbean | 1830 – Gran Colombia dissolves into Venezuela, New Granada (Colombia), and Ecuador. |
+| Historical event | South America, Central America and the Caribbean | 1850s–1890s – Amazon rubber boom transforms Manaus and Iquitos. |
+| Historical event | South America, Central America and the Caribbean | 1864–1870 – War of the Triple Alliance devastates Paraguay. |
+| Historical event | South America, Central America and the Caribbean | 1868 – Grito de Yara ignites Cuba’s Ten Years’ War. |
+| Historical event | South America, Central America and the Caribbean | 1871 – Brazil’s Law of the Free Womb frees children born to enslaved mothers. |
+| Historical event | South America, Central America and the Caribbean | 1873 – Slavery abolished in Puerto Rico. |
+| Historical event | South America, Central America and the Caribbean | 1879–1884 – War of the Pacific; Chile defeats Peru and Bolivia. |
+| Historical event | South America, Central America and the Caribbean | 1886 – Slavery abolished in Cuba. |
+| Historical event | South America, Central America and the Caribbean | 1888 – Lei Áurea abolishes slavery in Brazil. |
+| Historical event | South America, Central America and the Caribbean | 1889 – Proclamation of the Republic in Brazil. |
+| Historical event | South America, Central America and the Caribbean | 1891 – Chilean Civil War ushers in a parliamentary republic. |
+| Historical event | South America, Central America and the Caribbean | 1895–1898 – Cuban War of Independence. |
+| Historical event | South America, Central America and the Caribbean | 1898 – Spanish–American War ends Spanish rule in Cuba and Puerto Rico. |
+| Historical event | South America, Central America and the Caribbean | 1902 – Republic of Cuba formally established. |
+| Historical event | South America, Central America and the Caribbean | 1903 – Panama secedes from Colombia. |
+| Historical event | South America, Central America and the Caribbean | 1904–1914 – Panama Canal constructed; opens in 1914. |
+| Historical event | South America, Central America and the Caribbean | 1912–1933 – U.S. occupation of Nicaragua. |
+| Historical event | South America, Central America and the Caribbean | 1914 – Mene Grande oil well inaugurates Venezuela’s oil era. |
+| Historical event | South America, Central America and the Caribbean | 1918 – Córdoba University Reform spreads from Argentina. |
+| Historical event | South America, Central America and the Caribbean | 1922 – Semana de Arte Moderna in São Paulo ignites Brazilian modernism. |
+| Historical event | South America, Central America and the Caribbean | 1937 – Parsley Massacre on the Haiti–Dominican Republic border. |
+| Historical event | South America, Central America and the Caribbean | 1948 – Assassination of Gaitán triggers the Bogotazo (Colombia). |
+| Historical event | South America, Central America and the Caribbean | 1936 – Diego Rivera exhibits in South America, inspiring local artistic movements. |
+| Historical event | South America, Central America and the Caribbean | 1949 – Costa Rica abolishes its army and adopts a new constitution. |
+| Historical event | South America, Central America and the Caribbean | 1950 – “Maracanazo”: Uruguay defeats Brazil in the FIFA World Cup. |
+| Historical event | South America, Central America and the Caribbean | 1952 – Puerto Rico becomes a U.S. Commonwealth. |
+| Historical event | South America, Central America and the Caribbean | 1952 – Bolivian National Revolution brings universal suffrage and mine nationalization. |
+| Historical event | South America, Central America and the Caribbean | 1954 – Coup in Guatemala ousts President Jacobo Árbenz. |
+| Historical event | South America, Central America and the Caribbean | 1959 – Cuban Revolution triumphs; Batista flees Havana. |
+| Historical event | South America, Central America and the Caribbean | 1961 – Bay of Pigs invasion fails. |
+| Historical event | South America, Central America and the Caribbean | 1962 – Cuban Missile Crisis centers on Cuba. |
+| Historical event | South America, Central America and the Caribbean | 1962 – Jamaica and Trinidad & Tobago gain independence. |
+| Historical event | South America, Central America and the Caribbean | 1963 – Arecibo Observatory opens in Puerto Rico. |
+| Historical event | South America, Central America and the Caribbean | 1964 – Military coup in Brazil installs dictatorship. |
+| Historical event | South America, Central America and the Caribbean | 1967 – Publication of “Cien años de soledad” fuels the Latin American Boom. |
+| Historical event | South America, Central America and the Caribbean | 1970 – Salvador Allende elected president of Chile. |
+| Historical event | South America, Central America and the Caribbean | 1959 – Bossa nova launches internationally with João Gilberto’s Chega de Saudade (Brazil). |
+| Historical event | South America, Central America and the Caribbean | 1973 – Coup overthrows Allende. |
+| Historical event | South America, Central America and the Caribbean | 1973 – Treaty of Chaguaramas establishes CARICOM. |
+| Historical event | South America, Central America and the Caribbean | 1975 – Operation Condor coordinates repression in the Southern Cone. |
+| Historical event | South America, Central America and the Caribbean | 1975 – Suriname gains independence. |
+| Historical event | South America, Central America and the Caribbean | 1976 – Military coup in Argentina; “Dirty War.” |
+| Historical event | South America, Central America and the Caribbean | 1977 – Torrijos–Carter Treaties schedule Panama Canal transfer. |
+| Historical event | South America, Central America and the Caribbean | 1978 – One Love Peace Concert in Kingston; Bob Marley’s handshake. |
+| Historical event | South America, Central America and the Caribbean | 1979 – Sandinista Revolution triumphs in Nicaragua. |
+| Historical event | South America, Central America and the Caribbean | 1979 – San Juan hosts Pan American Games. |
+| Historical event | South America, Central America and the Caribbean | 1980 – Archbishop Óscar Romero assassinated in El Salvador. |
+| Historical event | South America, Central America and the Caribbean | 1981 – Belize achieves independence. |
+| Historical event | South America, Central America and the Caribbean | 1982 – Falklands/Malvinas War. |
+| Historical event | South America, Central America and the Caribbean | 1983 – Democratic transition in Argentina. |
+| Historical event | South America, Central America and the Caribbean | 1983 – U.S.-led invasion of Grenada. |
+| Historical event | South America, Central America and the Caribbean | 1969 – First heart transplant in Latin America performed in Argentina. |
+| Historical event | South America, Central America and the Caribbean | 1987 – Esquipulas II Peace Agreement (Guatemala City). |
+| Historical event | South America, Central America and the Caribbean | 1988 – Chile’s “No” plebiscite ends Pinochet rule. |
+| Historical event | South America, Central America and the Caribbean | 1989 – U.S. invasion of Panama. |
+| Historical event | South America, Central America and the Caribbean | 1990 – Violeta Chamorro elected in Nicaragua. |
+| Historical event | South America, Central America and the Caribbean | 1991 – MERCOSUR founded (Paraguay). |
+| Historical event | South America, Central America and the Caribbean | 1785 – First newspaper in the Caribbean, La Gaceta de La Habana, printed in Cuba. |
+| Historical event | South America, Central America and the Caribbean | 1991 – Havana hosts the Pan American Games. |
+| Historical event | South America, Central America and the Caribbean | 1992 – Fujimori’s autogolpe dissolves Peru’s Congress. |
+| Historical event | South America, Central America and the Caribbean | 1900 – Carlos Finlay’s research in Cuba identifies the mosquito as vector of yellow fever. |
+| Historical event | South America, Central America and the Caribbean | 1998 – Hugo Chávez elected president of Venezuela. |
+| Historical event | South America, Central America and the Caribbean | 1992 – Oscar Niemeyer designs Brasília’s Cathedral, cementing modernist legacy. |
+| Historical event | South America, Central America and the Caribbean | 1999 – Panama Canal fully transferred to Panama. |
+| Historical event | South America, Central America and the Caribbean | 2001 – World Social Forum convenes in Porto Alegre. |
+| Historical event | South America, Central America and the Caribbean | 2014 – Lava Jato scandal erupts in Brazil. |
+| Historical event | South America, Central America and the Caribbean | 2016 – Colombia signs peace accord with FARC. |
+| Historical event | South America, Central America and the Caribbean | 2010 – Haiti earthquake devastates Port-au-Prince. |
+| Historical event | South America, Central America and the Caribbean | 2004 – Haiti’s President Aristide ousted. |
+| Historical event | South America, Central America and the Caribbean | 2007 – West Indies host Cricket World Cup. |
+| Historical event | Asia | Domestication & agriculture in the Fertile Crescent — c. 10,000–8,000 BCE |
+| Historical event | Asia | Çatalhöyük urban settlement (Anatolia) — c. 7500–5700 BCE |
+| Historical event | Asia | Mehrgarh Neolithic culture (South Asia) — c. 7000–2500 BCE |
+| Historical event | Asia | Rise of the Indus Valley Civilization — c. 3300–1300 BCE |
+| Historical event | Asia | Mature Harappan urban phase (Harappa, Mohenjo-daro) — c. 2600–1900 BCE |
+| Historical event | Asia | Sumerian cuneiform writing emerges — c. 3200–3000 BCE |
+| Historical event | Asia | Akkadian Empire of Sargon — c. 2334–2154 BCE |
+| Historical event | Asia | Epic of Gilgamesh compiled — c. 2100–1200 BCE |
+| Historical event | Asia | Code of Hammurabi (Babylon) — c. 1754 BCE |
+| Historical event | Asia | Hittite Empire in Anatolia — c. 1600–1178 BCE |
+| Historical event | Asia | Shang Dynasty in China — c. 1600–1046 BCE |
+| Historical event | Asia | Oracle bone inscriptions (late Shang) — c. 1200 BCE |
+| Historical event | Asia | Vedic period in South Asia — c. 1500–500 BCE |
+| Historical event | Asia | Zhou Dynasty established in China — 1046 BCE |
+| Historical event | Asia | Mandate of Heaven articulated — c. 1046–770 BCE |
+| Historical event | Asia | Life of Confucius — 551–479 BCE |
+| Historical event | Asia | Buddha’s life and teaching (Siddhartha Gautama) — c. 563–483 BCE |
+| Historical event | Asia | Cyrus the Great founds the Achaemenid Empire — 550 BCE |
+| Historical event | Asia | Cyrus captures Babylon — 539 BCE |
+| Historical event | Asia | Achaemenid Royal Road system — 5th century BCE |
+| Historical event | Asia | Pāṇini composes the Aṣṭādhyāyī (Sanskrit grammar) — c. 4th century BCE |
+| Historical event | Asia | Dao De Jing compiled — c. 4th–3rd century BCE |
+| Historical event | Asia | Battle of Gaugamela (Alexander defeats Darius III) — 331 BCE |
+| Historical event | Asia | Seleucid–Mauryan treaty (Chandragupta & Seleucus I) — 305 BCE |
+| Historical event | Asia | Maurya Empire founded — 321 BCE |
+| Historical event | Asia | Third Buddhist Council under Ashoka — c. 250 BCE |
+| Historical event | Asia | Ashoka’s rock & pillar edicts — c. 260–232 BCE |
+| Historical event | Asia | Qin unifies China — 221 BCE |
+| Historical event | Asia | Terracotta Army interred at Qin Shi Huang’s mausoleum — 210–209 BCE |
+| Historical event | Asia | Xiongnu confederation formed — 209 BCE |
+| Historical event | Asia | Han Dynasty established — 206 BCE |
+| Historical event | Asia | Silk Road networks open — 2nd century BCE–14th century CE |
+| Historical event | Asia | Parthian Empire dominates Iran — 247 BCE–224 CE |
+| Historical event | Asia | Greco-Bactrian & Indo-Greek kingdoms — c. 256–100 BCE |
+| Historical event | Asia | Yayoi period brings wet-rice agriculture to Japan — c. 300 BCE–300 CE |
+| Historical event | Asia | Kushan Empire fosters trans-Eurasian Buddhism — c. 30–375 CE |
+| Historical event | Asia | Zhang Heng invents the seismoscope — 132 CE |
+| Historical event | Asia | Invention of paper (Cai Lun, Eastern Han) — 105 CE |
+| Historical event | Asia | Gupta Empire in India — c. 320–550 CE |
+| Historical event | Asia | Aryabhata composes Āryabhaṭīya — 499 CE |
+| Historical event | Asia | Sui Dynasty reunifies China — 581–618 |
+| Historical event | Asia | Grand Canal expansion under Sui — 605–609 |
+| Historical event | Asia | Tang Dynasty — 618–907 |
+| Historical event | Asia | Nara period in Japan — 710–794 |
+| Historical event | Asia | Battle of Talas (Abbasids vs Tang) — 751 |
+| Historical event | Asia | Great Buddha (Tōdai-ji) consecrated — 752 |
+| Historical event | Asia | Heian period in Japan — 794–1185 |
+| Historical event | Asia | Borobudur completed (Java) — c. 800 |
+| Historical event | Asia | Abbasid House of Wisdom flourishing — 9th century |
+| Historical event | Asia | Al-Khwarizmi writes al-jabr — c. 820 |
+| Historical event | Asia | Tibetan Empire–Tang Peace Treaty — 821–823 |
+| Historical event | Asia | Diamond Sutra woodblock printed — 868 |
+| Historical event | Asia | Unified Silla in Korea — 668–935 |
+| Historical event | Asia | Goryeo Dynasty in Korea — 918–1392 |
+| Historical event | Asia | Liao Dynasty (Khitan) — 916–1125 |
+| Historical event | Asia | Song Dynasty — 960–1279 |
+| Historical event | Asia | Seljuk Empire — 1037–1194 |
+| Historical event | Asia | Ghaznavid Empire under Mahmud — 997–1030 |
+| Historical event | Asia | Chola naval expedition to Srivijaya — 1025 |
+| Historical event | Asia | Bi Sheng invents ceramic movable type — c. 1040s |
+| Historical event | Asia | Shen Kuo describes the true-north magnetic compass — 1088 |
+| Historical event | Asia | Khmer Empire builds Angkor Wat — c. 1113–1150 |
+| Historical event | Asia | Karakhanid conversion to Islam — 10th–11th centuries |
+| Historical event | Asia | Jurchen Jin Dynasty — 1115–1234 |
+| Historical event | Asia | Mongol Empire founded by Genghis Khan — 1206 |
+| Historical event | Asia | Sack of Baghdad by Mongols — 1258 |
+| Historical event | Asia | Ilkhanate established in Iran — 1256–1335 |
+| Historical event | Asia | Battle of Ain Jalut (Mamluks halt Mongols) — 1260 |
+| Historical event | Asia | Yuan Dynasty in China — 1271–1368 |
+| Historical event | Asia | Marco Polo’s travels in Asia — 1271–1295 |
+| Historical event | Asia | Red Turban Rebellion — 1351–1368 |
+| Historical event | Asia | Ming Dynasty founded — 1368 |
+| Historical event | Asia | Timurid conquests & Samarkand renaissance — 14th–15th centuries |
+| Historical event | Asia | Joseon Dynasty established — 1392–1897 |
+| Historical event | Asia | Jikji printed with metal movable type (Korea) — 1377 |
+| Historical event | Asia | Timur sacks Delhi — 1398 |
+| Historical event | Asia | Zheng He’s treasure voyages — 1405–1433 |
+| Historical event | Asia | Ashikaga (Muromachi) Shogunate in Japan — 1336–1573 |
+| Historical event | Asia | Kamakura Shogunate — 1192–1333 |
+| Historical event | Asia | Majapahit Empire peak — c. 1350 |
+| Historical event | Asia | Malacca Sultanate founded — c. 1400 |
+| Historical event | Asia | Sejong promulgates Hangul — 1446 |
+| Historical event | Asia | Battle of Ankara (Timur defeats Ottomans) — 1402 |
+| Historical event | Asia | Pax Mongolica facilitates Eurasian trade — 13th–14th centuries |
+| Historical event | Asia | Spread of Sufism across South Asia — 12th–16th centuries |
+| Historical event | Asia | Bhakti devotional movement expands — 8th–17th centuries |
+| Historical event | Asia | Pax Sinica under early Tang — 7th–8th centuries |
+| Historical event | Asia | Dali Kingdom in Yunnan — 937–1253 |
+| Historical event | Asia | Uyghur Khaganate — 744–840 |
+| Historical event | Asia | Kara-Khitai (Western Liao) — 1124–1218 |
+| Historical event | Asia | Safavid Empire in Iran — 1501–1736 |
+| Historical event | Asia | Ottoman conquest of the Hejaz — 1517 |
+| Historical event | Asia | Portuguese capture Malacca — 1511 |
+| Historical event | Asia | Mughal Empire founded by Babur — 1526 |
+| Historical event | Asia | Spanish colonization of the Philippines begins (Legazpi) — 1565 |
+| Historical event | Asia | Reign of Akbar the Great — 1556–1605 |
+| Historical event | Asia | Sikh Khalsa inaugurated by Guru Gobind Singh — 1699 |
+| Historical event | Asia | Construction of the Taj Mahal — 1632–1653 |
+| Historical event | Asia | Tokugawa Shogunate (Edo period) — 1603–1868 |
+| Historical event | Asia | Battle of Sekigahara — 1600 |
+| Historical event | Asia | Sakoku isolation edicts (Japan) — 1635 |
+| Historical event | Asia | Shimabara Rebellion (Japan) — 1637–1638 |
+| Historical event | Asia | British East India Company chartered — 1600 |
+| Historical event | Asia | Dutch East India Company (VOC) founded — 1602 |
+| Historical event | Asia | Fall of Ming; Qing Dynasty established — 1644 |
+| Historical event | Asia | Russian Cossacks reach the Pacific — 1639 |
+| Historical event | Asia | Treaty of Nerchinsk (Qing–Russia) — 1689 |
+| Historical event | Asia | Kangxi Emperor’s reign — 1661–1722 |
+| Historical event | Asia | Nader Shah sacks Delhi — 1739 |
+| Historical event | Asia | Third Battle of Panipat (Marathas vs Afghans) — 1761 |
+| Historical event | Asia | Battle of Plassey (British EIC vs Bengal) — 1757 |
+| Historical event | Asia | Qing subjugation of the Dzungars (Xinjiang) — 1755–1758 |
+| Historical event | Asia | Qing annexes Taiwan (Kingdom of Tungning) — 1683 |
+| Historical event | Asia | Treaty of Zuhab (Ottoman–Safavid border) — 1639 |
+| Historical event | Asia | First Saudi State established (Diriyah Pact) — 1744 |
+| Historical event | Asia | Founding of Batavia (Jakarta) by the Dutch — 1619 |
+| Historical event | Asia | Malacca falls to the Dutch — 1641 |
+| Historical event | Asia | Burmese sack of Ayutthaya — 1767 |
+| Historical event | Asia | Tây Sơn Rebellion (Vietnam) — 1771–1802 |
+| Historical event | Asia | Unification of Nepal under Prithvi Narayan Shah — 1743–1768 |
+| Historical event | Asia | Treaty of Kyakhta (Qing–Russia) — 1727 |
+| Historical event | Asia | Kangxi’s Edict of Toleration for Christians — 1692 |
+| Historical event | Asia | Coffee controversy & ban in Mecca — 1511 |
+| Historical event | Asia | Dutch take Ceylon (Sri Lanka) from Portugal — 1658 |
+| Historical event | Asia | Macartney Embassy to China — 1793 |
+| Historical event | Asia | First Anglo-Afghan War — 1839–1842 |
+| Historical event | Asia | First Opium War — 1839–1842 |
+| Historical event | Asia | Treaty of Nanjing — 1842 |
+| Historical event | Asia | Taiping Rebellion — 1850–1864 |
+| Historical event | Asia | Indian Rebellion (Sepoy Uprising) — 1857 |
+| Historical event | Asia | British Raj formally established — 1858 |
+| Historical event | Asia | Second Opium War — 1856–1860 |
+| Historical event | Asia | Meiji Restoration — 1868 |
+| Historical event | Asia | Boshin War — 1868–1869 |
+| Historical event | Asia | Iwakura Mission — 1871–1873 |
+| Historical event | Asia | Haitōrei (ban on swords; end of samurai privilege) — 1876 |
+| Historical event | Asia | Satsuma Rebellion — 1877 |
+| Historical event | Asia | Bowring Treaty with Siam — 1855 |
+| Historical event | Asia | French protectorate over Cambodia — 1863 |
+| Historical event | Asia | Annexation of Burma by Britain (Third Anglo-Burmese War) — 1885–1886 |
+| Historical event | Asia | First Sino-Japanese War — 1894–1895 |
+| Historical event | Asia | Treaty of Shimonoseki — 1895 |
+| Historical event | Asia | Joseon Gabo Reform — 1894–1896 |
+| Historical event | Asia | Donghak (Gabo) Peasant Revolution — 1894 |
+| Historical event | Asia | Korean Empire proclaimed — 1897 |
+| Historical event | Asia | Spanish–American War: Battle of Manila Bay — 1898 |
+| Historical event | Asia | Philippine Revolution — 1896–1898 |
+| Historical event | Asia | Philippine–American War — 1899–1902 |
+| Historical event | Asia | Trans-Siberian Railway construction begins — 1891 |
+| Historical event | Asia | Baku oil boom — 1870s–1900s |
+| Historical event | Asia | Great Famine of 1876–1878 (India) — 1876–1878 |
+| Historical event | Asia | Indian National Congress founded — 1885 |
+| Historical event | Asia | Sino-French War (Tonkin) — 1884–1885 |
+| Historical event | Asia | Treaty of Tientsin (Tianjin) — 1858 |
+| Historical event | Asia | Treaty of Saint Petersburg (Sakhalin–Kuril exchange) — 1875 |
+| Historical event | Asia | Ryukyu annexed as Okinawa Prefecture — 1879 |
+| Historical event | Asia | Meiji Constitution promulgated — 1889 |
+| Historical event | Asia | French capture of Hanoi — 1882–1883 |
+| Historical event | Asia | Tokyo Imperial University established — 1877 |
+| Historical event | Asia | Boxer Rebellion — 1899–1901 |
+| Historical event | Asia | Russo-Japanese War — 1904–1905 |
+| Historical event | Asia | Persian Constitutional Revolution — 1905–1911 |
+| Historical event | Asia | Xinhai Revolution overthrows Qing — 1911 |
+| Historical event | Asia | Republic of China proclaimed — 1912 |
+| Historical event | Asia | Armenian Genocide — 1915–1917 |
+| Historical event | Asia | May Fourth Movement — 1919 |
+| Historical event | Asia | British Mandate for Palestine — 1920 |
+| Historical event | Asia | Japanese invasion of Manchuria — 1931 |
+| Historical event | Asia | Kingdom of Saudi Arabia founded — 1932 |
+| Historical event | Asia | Long March — 1934–1935 |
+| Historical event | Asia | Nanjing Massacre — 1937–1938 |
+| Historical event | Asia | Second Sino-Japanese War — 1937–1945 |
+| Historical event | Asia | Quit India Movement — 1942 |
+| Historical event | Asia | Atomic bombings of Hiroshima & Nagasaki — 1945 |
+| Historical event | Asia | Indonesian Proclamation of Independence — 1945 |
+| Historical event | Asia | Partition of India & Pakistan — 1947 |
+| Historical event | Asia | State of Israel established; First Arab–Israeli War — 1948–1949 |
+| Historical event | Asia | People’s Republic of China founded — 1949 |
+| Historical event | Asia | Korean War — 1950–1953 |
+| Historical event | Asia | Asian Games inaugurated (New Delhi) — 1951 |
+| Historical event | Asia | Bandung Conference (Afro-Asian solidarity) — 1955 |
+| Historical event | Asia | Vietnam War — 1955–1975 |
+| Historical event | Asia | Great Leap Forward — 1958–1962 |
+| Historical event | Asia | OPEC founded in Baghdad — 1960 |
+| Historical event | Asia | Sino-Indian War — 1962 |
+| Historical event | Asia | Cultural Revolution — 1966–1976 |
+| Historical event | Asia | ASEAN founded (Bangkok) — 1967 |
+| Historical event | Asia | Bangladesh Liberation War — 1971 |
+| Historical event | Asia | India’s first nuclear test (Smiling Buddha) — 1974 |
+| Historical event | Asia | Iranian Revolution — 1979 |
+| Historical event | Asia | China joins the World Trade Organization — 2001 |
+| Historical event | Asia | FIFA World Cup co-hosted in Asia (Japan & South Korea) — 2002 |
+| Historical event | Asia | Indian Ocean earthquake & tsunami — 2004 |
+| Historical event | Asia | Beijing Olympics — 2008 |
+| Historical event | Asia | Sichuan earthquake — 2008 |
+| Historical event | Asia | Tōhoku earthquake & Fukushima nuclear disaster — 2011 |
+| Historical event | Asia | Hong Kong protests — 2019 |
+| Historical event | Asia | COVID-19 outbreak detected in Wuhan — 2019 |
+| Historical event | Asia | Parasite (South Korea) wins Best Picture at the Oscars — 2020 |
+| Historical event | Asia | India’s Chandrayaan-3 lands near the lunar south pole — 2023 |
+| Historical event | North America excluding the Caribbean | c. 13,000–11,000 BCE – Clovis culture spreads across North America. |
+| Historical event | North America excluding the Caribbean | c. 10,500–8,000 BCE – Folsom and Plano traditions develop on the Great Plains. |
+| Historical event | North America excluding the Caribbean | c. 7000–5000 BCE – Squash domesticated in Mesoamerica, early agriculture begins. |
+| Historical event | North America excluding the Caribbean | c. 5000–4000 BCE – Maize domesticated in southern Mexico (Tehuacán valley). |
+| Historical event | North America excluding the Caribbean | c. 3500–2500 BCE – Permanent villages emerge in the Valley of Oaxaca. |
+| Historical event | North America excluding the Caribbean | c. 2500–1200 BCE – San Lorenzo (Olmec) flourishes on Mexico’s Gulf Coast. |
+| Historical event | North America excluding the Caribbean | c. 1500–1000 BCE – Poverty Point earthworks constructed (Louisiana). |
+| Historical event | North America excluding the Caribbean | c. 1200–400 BCE – La Venta (Olmec) reaches its peak influence (Mexico). |
+| Historical event | North America excluding the Caribbean | c. 1000–200 BCE – Adena culture builds conical mounds (Ohio Valley). |
+| Historical event | North America excluding the Caribbean | c. 500 BCE – Monte Albán (Zapotec) is founded (Oaxaca, Mexico). |
+| Historical event | North America excluding the Caribbean | 36 BCE – Earliest known Maya Long Count date carved at Chiapa de Corzo (Mexico). |
+| Historical event | North America excluding the Caribbean | c. 200 BCE–500 CE – Hopewell exchange network links Eastern Woodlands. |
+| Historical event | North America excluding the Caribbean | c. 100–550 CE – Teotihuacan rises as a metropolis in central Mexico. |
+| Historical event | North America excluding the Caribbean | c. 250–900 – Classic Maya civilization flourishes (Tikal, Palenque, Copán, Calakmul). |
+| Historical event | North America excluding the Caribbean | c. 700–1100 – Great houses and roads built at Chaco Canyon (New Mexico). |
+| Historical event | North America excluding the Caribbean | c. 800–1600 – Mississippian chiefdoms dominate the Southeast; platform mounds proliferate. |
+| Historical event | North America excluding the Caribbean | c. 1050–1350 – Cahokia reaches urban peak; Monks Mound expanded (Illinois). |
+| Historical event | North America excluding the Caribbean | c. 1100–1300 – Mimbres Classic pottery tradition thrives (southwest U.S.). |
+| Historical event | North America excluding the Caribbean | 986 – Norse colonization of Greenland begins under Erik the Red. |
+| Historical event | North America excluding the Caribbean | c. 1000 – Norse establish L’Anse aux Meadows settlement (Newfoundland). |
+| Historical event | North America excluding the Caribbean | c. 1200–1521 – Tarascan (Purépecha) Empire consolidates in Michoacán (Mexico). |
+| Historical event | North America excluding the Caribbean | c. 900–1200 – Toltec ascendancy centered at Tula (Hidalgo, Mexico). |
+| Historical event | North America excluding the Caribbean | 1325 – Tenochtitlan founded by the Mexica (Aztecs). |
+| Historical event | North America excluding the Caribbean | 1428 – Aztec Triple Alliance formed (Tenochtitlan, Texcoco, Tlacopan). |
+| Historical event | North America excluding the Caribbean | c. 1450 – Haudenosaunee (Iroquois) Confederacy established in the Northeast. |
+| Historical event | North America excluding the Caribbean | 1497 – John Cabot (Giovanni Caboto) reaches Newfoundland for England. |
+| Historical event | North America excluding the Caribbean | 1513 – Vasco Núñez de Balboa crosses the Isthmus of Panama to the Pacific. |
+| Historical event | North America excluding the Caribbean | 1519–1521 – Hernán Cortés conquers the Aztec Empire; Tenochtitlan falls. |
+| Historical event | North America excluding the Caribbean | 1524 – Pedro de Alvarado defeats K’iche’ Maya; Spanish rule expands in Guatemala. |
+| Historical event | North America excluding the Caribbean | 1535 – Viceroyalty of New Spain established with capital at Mexico City. |
+| Historical event | North America excluding the Caribbean | 1539–1542 – Hernando de Soto expedition traverses the U.S. Southeast. |
+| Historical event | North America excluding the Caribbean | 1540–1542 – Francisco Vázquez de Coronado explores the Southwest and Great Plains. |
+| Historical event | North America excluding the Caribbean | 1542–1543 – Juan Rodríguez Cabrillo and Bartolomé Ferrer explore California coast. |
+| Historical event | North America excluding the Caribbean | 1565 – St. Augustine (Florida) founded by the Spanish. |
+| Historical event | North America excluding the Caribbean | 1585–1587 – Roanoke Colony established and lost (North Carolina). |
+| Historical event | North America excluding the Caribbean | 1607 – Jamestown founded, first permanent English colony in North America. |
+| Historical event | North America excluding the Caribbean | 1608 – Samuel de Champlain founds Quebec City (New France). |
+| Historical event | North America excluding the Caribbean | 1610 – Santa Fe established as Spanish capital of New Mexico. |
+| Historical event | North America excluding the Caribbean | 1619 – First recorded Africans arrive in English Virginia; first colonial assembly meets. |
+| Historical event | North America excluding the Caribbean | 1620 – Pilgrims land at Plymouth; Mayflower Compact signed. |
+| Historical event | North America excluding the Caribbean | 1625 – Dutch consolidate New Amsterdam (lower Manhattan). |
+| Historical event | North America excluding the Caribbean | 1637 – Pequot War culminates in Mystic massacre (New England). |
+| Historical event | North America excluding the Caribbean | 1649 – Maryland Toleration Act grants limited religious freedom to Christians. |
+| Historical event | North America excluding the Caribbean | 1670 – Hudson’s Bay Company receives charter, reshaping fur trade (Canada). |
+| Historical event | North America excluding the Caribbean | 1675–1676 – King Philip’s War ravages New England. |
+| Historical event | North America excluding the Caribbean | 1680 – Pueblo Revolt drives Spaniards from New Mexico for over a decade. |
+| Historical event | North America excluding the Caribbean | 1682 – La Salle claims Louisiana for France at the Mississippi delta. |
+| Historical event | North America excluding the Caribbean | 1692 – Salem witch trials grip Massachusetts Bay. |
+| Historical event | North America excluding the Caribbean | 1701 – Great Peace of Montreal signed between New France and 30+ First Nations. |
+| Historical event | North America excluding the Caribbean | 1713 – Treaty of Utrecht transfers Acadia (Nova Scotia) to Britain. |
+| Historical event | North America excluding the Caribbean | 1718 – New Orleans founded by the French. |
+| Historical event | North America excluding the Caribbean | 1730s–1740s – First Great Awakening religious revivals sweep the colonies. |
+| Historical event | North America excluding the Caribbean | 1754 – Albany Congress debates Franklin’s Plan of Union. |
+| Historical event | North America excluding the Caribbean | 1754–1763 – French and Indian War (Seven Years’ War in North America). |
+| Historical event | North America excluding the Caribbean | 1755 – Expulsion of the Acadians from Maritime Canada (Le Grand Dérangement). |
+| Historical event | North America excluding the Caribbean | 1763 – Treaty of Paris ends French power on mainland; Royal Proclamation restricts settlement. |
+| Historical event | North America excluding the Caribbean | 1765 – Stamp Act triggers organized colonial resistance. |
+| Historical event | North America excluding the Caribbean | 1770 – Boston Massacre heightens tensions with Britain. |
+| Historical event | North America excluding the Caribbean | 1773 – Boston Tea Party protests taxation without representation. |
+| Historical event | North America excluding the Caribbean | 1774 – First Continental Congress convenes in Philadelphia. |
+| Historical event | North America excluding the Caribbean | 1775 – Battles of Lexington and Concord ignite the American Revolution. |
+| Historical event | North America excluding the Caribbean | 1776 – Declaration of Independence asserts U.S. sovereignty. |
+| Historical event | North America excluding the Caribbean | 1777 – Articles of Confederation adopted (ratified 1781). |
+| Historical event | North America excluding the Caribbean | 1777 – American victory at Saratoga secures French alliance. |
+| Historical event | North America excluding the Caribbean | 1781 – British surrender at Yorktown effectively ends major combat. |
+| Historical event | North America excluding the Caribbean | 1783 – Treaty of Paris recognizes U.S. independence. |
+| Historical event | North America excluding the Caribbean | 1787 – U.S. Constitution drafted at Philadelphia Convention. |
+| Historical event | North America excluding the Caribbean | 1789 – First U.S. Congress meets; Washington inaugurated; Judiciary Act passed. |
+| Historical event | North America excluding the Caribbean | 1791 – U.S. Bill of Rights ratified; Constitutional Act divides Upper/Lower Canada. |
+| Historical event | North America excluding the Caribbean | 1794–1795 – Jay Treaty normalizes U.S.–British relations; Whiskey Rebellion suppressed. |
+| Historical event | North America excluding the Caribbean | 1803 – Louisiana Purchase doubles U.S. territory from France. |
+| Historical event | North America excluding the Caribbean | 1804–1806 – Lewis and Clark expedition reaches the Pacific Ocean. |
+| Historical event | North America excluding the Caribbean | 1804 – New Jersey adopts gradual emancipation, last Northern state to do so. |
+| Historical event | North America excluding the Caribbean | 1808 – U.S. bans importation of enslaved people (transatlantic trade). |
+| Historical event | North America excluding the Caribbean | 1810–1821 – Mexican War of Independence ends Spanish rule. |
+| Historical event | North America excluding the Caribbean | 1812–1815 – War of 1812 reshapes U.S.–Canada boundaries and identities. |
+| Historical event | North America excluding the Caribbean | 1819 – Adams–Onís Treaty transfers Florida to the United States. |
+| Historical event | North America excluding the Caribbean | 1821 – Mexico becomes independent; First Mexican Empire proclaimed. |
+| Historical event | North America excluding the Caribbean | 1821 – Central America (Captaincy of Guatemala) declares independence from Spain. |
+| Historical event | North America excluding the Caribbean | 1823 – Monroe Doctrine asserts U.S. sphere in the Americas. |
+| Historical event | North America excluding the Caribbean | 1823–1838 – Federal Republic of Central America forms and dissolves. |
+| Historical event | North America excluding the Caribbean | 1824 – Federal Constitution of the United Mexican States adopted. |
+| Historical event | North America excluding the Caribbean | 1830 – Indian Removal Act authorizes forced relocations (U.S.). |
+| Historical event | North America excluding the Caribbean | 1831 – Nat Turner’s Rebellion galvanizes U.S. slavery debate. |
+| Historical event | North America excluding the Caribbean | 1833 – Slavery abolished across the British Empire, affecting Canada. |
+| Historical event | North America excluding the Caribbean | 1835–1836 – Texas Revolution; Republic of Texas declared. |
+| Historical event | North America excluding the Caribbean | 1836 – Battle of the Alamo becomes a Texas symbol. |
+| Historical event | North America excluding the Caribbean | 1837–1838 – Rebellions in Upper and Lower Canada challenge colonial rule. |
+| Historical event | North America excluding the Caribbean | 1838–1839 – Trail of Tears forces Cherokee removal to Indian Territory. |
+| Historical event | North America excluding the Caribbean | 1845 – United States annexes the Republic of Texas. |
+| Historical event | North America excluding the Caribbean | 1846 – Oregon Treaty fixes U.S.–British boundary at the 49th parallel (West). |
+| Historical event | North America excluding the Caribbean | 1846–1848 – Mexican–American War expands U.S. to the Pacific. |
+| Historical event | North America excluding the Caribbean | 1848 – Treaty of Guadalupe Hidalgo ends war; cession of northern Mexico. |
+| Historical event | North America excluding the Caribbean | 1848–1855 – California Gold Rush accelerates westward migration. |
+| Historical event | North America excluding the Caribbean | 1848–1849 – Responsible government established in British North America (Nova Scotia, etc.). |
+| Historical event | North America excluding the Caribbean | 1850 – Compromise of 1850 (incl. Fugitive Slave Act) intensifies sectionalism. |
+| Historical event | North America excluding the Caribbean | 1853 – Gadsden Purchase refines U.S.–Mexico border. |
+| Historical event | North America excluding the Caribbean | 1854 – Kansas–Nebraska Act sparks ‘Bleeding Kansas’. |
+| Historical event | North America excluding the Caribbean | 1857 – Dred Scott decision denies Black citizenship (U.S. Supreme Court). |
+| Historical event | North America excluding the Caribbean | 1858 – Fraser River Gold Rush (British Columbia). |
+| Historical event | North America excluding the Caribbean | 1859 – John Brown’s raid on Harpers Ferry targets U.S. arsenal. |
+| Historical event | North America excluding the Caribbean | 1861–1865 – American Civil War preserves Union and ends slavery. |
+| Historical event | North America excluding the Caribbean | 1862 – Homestead, Morrill, and Pacific Railway Acts reshape U.S. economy and land. |
+| Historical event | North America excluding the Caribbean | 1863 – Emancipation Proclamation; Battle of Gettysburg turns the tide. |
+| Historical event | North America excluding the Caribbean | 1864 – Sand Creek Massacre of Cheyenne and Arapaho (Colorado Territory). |
+| Historical event | North America excluding the Caribbean | 1865 – Thirteenth Amendment abolishes slavery; Lincoln assassinated. |
+| Historical event | North America excluding the Caribbean | 1867 – Canadian Confederation forms the Dominion of Canada. |
+| Historical event | North America excluding the Caribbean | 1867 – Alaska Purchase transfers territory from Russia to the U.S. |
+| Historical event | North America excluding the Caribbean | 1868 – Fourteenth Amendment guarantees birthright citizenship/equal protection (U.S.). |
+| Historical event | North America excluding the Caribbean | 1869 – First U.S. Transcontinental Railroad completed (Promontory Summit, Utah). |
+| Historical event | North America excluding the Caribbean | 1870 – Fifteenth Amendment protects Black male suffrage (U.S.). |
+| Historical event | North America excluding the Caribbean | 1871 – British Columbia joins the Canadian Confederation. |
+| Historical event | North America excluding the Caribbean | 1873 – North-West Mounted Police founded (later Royal Canadian Mounted Police). |
+| Historical event | North America excluding the Caribbean | 1876 – Battle of the Little Bighorn in the Great Sioux War. |
+| Historical event | North America excluding the Caribbean | 1876 – Alexander Graham Bell patents the telephone (U.S./Canada). |
+| Historical event | North America excluding the Caribbean | 1877 – Compromise of 1877 ends Reconstruction in the U.S. |
+| Historical event | North America excluding the Caribbean | 1881–1885 – Canadian Pacific Railway built; last spike driven (1885). |
+| Historical event | North America excluding the Caribbean | 1882 – Chinese Exclusion Act becomes first major U.S. immigration restriction. |
+| Historical event | North America excluding the Caribbean | 1883 – Brooklyn Bridge opens, symbolizing industrial modernity. |
+| Historical event | North America excluding the Caribbean | 1885 – North-West Rebellion; Louis Riel executed (Canada). |
+| Historical event | North America excluding the Caribbean | 1886 – Haymarket Affair advances labor movement (Chicago). |
+| Historical event | North America excluding the Caribbean | 1887 – Dawes Act partitions tribal lands into allotments (U.S.). |
+| Historical event | North America excluding the Caribbean | 1889 – Oklahoma Land Run accelerates settler colonization. |
+| Historical event | North America excluding the Caribbean | 1890 – Wounded Knee Massacre; U.S. Census declares frontier “closed.” |
+| Historical event | North America excluding the Caribbean | 1893 – World’s Columbian Exposition showcases U.S. innovation (Chicago). |
+| Historical event | North America excluding the Caribbean | 1894 – Pullman Strike leads to federal intervention (U.S.). |
+| Historical event | North America excluding the Caribbean | 1896 – Plessy v. Ferguson upholds segregation (‘separate but equal’). |
+| Historical event | North America excluding the Caribbean | 1896–1899 – Klondike Gold Rush draws prospectors to Alaska–Yukon. |
+| Historical event | North America excluding the Caribbean | 1898 – Spanish–American War signals U.S. rise as a world power. |
+| Historical event | North America excluding the Caribbean | 1903 – Wright brothers achieve first powered flight (North Carolina). |
+| Historical event | North America excluding the Caribbean | 1903 – Panama secedes from Colombia; U.S. secures canal zone rights. |
+| Historical event | North America excluding the Caribbean | 1904–1914 – Panama Canal constructed; opens to global shipping (1914). |
+| Historical event | North America excluding the Caribbean | 1905 – Alberta and Saskatchewan created as Canadian provinces. |
+| Historical event | North America excluding the Caribbean | 1906 – San Francisco earthquake and fire devastate the city. |
+| Historical event | North America excluding the Caribbean | 1909 – NAACP founded to fight racial discrimination (U.S.). |
+| Historical event | North America excluding the Caribbean | 1911 – Triangle Shirtwaist Factory fire prompts safety reforms (New York). |
+| Historical event | North America excluding the Caribbean | 1912 – Arizona and New Mexico admitted as U.S. states. |
+| Historical event | North America excluding the Caribbean | 1914–1918 – North American mobilization and sacrifice in World War I. |
+| Historical event | North America excluding the Caribbean | 1916 – U.S. National Park Service established to manage national parks. |
+| Historical event | North America excluding the Caribbean | 1917 – Halifax Explosion destroys much of Halifax, Nova Scotia. |
+| Historical event | North America excluding the Caribbean | 1918–1919 – Influenza pandemic kills hundreds of thousands in North America. |
+| Historical event | North America excluding the Caribbean | 1919 – Prohibition begins in the U.S. (18th Amendment; Volstead Act). |
+| Historical event | North America excluding the Caribbean | 1919 – Winnipeg General Strike tests labor power (Canada). |
+| Historical event | North America excluding the Caribbean | 1920 – U.S. women gain the vote (19th Amendment). |
+| Historical event | North America excluding the Caribbean | 1923 – The Walt Disney Company is founded (U.S. media industry). |
+| Historical event | North America excluding the Caribbean | 1924 – Indian Citizenship Act grants U.S. citizenship to Native Americans. |
+| Historical event | North America excluding the Caribbean | 1925 – Grand Ole Opry debuts on radio, shaping country music (Nashville). |
+| Historical event | North America excluding the Caribbean | 1925 – Alain Locke’s “The New Negro” crystallizes the Harlem Renaissance. |
+| Historical event | North America excluding the Caribbean | 1927 – The Jazz Singer introduces synchronized sound to film (Hollywood). |
+| Historical event | North America excluding the Caribbean | 1929 – Stock market crash triggers the Great Depression. |
+| Historical event | North America excluding the Caribbean | 1930 – Smoot–Hawley Tariff exacerbates global economic downturn. |
+| Historical event | North America excluding the Caribbean | 1932 – Bonus Army dispersed in Washington, D.C., amid the Depression. |
+| Historical event | North America excluding the Caribbean | 1933 – New Deal launched; 21st Amendment ends Prohibition (U.S.). |
+| Historical event | North America excluding the Caribbean | 1935 – Social Security Act enacted (U.S. welfare state). |
+| Historical event | North America excluding the Caribbean | 1935 – On-to-Ottawa Trek and Regina Riot highlight labor unrest (Canada). |
+| Historical event | North America excluding the Caribbean | 1937 – Golden Gate Bridge opens (San Francisco). |
+| Historical event | North America excluding the Caribbean | 1939–1945 – North American contribution to Allied victory in World War II. |
+| Historical event | North America excluding the Caribbean | 1942 – Chicago Pile-1 achieves first controlled nuclear chain reaction (Manhattan Project). |
+| Historical event | North America excluding the Caribbean | 1942 – Japanese American incarceration begins under Executive Order 9066. |
+| Historical event | North America excluding the Caribbean | 1943 – Zoot Suit Riots expose racial tensions in Los Angeles. |
+| Historical event | North America excluding the Caribbean | 1944 – Servicemen’s Readjustment Act (G.I. Bill) passed (U.S.). |
+| Historical event | North America excluding the Caribbean | 1945 – United Nations Charter signed in San Francisco. |
+| Historical event | North America excluding the Caribbean | 1947 – Jackie Robinson integrates Major League Baseball (Brooklyn Dodgers). |
+| Historical event | North America excluding the Caribbean | 1949 – NATO formed with U.S. and Canada as founding members. |
+| Historical event | North America excluding the Caribbean | 1954 – Brown v. Board of Education ends school segregation (U.S.). |
+| Historical event | North America excluding the Caribbean | 1955–1956 – Montgomery Bus Boycott advances civil rights. |
+| Historical event | North America excluding the Caribbean | 1957 – Little Rock Nine integrate Central High School (Arkansas). |
+| Historical event | North America excluding the Caribbean | 1958 – NORAD created as U.S.–Canada aerospace defense command. |
+| Historical event | North America excluding the Caribbean | 1960 – First televised U.S. presidential debates (Kennedy–Nixon). |
+| Historical event | North America excluding the Caribbean | 1962 – Rachel Carson’s “Silent Spring” sparks environmental movement. |
+| Historical event | North America excluding the Caribbean | 1963 – March on Washington; MLK delivers “I Have a Dream.” |
+| Historical event | North America excluding the Caribbean | 1964 – U.S. Civil Rights Act outlaws major forms of discrimination. |
+| Historical event | North America excluding the Caribbean | 1965 – Voting Rights Act; Immigration and Nationality Act overhaul U.S. policy. |
+| Historical event | North America excluding the Caribbean | 1965 – Medicare and Medicaid created (U.S.). |
+| Historical event | North America excluding the Caribbean | 1966 – Canada’s Medical Care Act accelerates universal health coverage. |
+| Historical event | North America excluding the Caribbean | 1967 – Expo 67 in Montreal celebrates centennial Canada. |
+| Historical event | North America excluding the Caribbean | 1967 – Loving v. Virginia legalizes interracial marriage nationwide (U.S.). |
+| Historical event | North America excluding the Caribbean | 1968 – Tlatelolco massacre in Mexico City kills hundreds of student protesters. |
+| Historical event | North America excluding the Caribbean | 1968 – Mexico City Olympics; Black Power salute electrifies global audience. |
+| Historical event | North America excluding the Caribbean | 1968 – Assassinations of Martin Luther King Jr. and Robert F. Kennedy; Fair Housing Act. |
+| Historical event | North America excluding the Caribbean | 1969 – Native activists occupy Alcatraz Island (San Francisco). |
+| Historical event | North America excluding the Caribbean | 1969 – Apollo 11 Moon landing marks U.S. scientific triumph. |
+| Historical event | North America excluding the Caribbean | 1969 – Stonewall uprising galvanizes LGBTQ+ rights movement (New York). |
+| Historical event | North America excluding the Caribbean | 1970 – First Earth Day; U.S. Environmental Protection Agency established. |
+| Historical event | North America excluding the Caribbean | 1971 – Pentagon Papers published; 26th Amendment lowers voting age to 18. |
+| Historical event | North America excluding the Caribbean | 1972 – Title IX prohibits sex discrimination in U.S. education and sports. |
+| Historical event | North America excluding the Caribbean | 1973 – Roe v. Wade recognizes abortion rights (U.S. Supreme Court). |
+| Historical event | North America excluding the Caribbean | 1973 – OPEC oil embargo triggers energy crisis in North America. |
+| Historical event | North America excluding the Caribbean | 1974 – Watergate scandal forces President Nixon to resign (U.S.). |
+| Historical event | North America excluding the Caribbean | 1976 – Montreal Summer Olympics held in Canada. |
+| Historical event | North America excluding the Caribbean | 1977 – Torrijos–Carter Treaties set timeline to return Panama Canal to Panama. |
+| Historical event | North America excluding the Caribbean | 1979 – Three Mile Island nuclear accident alarms U.S. public. |
+| Historical event | North America excluding the Caribbean | 1979 – Sandinista Revolution overthrows Somoza regime (Nicaragua). |
+| Historical event | North America excluding the Caribbean | 1980 – “Miracle on Ice” at Lake Placid Winter Olympics (U.S. team defeats USSR). |
+| Historical event | North America excluding the Caribbean | 1980 – Quebec referendum on sovereignty defeated (Canada). |
+| Historical event | North America excluding the Caribbean | 1982 – Canada patriates Constitution; Charter of Rights and Freedoms enacted. |
+| Historical event | North America excluding the Caribbean | 1983 – Martin Luther King Jr. Day established as a U.S. federal holiday. |
+| Historical event | North America excluding the Caribbean | 1985 – Air India Flight 182 bombing shocks Canada. |
+| Historical event | North America excluding the Caribbean | 1985 – Mexico City earthquake causes massive destruction and reforms in civil defense. |
+| Historical event | North America excluding the Caribbean | 1986 – U.S. Immigration Reform and Control Act (IRCA) passes. |
+| Historical event | North America excluding the Caribbean | 1987 – Montreal Protocol on ozone protection signed (Canada-hosted). |
+| Historical event | North America excluding the Caribbean | 1988 – Calgary Winter Olympics (Canada). |
+| Historical event | North America excluding the Caribbean | 1989 – Exxon Valdez oil spill devastates Alaska’s Prince William Sound. |
+| Historical event | North America excluding the Caribbean | 1989 – U.S. invasion of Panama (Operation Just Cause) ousts Manuel Noriega. |
+| Historical event | North America excluding the Caribbean | 1990 – Oka Crisis pits Mohawk communities against Quebec police/army. |
+| Historical event | North America excluding the Caribbean | 1992 – Los Angeles uprising follows Rodney King verdict. |
+| Historical event | North America excluding the Caribbean | 1993 – NAFTA signed by Canada, Mexico, and the United States. |
+| Historical event | North America excluding the Caribbean | 1994 – Zapatista Army of National Liberation (EZLN) uprising in Chiapas, Mexico. |
+| Historical event | North America excluding the Caribbean | 1995 – Oklahoma City bombing is deadliest domestic terror attack in U.S. history (to date). |
+| Historical event | North America excluding the Caribbean | 1995 – Quebec’s second sovereignty referendum narrowly fails. |
+| Historical event | North America excluding the Caribbean | 1996 – Defense of Marriage Act enacted (later invalidated). |
+| Historical event | North America excluding the Caribbean | 1997 – Supreme Court of Canada’s Secession Reference outlines rules for secession. |
+| Historical event | North America excluding the Caribbean | 1998 – Google founded, accelerating the digital revolution (U.S.). |
+| Historical event | North America excluding the Caribbean | 1999 – Nunavut Territory created, empowering Inuit self-governance (Canada). |
+| Historical event | North America excluding the Caribbean | 1999 – Seattle WTO protests energize global justice movement. |
+| Historical event | North America excluding the Caribbean | 2000 – Vicente Fox elected president, ending 71 years of PRI rule (Mexico). |
+| Historical event | North America excluding the Caribbean | 2001 – September 11 terrorist attacks strike New York, Washington, and Pennsylvania. |
+| Historical event | North America excluding the Caribbean | 2001 – USA PATRIOT Act expands U.S. surveillance and security powers. |
+| Historical event | North America excluding the Caribbean | 2003 – Mass protests in North America oppose invasion of Iraq; war begins. |
+| Historical event | North America excluding the Caribbean | 2004 – Same-sex marriage begins legalization across Canada (nationwide 2005). |
+| Historical event | North America excluding the Caribbean | 2005 – Hurricane Katrina devastates New Orleans and Gulf Coast. |
+| Historical event | North America excluding the Caribbean | 2005 – YouTube founded, transforming global media (U.S.). |
+| Historical event | North America excluding the Caribbean | 2007–2009 – Great Recession severely impacts North American economies. |
+| Historical event | North America excluding the Caribbean | 2008 – Barack Obama elected first Black U.S. president. |
+| Historical event | North America excluding the Caribbean | 2008 – Greenland self-rule referendum passes overwhelmingly. |
+| Historical event | North America excluding the Caribbean | 2009 – H1N1 influenza pandemic spreads across North America. |
+| Historical event | North America excluding the Caribbean | 2010 – Deepwater Horizon oil spill becomes largest in U.S. history. |
+| Historical event | North America excluding the Caribbean | 2010 – Vancouver Winter Olympics hosted by Canada. |
+| Historical event | North America excluding the Caribbean | 2011 – Occupy Wall Street movement protests inequality (New York). |
+| Historical event | North America excluding the Caribbean | 2012 – Idle No More Indigenous rights movement begins (Canada). |
+| Historical event | North America excluding the Caribbean | 2013 – Black Lives Matter movement is founded. |
+| Historical event | North America excluding the Caribbean | 2014 – Ferguson protests ignite national debate on policing and race (U.S.). |
+| Historical event | North America excluding the Caribbean | 2015 – Obergefell v. Hodges legalizes same-sex marriage across the U.S. |
+| Historical event | North America excluding the Caribbean | 2016 – Standing Rock Sioux–led protests challenge Dakota Access Pipeline. |
+| Historical event | North America excluding the Caribbean | 2016 – Canada endorses UN Declaration on the Rights of Indigenous Peoples without qualifications. |
+| Historical event | North America excluding the Caribbean | 2016 – Donald Trump elected U.S. president amid populist wave. |
+| Historical event | North America excluding the Caribbean | 2017 – Women’s March becomes one of the largest U.S. protests. |
+| Historical event | North America excluding the Caribbean | 2017 – #MeToo movement surges across North America. |
+| Historical event | North America excluding the Caribbean | 2018 – Cannabis legalized nationwide in Canada. |
+| Historical event | North America excluding the Caribbean | 2018 – USMCA/CUSMA/T-MEC trade agreement announced (enters into force 2020). |
+| Historical event | North America excluding the Caribbean | 2019 – Toronto Raptors win first NBA championship for Canada. |
+| Historical event | North America excluding the Caribbean | 2020 – COVID-19 pandemic triggers lockdowns and emergency responses. |
+| Historical event | North America excluding the Caribbean | 2020 – George Floyd’s murder sparks global protests for racial justice. |
+| Historical event | North America excluding the Caribbean | 2021 – U.S. Capitol insurrection on January 6 shocks the world. |
+| Historical event | North America excluding the Caribbean | 2021 – James Webb Space Telescope launched with NASA/CSA partnership. |
+| Historical event | North America excluding the Caribbean | 2021 – Canada observes first National Day for Truth and Reconciliation (Sept 30). |
+| Historical event | North America excluding the Caribbean | 2022 – Dobbs v. Jackson overturns Roe v. Wade (U.S.). |
+| Historical event | North America excluding the Caribbean | 2023 – Historic wildfire smoke blankets North American cities from Canada’s fires. |
+| Historical event | North America excluding the Caribbean | 2024 – Record-setting North American heat waves intensify climate urgency. |
+| Historical event | North America excluding the Caribbean | 2025 – USMCA review cycle preparations shape North American trade discussions. |
+| Historical event | Europe | Stonehenge constructed (c. 3000–2000 BCE) |
+| Historical event | Europe | Minoan civilization rises on Crete (c. 2000–1450 BCE) |
+| Historical event | Europe | Mycenaean civilization flourishes (c. 1600–1100 BCE) |
+| Historical event | Europe | Legendary founding of Rome (753 BCE) |
+| Historical event | Europe | First Olympic Games at Olympia (776 BCE) |
+| Historical event | Europe | Greek alphabet takes hold (c. 800–700 BCE) |
+| Historical event | Europe | Greek colonization across Mediterranean (8th–6th c. BCE) |
+| Historical event | Europe | Reforms of Cleisthenes establish Athenian democracy (508/507 BCE) |
+| Historical event | Europe | Greco-Persian Wars (Marathon 490; Salamis 480 BCE) |
+| Historical event | Europe | Parthenon built in Athens (447–432 BCE) |
+| Historical event | Europe | Peloponnesian War (431–404 BCE) |
+| Historical event | Europe | Battle of Chaeronea; Macedonian hegemony (338 BCE) |
+| Historical event | Europe | Alexander the Great launches campaigns (334 BCE) |
+| Historical event | Europe | Roman Republic era consolidates power (from 509 BCE) |
+| Historical event | Europe | Second Punic War; Hannibal crosses Alps (218–201 BCE) |
+| Historical event | Europe | Julius Caesar conquers Gaul (58–50 BCE) |
+| Historical event | Europe | Caesar crosses the Rubicon (49 BCE) |
+| Historical event | Europe | Assassination of Julius Caesar (44 BCE) |
+| Historical event | Europe | Augustus inaugurates Roman Empire (27 BCE) |
+| Historical event | Europe | Early spread of Christianity in Roman Europe (1st–3rd c. CE) |
+| Historical event | Europe | Vesuvius eruption buries Pompeii (79 CE) |
+| Historical event | Europe | Colosseum inaugurated in Rome (80 CE) |
+| Historical event | Europe | Edict of Milan grants toleration to Christians (313 CE) |
+| Historical event | Europe | First Council of Nicaea (325 CE) |
+| Historical event | Europe | Theodosius I makes Nicene Christianity state religion (380 CE) |
+| Historical event | Europe | Permanent division of Roman Empire (395 CE) |
+| Historical event | Europe | Sack of Rome by Visigoths (410 CE) |
+| Historical event | Europe | Huns checked at Catalaunian Plains (451 CE) |
+| Historical event | Europe | Fall of Western Roman Empire (476 CE) |
+| Historical event | Europe | Clovis I converts; unites Franks (496 CE) |
+| Historical event | Europe | Justinian becomes Byzantine emperor (527 CE) |
+| Historical event | Europe | Justinianic Code (Corpus Juris Civilis) (529–534 CE) |
+| Historical event | Europe | Hagia Sophia dedicated (537 CE) |
+| Historical event | Europe | Lombards invade Italy (568 CE) |
+| Historical event | Europe | Umayyad conquest of Iberia begins (711–718 CE) |
+| Historical event | Europe | Byzantine iconoclasm begins (726 CE) |
+| Historical event | Europe | Viking raid on Lindisfarne (793 CE) |
+| Historical event | Europe | Charlemagne crowned Emperor in Rome (800 CE) |
+| Historical event | Europe | Treaty of Verdun divides Carolingian Empire (843 CE) |
+| Historical event | Europe | Mission of Cyril & Methodius to Slavs (863 CE) |
+| Historical event | Europe | Christianization of Bulgaria (864/865 CE) |
+| Historical event | Europe | Oleg establishes Kievan Rus’ center at Kyiv (c. 882 CE) |
+| Historical event | Europe | Magyars settle the Carpathian Basin (c. 895 CE) |
+| Historical event | Europe | Baptism of Kievan Rus’ (988 CE) |
+| Historical event | Europe | Otto I crowned; Holy Roman Empire solidifies (962 CE) |
+| Historical event | Europe | Athelstan forges Kingdom of England (927 CE) |
+| Historical event | Europe | Great Schism (East–West) (1054) |
+| Historical event | Europe | Norman Conquest of England (1066) |
+| Historical event | Europe | Council of Clermont proclaims First Crusade (1095) |
+| Historical event | Europe | University of Bologna takes form (1088) |
+| Historical event | Europe | Reconquista milestone: capture of Toledo (1085) |
+| Historical event | Europe | Domesday Book completed (1086) |
+| Historical event | Europe | University of Paris emerges (c. 1200) |
+| Historical event | Europe | Teutonic Order established (1190) |
+| Historical event | Europe | Fourth Crusade sacks Constantinople (1204) |
+| Historical event | Europe | Magna Carta sealed (1215) |
+| Historical event | Europe | Las Navas de Tolosa (turning point in Iberia) (1212) |
+| Historical event | Europe | Albigensian Crusade begins (1209) |
+| Historical event | Europe | Hanseatic League rises (13th–14th c.) |
+| Historical event | Europe | Model Parliament in England (1295) |
+| Historical event | Europe | Swiss Confederation traditionally founded (1291) |
+| Historical event | Europe | Battle of Bannockburn; Scottish independence surge (1314) |
+| Historical event | Europe | Dante completes the Divine Comedy (c. 1320) |
+| Historical event | Europe | Black Death devastates Europe (1347–1351) |
+| Historical event | Europe | Avignon Papacy (1309–1377) |
+| Historical event | Europe | Great Famine in Europe (1315–1317) |
+| Historical event | Europe | Hundred Years’ War begins (1337) |
+| Historical event | Europe | Joan of Arc lifts siege of Orléans (1429) |
+| Historical event | Europe | Treaty of Brétigny (1360) |
+| Historical event | Europe | Western Schism (1378–1417) |
+| Historical event | Europe | Wycliffe’s Bible & Lollards (c. 1380s) |
+| Historical event | Europe | Jan Hus executed at Council of Constance (1415) |
+| Historical event | Europe | Fall of Constantinople to Ottomans (1453) |
+| Historical event | Europe | Gutenberg’s movable-type printing; Gutenberg Bible (c. 1450s) |
+| Historical event | Europe | Wars of the Roses begin (1455) |
+| Historical event | Europe | Treaty of Lodi stabilizes Italian powers (1454) |
+| Historical event | Europe | Spanish Inquisition established (1478) |
+| Historical event | Europe | Battle of Bosworth Field ends Wars of the Roses (1485) |
+| Historical event | Europe | Alhambra Decree expels Jews from Spain (1492) |
+| Historical event | Europe | Fall of Granada ends Reconquista (1492) |
+| Historical event | Europe | Columbus’s voyage sails from Spain (1492) |
+| Historical event | Europe | Treaty of Tordesillas signed (1494) |
+| Historical event | Europe | Vasco da Gama departs Lisbon toward India (1497) |
+| Historical event | Europe | Leonardo paints The Last Supper (1495–1498) |
+| Historical event | Europe | Bonfire of the Vanities in Florence (1497) |
+| Historical event | Europe | Michelangelo’s David unveiled (1504) |
+| Historical event | Europe | University of Wittenberg founded (1502) |
+| Historical event | Europe | Sistine Chapel ceiling completed (1512) |
+| Historical event | Europe | Luther’s 95 Theses spark Reformation (1517) |
+| Historical event | Europe | Diet of Worms (1521) |
+| Historical event | Europe | German Peasants’ War (1524–1526) |
+| Historical event | Europe | Act of Supremacy; Church of England (1534) |
+| Historical event | Europe | Copernicus’s De revolutionibus (1543) |
+| Historical event | Europe | Council of Trent opens (1545) |
+| Historical event | Europe | Peace of Augsburg (1555) |
+| Historical event | Europe | St. Bartholomew’s Day Massacre (1572) |
+| Historical event | Europe | Union of Lublin; Polish-Lithuanian Commonwealth (1569) |
+| Historical event | Europe | Defeat of the Spanish Armada (1588) |
+| Historical event | Europe | Edict of Nantes (1598) |
+| Historical event | Europe | Dutch Republic declares independence (Act of Abjuration) (1581) |
+| Historical event | Europe | Kepler’s Astronomia nova (1609) |
+| Historical event | Europe | Galileo discovers Jupiter’s moons (1610) |
+| Historical event | Europe | Defenestration of Prague (1618) |
+| Historical event | Europe | Thirty Years’ War (1618–1648) |
+| Historical event | Europe | Peace of Westphalia (1648) |
+| Historical event | Europe | English Civil War (1642–1651) |
+| Historical event | Europe | Union of the Crowns (England–Scotland) (1603) |
+| Historical event | Europe | Dutch East India Company founded (1602) |
+| Historical event | Europe | Accademia dei Lincei founded (1603) |
+| Historical event | Europe | Würzburg & Bamberg witch trials (1626–1631) |
+| Historical event | Europe | Trial of Galileo (1633) |
+| Historical event | Europe | Rembrandt’s The Night Watch (1642) |
+| Historical event | Europe | The Fronde in France (1648–1653) |
+| Historical event | Europe | Glorious Revolution (1688) |
+| Historical event | Europe | English Bill of Rights (1689) |
+| Historical event | Europe | Louis XIV’s Versailles court (from 1682) |
+| Historical event | Europe | Revocation of the Edict of Nantes (1685) |
+| Historical event | Europe | Royal Society founded (1660) |
+| Historical event | Europe | Newton’s Principia (1687) |
+| Historical event | Europe | Battle of Vienna; Ottoman advance checked (1683) |
+| Historical event | Europe | Treaty of Karlowitz (1699) |
+| Historical event | Europe | Bank of England established (1694) |
+| Historical event | Europe | Peter the Great’s westernizing reforms begin (1690s) |
+| Historical event | Europe | Treaty of the Pyrenees (1659) |
+| Historical event | Europe | Monteverdi’s L’Orfeo premieres (1607) |
+| Historical event | Europe | Act of Union creates Great Britain (1707) |
+| Historical event | Europe | War of the Spanish Succession (1701–1714) |
+| Historical event | Europe | Peace of Utrecht (1713) |
+| Historical event | Europe | Founding of Saint Petersburg (1703) |
+| Historical event | Europe | Great Northern War (1700–1721) |
+| Historical event | Europe | Bach’s St Matthew Passion (1727) |
+| Historical event | Europe | Encyclopédie begins publication (1751) |
+| Historical event | Europe | Seven Years’ War (1756–1763) |
+| Historical event | Europe | Lisbon earthquake & Enlightenment rebuilding (1755) |
+| Historical event | Europe | Watt’s steam-engine improvements (1760s–1770s) |
+| Historical event | Europe | Adam Smith’s Wealth of Nations (1776) |
+| Historical event | Europe | Catherine the Great’s reforms (1762–1796) |
+| Historical event | Europe | First partition of Poland (1772) |
+| Historical event | Europe | Second partition of Poland (1793) |
+| Historical event | Europe | Third partition of Poland (1795) |
+| Historical event | Europe | French Revolution begins (1789) |
+| Historical event | Europe | Declaration of the Rights of Man (1789) |
+| Historical event | Europe | Storming of the Bastille (14 July 1789) |
+| Historical event | Europe | Reign of Terror (1793–1794) |
+| Historical event | Europe | Execution of Louis XVI (1793) |
+| Historical event | Europe | Metric system adopted in France (1795) |
+| Historical event | Europe | Mozart’s The Magic Flute (1791) |
+| Historical event | Europe | Haydn’s London Symphonies (1791–1795) |
+| Historical event | Europe | Jenner introduces smallpox vaccination (1796) |
+| Historical event | Europe | Irish Rebellion (1798) |
+| Historical event | Europe | Napoleon crowns himself Emperor (1804) |
+| Historical event | Europe | Napoleonic Code (1804) |
+| Historical event | Europe | Battle of Trafalgar (1805) |
+| Historical event | Europe | Battle of Austerlitz (1805) |
+| Historical event | Europe | Napoleon’s invasion of Russia (1812) |
+| Historical event | Europe | Battle of Leipzig (1813) |
+| Historical event | Europe | Hundred Days & Waterloo (1815) |
+| Historical event | Europe | Congress of Vienna (1814–1815) |
+| Historical event | Europe | Greek War of Independence (1821–1829) |
+| Historical event | Europe | Belgian independence (1830) |
+| Historical event | Europe | Polish November Uprising (1830–1831) |
+| Historical event | Europe | Liverpool–Manchester railway opens (1830) |
+| Historical event | Europe | UK Reform Act expands franchise (1832) |
+| Historical event | Europe | UK Factory Act regulates labor (1833) |
+| Historical event | Europe | Slavery Abolition Act (British Empire) (1833) |
+| Historical event | Europe | First cholera pandemic hits Europe (1831–1832) |
+| Historical event | Europe | Great Irish Famine (1845–1849) |
+| Historical event | Europe | Revolutions of 1848 (1848) |
+| Historical event | Europe | Marx & Engels publish Communist Manifesto (1848) |
+| Historical event | Europe | Frankfurt Parliament convenes (1848–1849) |
+| Historical event | Europe | Hungarian Revolution (1848–1849) |
+| Historical event | Europe | Abolition of serfdom in Austria (1848) |
+| Historical event | Europe | Railway boom transforms Europe (1840s) |
+| Historical event | Europe | Beethoven’s Ninth premieres (1824) |
+| Historical event | Europe | Delacroix paints Liberty Leading the People (1830) |
+| Historical event | Europe | Crimean War (1853–1856) |
+| Historical event | Europe | Darwin’s On the Origin of Species (1859) |
+| Historical event | Europe | Italian unification culminates (1861) |
+| Historical event | Europe | Austro-Prussian War (1866) |
+| Historical event | Europe | Franco-Prussian War (1870–1871) |
+| Historical event | Europe | German Empire proclaimed at Versailles (1871) |
+| Historical event | Europe | Paris Commune (1871) |
+| Historical event | Europe | UK Second Reform Act (1867) |
+| Historical event | Europe | Emancipation of serfs in Russia (1861) |
+| Historical event | Europe | First Vatican Council (1869–1870) |
+| Historical event | Europe | First Impressionist exhibition, Paris (1874) |
+| Historical event | Europe | Pasteur’s rabies vaccine (1885) |
+| Historical event | Europe | Berlin Conference on Africa (1884–1885) |
+| Historical event | Europe | British Labour Party founded (1900) |
+| Historical event | Europe | Dreyfus Affair roils France (1894–1906) |
+| Historical event | Europe | Norway gains independence from Sweden (1905) |
+| Historical event | Europe | Russian Revolution of 1905 (1905) |
+| Historical event | Europe | Einstein’s annus mirabilis papers (1905) |
+| Historical event | Europe | First modern Olympics in Athens (1896) |
+| Historical event | Europe | Tour de France first run (1903) |
+| Historical event | Europe | FIFA founded in Paris (1904) |
+| Historical event | Europe | Women’s suffrage in Finland (1906) |
+| Historical event | Europe | Balkan Wars (1912–1913) |
+| Historical event | Europe | Sinking of the Titanic reverberates in Europe (1912) |
+| Historical event | Europe | Picasso paints Les Demoiselles d’Avignon (1907) |
+| Historical event | Europe | Assassination of Archduke Franz Ferdinand (1914) |
+| Historical event | Europe | World War I (1914–1918) |
+| Historical event | Europe | Russian February Revolution (1917) |
+| Historical event | Europe | Russian October Revolution (1917) |
+| Historical event | Europe | Treaty of Brest-Litovsk (1918) |
+| Historical event | Europe | Treaty of Versailles (1919) |
+| Historical event | Europe | League of Nations founded (1920) |
+| Historical event | Europe | Irish War of Independence / Irish Free State (1919–1922) |
+| Historical event | Europe | Hyperinflation crisis in Weimar Germany (1923) |
+| Historical event | Europe | Mussolini’s March on Rome (1922) |
+| Historical event | Europe | Locarno Treaties (1925) |
+| Historical event | Europe | Stalin consolidates power in USSR (late 1920s) |
+| Historical event | Europe | Great Depression in Europe (from 1929) |
+| Historical event | Europe | Spanish Second Republic proclaimed (1931) |
+| Historical event | Europe | Nazis come to power in Germany (1933) |
+| Historical event | Europe | Night of the Long Knives (1934) |
+| Historical event | Europe | Nuremberg Laws (1935) |
+| Historical event | Europe | Spanish Civil War (1936–1939) |
+| Historical event | Europe | Munich Agreement (1938) |
+| Historical event | Europe | Kristallnacht (1938) |
+| Historical event | Europe | Molotov–Ribbentrop Pact (1939) |
+| Historical event | Europe | Germany invades Poland; WWII in Europe begins (1939) |
+| Historical event | Europe | Battle of Britain (1940) |
+| Historical event | Europe | Operation Barbarossa (1941) |
+| Historical event | Europe | D-Day landings in Normandy (1944) |
+| Historical event | Europe | VE Day—end of WWII in Europe (8 May 1945) |
+| Historical event | Europe | Nuremberg Trials (1945–1946) |
+| Historical event | Europe | Berlin Airlift (1948–1949) |
+| Historical event | Europe | NATO founded (1949) |
+| Historical event | Europe | Treaty of Rome creates the EEC (1957) |
+| Historical event | Europe | Hungarian Uprising (1956) |
+| Historical event | Europe | Berlin Wall constructed (1961) |
+| Historical event | Europe | Second Vatican Council (1962–1965) |
+| Historical event | Europe | Prague Spring & Warsaw Pact invasion (1968) |
+| Historical event | Europe | 1968 student/worker protests across Europe (1968) |
+| Historical event | Europe | UK, Ireland & Denmark join the EEC (1973) |
+| Historical event | Europe | Carnation Revolution in Portugal (1974) |
+| Historical event | Europe | Helsinki Final Act / CSCE (1975) |
+| Historical event | Europe | Spain’s transition to democracy; 1978 Constitution (1975–1978) |
+| Historical event | Europe | Munich Olympics & terrorist attack (1972) |
+| Historical event | Europe | Solidarity movement in Poland (1980–1989) |
+| Historical event | Europe | Chernobyl nuclear disaster (1986) |
+| Historical event | Europe | Single European Act (1986) |
+| Historical event | Europe | Fall of the Berlin Wall (1989) |
+| Historical event | Europe | German reunification (1990) |
+| Historical event | Europe | Maastricht Treaty creates the EU (1992–1993) |
+| Historical event | Europe | Bosnian War & Srebrenica genocide (1992–1995) |
+| Historical event | Europe | Good Friday Agreement (Northern Ireland) (1998) |
+| Historical event | Europe | Euro introduced as cash (2002) |
+| Historical event | Europe | Russia’s full-scale invasion of Ukraine (2022) |

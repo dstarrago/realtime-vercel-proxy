@@ -1,0 +1,30 @@
+// api/ask.ts
+import OpenAI from "openai";
+
+export default async function handler(req: any, res: any) {
+  if (req.method !== "POST") return res.status(405).end();
+  const { question } = await (req.body ? Promise.resolve(req.body) : Promise.resolve({}));
+  if (!question) return res.status(400).json({ error: "Missing question" });
+
+  const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY! });
+  const vectorStoreId = process.env.VECTOR_STORE_ID!;
+  if (!vectorStoreId) return res.status(500).json({ error: "Missing VECTOR_STORE_ID" });
+
+  // Responses API + built-in tool: file_search, scoped to your vector store.
+  const response = await client.responses.create({
+    model: "gpt-4o-mini",
+    input: question,
+    tools: [
+      {
+        type: "file_search",
+        // Some SDKs accept store IDs here…
+        vector_store_ids: [vectorStoreId],
+      },
+    ],
+    // …and others accept tool_resources; keep this as a fallback:
+    tool_resources: { file_search: { vector_store_ids: [vectorStoreId] } },
+  });
+
+  const text = (response as any).output_text ?? JSON.stringify(response);
+  res.status(200).json({ answer: text });
+}

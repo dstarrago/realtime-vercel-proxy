@@ -1,4 +1,4 @@
-// babel.config.js (at the repo root)
+// babel.config.js
 module.exports = function (api) {
   api.cache(true);
   return {

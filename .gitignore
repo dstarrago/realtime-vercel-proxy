@@ -8,6 +8,7 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
+.gradle/
 
 # Native
 .kotlin/
@@ -17,6 +18,9 @@ expo-env.d.ts
 *.p12
 *.key
 *.mobileprovision
+
+# Keystores (EAS manages credentials; don’t commit these)
+*.keystore 
 
 # Metro
 .metro-health-check*
@@ -35,5 +39,12 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Android native build artifacts
+android/.cxx/
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
 
 app-example
